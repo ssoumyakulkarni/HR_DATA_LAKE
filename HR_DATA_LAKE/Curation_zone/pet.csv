@@ -1,0 +1,38 @@
+name,email,phone_no,primary_skills,employee,noOfException,noOfScenario,noOfSqlStr,productivity
+Rajesh,rajesh@mitiweb.com,9845078308,Oracle,False,7,6,19,25.14
+Jaydeep,jaideep233@gmail.com,6000892339,Java,False,7,1,15,46.67
+Mehul raj,mehulsaha@gmail.com,9473228250,Java,True,6,10,31,19.35
+Chetan belagali,Chebel1993@gmail.com,7760156568,Java,False,49,26,120,57.15999999999999
+Rahul cr,rahulcr104@gmail.com,9986980246,Sql,True,4,11,36,11.11
+Venkateshkumar,svenkateshkumar@gmail.com,9566548603,Sql,False,3,10,29,10.34
+Vinayak jadhav,vinayakjadhav423@gmail.com,9535203663,Sql,True,10,11,33,30.3
+Shivam yadav,shivamyy15@gmail.com,9670901819,Sql,False,12,11,37,32.43
+Megh raj rakesh,meghraj.rakesh00@gmail.com,8544144889,Sql,True,25,9,45,55.56
+Malini,hsmalini28@gmail.com,9686746079,Sql,True,15,11,48,31.25
+Renuka,renunm29@gmail.com,7619350250,Sql,True,6,11,24,25.0
+Divayshree,divyasreedijesh@gmail.com,9947996443,Sql,True,4,11,39,10.26
+Ashishraj,ashishraaj@gmail.com,8825323242,Java j2ee,False,4,2,4,100.0
+Monika,monika.sharma6125@gmail.com,7973112325,Sql,True,2,11,13,15.38
+Subramanya,hollasubramanya92@gmail.com,9483802481,Sql,True,8,9,29,27.59
+Sourav,souravsahana95@gmail.com,9113892470,Sql,True,3,11,32,9.38
+Ruchika,ruchi1993chauhan@gmail.com,9821599653,Sql,True,12,10,21,57.14
+Jhanhavi,jhanhaviv325@gmail.com,9738320833,Sql,True,34,12,77,44.16
+Pallavi,desaipallavi11@gmail.com,9620197707,Sql,True,22,11,47,46.81
+Sofiya m,msofiya88@gmail.com,9441266520,Sql,True,5,11,38,13.16
+Krishna prashanth,krishnaprasanthram333@gmail.com,9566995636,Sql,True,13,10,37,35.14
+Hemalatha,hamasundar4999@gmail.com,8270320705,Sql,False,17,8,59,28.81
+Pragya,pragyanpari.patro@gmail.com,8249524794,Sql,True,9,11,42,21.43
+Jaydeep,jaydeeptomal@hotmail.com,6000892339,Java,False,21,18,55,39.305
+M  r vishwanath,vishwanath.mr@gmail.com,9886673178,Sql,True,87,18,139,49.09
+Soumya kulkarni,soumya.kulkarni@aroha.co.in,8095964708,D3 js,True,27,11,52,75.49
+Manjunath va,manjunath.va@aroha.co.in,8861694490,Angular,True,5,10,17,29.41
+Manasa,manasa.rangaswamy@aroha.co.in,9844623145,Ui,True,10,10,21,47.62
+Test user,testmail@gmail.com,9889989898,Sql,False,5,3,5,100.0
+Arun c,arunc@aroha.co.in,8792424801,React,True,6,19,41,13.370000000000001
+Pratibha,pratibha.godekar@aroha.co.in,7348896898,React native,True,19,16,36,58.335
+Venkat reddy,venkat.reddy@aroha.co.in,8790010929,Php,True,3,2,4,75.0
+Anantha madhava,anantha.madhava@aroha.co.in,9740544464,React,True,1,10,13,7.69
+Ashish,ashishraj8899@gmail.com,8825323242,Java,False,17,10,34,50.0
+Shailendra kumar,shailendra.kumar@aroha.co.in,7031113604,Sql,True,10,10,26,38.46
+Testtest,testmail12@gmail.com,9859384948,Sql,False,0,3,5,0.0
+Tester,test@gmail.com,9850175787,Sql,False,6,9,21,15.0

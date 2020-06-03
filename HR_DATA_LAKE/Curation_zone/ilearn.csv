@@ -1,0 +1,147 @@
+first_name,last_name,email,course,employee,duration
+Surabhi,Paul,surabhi@gmail.com,Business Objects,False,4
+Surabhi,Paul,surabhi@gmail.com,Desktop Intelligence,False,18000
+Surabhi,Paul,surabhi@gmail.com,Crystal Reports,False,5
+Surabhi,Paul,surabhi@gmail.com,SSIS,False,35
+Pratibha,Godekar,pratibhagodekar123@gmail.com,RDBMS,False,530
+Ajit,G,ajitaj7777@gmail.com,Oracle SQL,False,88
+Ajit,G,ajitaj7777@gmail.com,RDBMS,False,1583
+Madhu,C T,madhusreddy.ct@gmail.com,RDBMS,False,2658
+Madhu,C T,madhusreddy.ct@gmail.com,Microsoft SQL Server,False,18
+Madhu,C T,madhusreddy.ct@gmail.com,Data Warehouse Concepts,False,285
+Madhu,C T,madhusreddy.ct@gmail.com,Oracle SQL,False,1350
+sonali,pradhan,pradhans900@gmail.com,RDBMS,True,3730
+hema,Sundar,hemasundar4999@gmail.com,Data Warehouse Concepts,True,2271
+dhanya,v g,dhanyasreesailam@gmail.com,RDBMS,True,600
+dhanya,v g,dhanyasreesailam@gmail.com,Oracle SQL,True,10447
+vishwanath,M R,vishwanath.mr@aroha.com,Data Warehouse Concepts,False,10
+vishwanath,M R,vishwanath.mr@aroha.com,Oracle SQL,False,23
+vishwanath,M R,vishwanath.mr@aroha.com,Power BI,False,7
+Ashish,Raj,araj38334@gmail.com,Business Objects,False,55
+Ashish,Raj,araj38334@gmail.com,Power BI,False,14
+Mehul,Raj,mehulsaha@gmail.com,Tableau,True,10
+Mehul,Raj,mehulsaha@gmail.com,SDLC,True,7
+Manjunath,V A,manjunath.va@aroha.co.in,SDLC,True,23
+Manjunath,V A,manjunath.va@aroha.co.in,RDBMS,True,3
+Deepika,Mishra,deepikamis9@gmail.com,Desktop Intelligence,True,23
+Pratibha,Godekar,pratibhagodekar123@gmail.com,Desktop Intelligence,False,25
+rajesh,kumar,rajesh@aroha.co.in,SSRS,True,5
+vishwanath,M R,vishwanath.mr@aroha.com,RDBMS,False,2
+Ashish,Raj,araj38334@gmail.com,Data Warehouse Concepts,False,19
+Jaydeep,Acharjee,jaideep233@gmail.com,RDBMS,False,61
+suhasini,metri,suhasini.m1990@gmail.com,RDBMS,False,8657
+suhasini,metri,suhasini.m1990@gmail.com,Data Warehouse Concepts,False,5565
+suhasini,metri,suhasini.m1990@gmail.com,Informatica,False,1121
+Jaydeep,Acharjee,jaideep233@gmail.com,Oralce PL/SQL,False,43
+nandini,patil,nandinipatilm88@gmail.com,Business Objects,False,136
+Archana,B,archana.b1196@gmail.com,Data Warehouse Concepts,False,374
+Rachin,Pant,rachin.pant@gmail.com,RDBMS,True,12022
+Rachin,Pant,rachin.pant@gmail.com,Business Objects,True,1910
+Anita,panda,pandaanita98@gmail.com,RDBMS,False,79
+dipti ranjan,panigrahy,drp.montu@gmail.com,RDBMS,False,19142
+AK joshi,joshi,anilkumarameta02@gmail.com,Desktop Intelligence,False,11
+nandini,patil,nandinipatilm88@gmail.com,RDBMS,False,11657
+AK joshi,joshi,anilkumarameta02@gmail.com,Microsoft SQL Server,False,3
+Archana,B,archana.b1196@gmail.com,RDBMS,False,10201
+Archana,B,archana.b1196@gmail.com,Oracle SQL,False,2817
+Archana,B,archana.b1196@gmail.com,Microsoft SQL Server,False,1048
+Archana,B,archana.b1196@gmail.com,SSIS,False,78
+suhasini,metri,suhasini.m1990@gmail.com,Oracle SQL,False,278
+suhasini,metri,suhasini.m1990@gmail.com,SDLC,False,14
+suhasini,metri,suhasini.m1990@gmail.com,Power BI,False,540
+Rachin,Pant,rachin.pant@gmail.com,SSIS,True,201
+Rachin,Pant,rachin.pant@gmail.com,Microsoft SQL Server,True,81
+Arpitha,K,arpitha.a.k.77@gmail.com,RDBMS,False,14040
+Kavitha,Nayak,kavitha.n@aroha.co.in,SSIS,True,26
+Kavitha,Nayak,kavitha.n@aroha.co.in,SSRS,True,15
+soumya,Kulkarni,soumya.kulkarni@aroha.co.in,RDBMS,True,407
+Arpitha,K,arpitha.a.k.77@gmail.com,Oracle SQL,False,17998
+Kavitha,Nayak,kavitha.n@aroha.co.in,Oracle SQL,True,3248
+Rachin,Pant,rachin.pant@gmail.com,SSRS,True,136
+Shailendra,Kumar,shailendra.kumar@aroha.co.in,RDBMS,True,2309
+Mehul,Raj,mehulsaha@gmail.com,RDBMS,True,1492
+SUMA,B NUNNA,sumanunna22@gmail.com,Microsoft SQL Server,True,31
+SUMA,B NUNNA,sumanunna22@gmail.com,Power BI,True,11
+Rachin,Pant,rachin.pant@gmail.com,Oracle SQL,True,7215
+nandini,patil,nandinipatilm88@gmail.com,Oracle SQL,False,50413
+Suma,H,suma.h1990@gmail.com,Microsoft SQL Server,False,3
+Shruthi,Dinesh,shruthimys@gmail.com,RDBMS,True,27
+Bandappa,Basavaraj,bandappa@aroha.co.in,RDBMS,True,2103
+Nadella,Naveen kumar,nadellanaveenkumar16@gmail.com,RDBMS,True,13092
+Shridhar,Bhardwaj,shridharbhardwaj@gmail.com,RDBMS,False,12419
+hemanth,dr,drhemanth05@gmail.com,SSIS,True,11
+ilavarasu,s,ilavarasu43@gmail.com,RDBMS,False,11568
+Shailendra,Yadav,shailendran70@gmail.com,RDBMS,False,7379
+mahendran,N,mahendranviji333@gmail.com,RDBMS,False,12753
+Grace,Rubila,ruby23aroha@gmail.com,RDBMS,False,11190
+Chaithra,T K,chaithra1695@gmail.com,RDBMS,False,12359
+KATAKAM,MADHURI,madhurichinni@gmail.com,RDBMS,False,6837
+Arun,Kumar,msarunkumar30@gmail.com,RDBMS,False,20173
+mahendran,N,mahendranviji333@gmail.com,Business Objects,False,79
+Pooja,singh,ps1381606@gmail.com,RDBMS,False,3397
+mahendran,N,mahendranviji333@gmail.com,Oracle SQL,False,18200
+siddesh,bagali,siddeshbagali13@gmail.com,RDBMS,False,17077
+Naveen,kumar,nkasnaveenkumar@gmail.com,RDBMS,True,12281
+siddesh,bagali,siddeshbagali13@gmail.com,Oracle SQL,False,23007
+ilavarasu,s,ilavarasu43@gmail.com,Oracle SQL,False,9094
+KATAKAM,MADHURI,madhurichinni@gmail.com,Oracle SQL,False,5091
+Shailendra,Yadav,shailendran70@gmail.com,Oracle SQL,False,1977
+Arun,Kumar,msarunkumar30@gmail.com,Oracle SQL,False,6513
+Nadella,Naveen kumar,nadellanaveenkumar16@gmail.com,Oracle SQL,True,10442
+Shridhar,Bhardwaj,shridharbhardwaj@gmail.com,Oracle SQL,False,5273
+hemanth,aroha,hemanthraj2009@gmail.com,RDBMS,True,181
+SM,Mustafa,mustafa.sm@aroha.co.in,RDBMS,True,122
+venkat,reddy,vnr.tumu@gmail.com,RDBMS,False,867
+hemanth,aroha,hemanthraj2009@gmail.com,Microsoft SQL Server,True,23
+Chaithra,T K,chaithra1695@gmail.com,Oracle SQL,False,3877
+Pooja,singh,ps1381606@gmail.com,Oracle SQL,False,4099
+Pooja,singh,ps1381606@gmail.com,Oralce PL/SQL,False,12
+Naveen,kumar,nkasnaveenkumar@gmail.com,Oracle SQL,True,8232
+Ajit,G,ajitaj7777@gmail.com,Microsoft SQL Server,False,13
+Deepika,Mishra,deepikamis9@gmail.com,Tableau,True,2
+dilraj,meena,roshanraj1035@gmail.com,Business Objects,False,19
+Rachin,Pant,rachin.pant@gmail.com,Tableau,True,1
+Rachin,Pant,rachin.pant@gmail.com,SDLC,True,5
+Chetan,Belagali,chebel1993@gmail.com,RDBMS,True,26
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,RDBMS,True,1039
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,Business Objects,True,28
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,Data Warehouse Concepts,True,41
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,Micro Strategy,True,52
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,SSIS,True,114
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,Desktop Intelligence,True,9
+Rachin,Pant,rachin.pant@gmail.com,Oralce PL/SQL,True,2836
+SUMA,B NUNNA,sumanunna22@gmail.com,RDBMS,True,6
+Ambadas,N,anmuchalambe@gmail.com,Microsoft SQL Server,False,11
+Ambadas,N,anmuchalambe@gmail.com,Data Warehouse Concepts,False,815
+Ambadas,N,anmuchalambe@gmail.com,SDLC,False,54
+Ambadas,N,anmuchalambe@gmail.com,Tableau,False,19
+Ambadas,N,anmuchalambe@gmail.com,Power BI,False,4
+Manak,Gupta,manak14gupta@gmail.com,RDBMS,False,107
+akanksha,kumbhaj,aki05.july@gmail.com,RDBMS,False,8918
+Hari,Priya,hariprincy06@gmail.com,RDBMS,False,3513
+Shivaraj,Akkivat,akkishivaraj303@gmail.com,RDBMS,False,4008
+Nidhi,Murthy,nidhimurthy1208@gmail.com,RDBMS,False,2009
+Ajit,aj,ajitaj7777@gmail.com,RDBMS,False,32899
+Shivaraj,Akkivat,akkishivaraj303@gmail.com,Microsoft SQL Server,False,16
+Shailendra,Yadav,shailendran70@gmail.com,Oralce PL/SQL,False,300
+Manak,Gupta,manak14gupta@gmail.com,Microsoft SQL Server,False,14
+Arun,Kumar,msarunkumar30@gmail.com,Oralce PL/SQL,False,121
+Chaithra,T K,chaithra1695@gmail.com,Oralce PL/SQL,False,6223
+Dhari,Thakar,dharithakar@gmail.com,Microsoft SQL Server,False,21
+siddesh,bagali,siddeshbagali13@gmail.com,Oralce PL/SQL,False,13400
+siddesh,bagali,siddeshbagali13@gmail.com,Power BI,False,27
+siddesh,bagali,siddeshbagali13@gmail.com,Tableau,False,17
+Rachin,Pant,rachin.pant@gmail.com,Data Warehouse Concepts,True,25
+KATAKAM,MADHURI,madhurichinni@gmail.com,Oralce PL/SQL,False,339
+Hari,Priya,hariprincy06@gmail.com,Data Warehouse Concepts,False,92
+mahendran,N,mahendranviji333@gmail.com,Data Warehouse Concepts,False,20
+Manak,Gupta,manak14gupta@gmail.com,Data Warehouse Concepts,False,165
+Dhari,Thakar,dharithakar@gmail.com,SDLC,False,243
+Dhari,Thakar,dharithakar@gmail.com,Business Objects,False,492
+rajesh,kumar,rajesh@aroha.co.in,Data Warehouse Concepts,True,134
+Shivaraj,Akkivat,akkishivaraj303@gmail.com,Data Warehouse Concepts,False,4006
+Ajit,aj,ajitaj7777@gmail.com,Data Warehouse Concepts,False,461
+Ajit,aj,ajitaj7777@gmail.com,Oracle SQL,False,126
+ranjeet,chaurasiya,Chaurasiyaranjeet014@gmail.com,Desktop Intelligence,False,12
+Hari,Priya,hariprincy06@gmail.com,SDLC,False,23
+vinayak,jadhav,vinayakjadhav423@gmail.com,Microsoft SQL Server,True,6

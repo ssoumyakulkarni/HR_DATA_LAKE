@@ -1,0 +1,1583 @@
+username,email,first_name,last_name,course,chapter,duration,created_at
+,surabhi@gmail.com,Surabhi,Paul,Business Objects,Components of BO,4,2019-12-30 11:51:44
+,surabhi@gmail.com,Surabhi,Paul,Desktop Intelligence,Introduction to Desktop Intelligence,3600,2019-12-30 11:56:03
+,surabhi@gmail.com,Surabhi,Paul,Desktop Intelligence,Introduction to Desktop Intelligence,3600,2019-12-30 11:57:19
+,surabhi@gmail.com,Surabhi,Paul,Desktop Intelligence,Difference between operational reporting and BO reporting,3600,2019-12-30 11:57:32
+,surabhi@gmail.com,Surabhi,Paul,Crystal Reports,Designing a Basic Report Layout & Presentation,5,2019-12-30 12:05:30
+,surabhi@gmail.com,Surabhi,Paul,SSIS,Performing Basic Tasks,26,2019-12-31 05:57:11
+,surabhi@gmail.com,Surabhi,Paul,SSIS,Variables,9,2019-12-31 05:58:42
+,surabhi@gmail.com,Surabhi,Paul,Desktop Intelligence,Difference between operational reporting and BO reporting,3600,2019-12-31 06:00:12
+,surabhi@gmail.com,Surabhi,Paul,Desktop Intelligence,Expectation from you,3600,2019-12-31 06:00:45
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,RDBMS,Introduction,16,2020-01-06 09:09:55
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,RDBMS,Introduction,2,2020-01-06 09:10:11
+,ajitaj7777@gmail.com,Ajit,G,Oracle SQL,Select Outer join,43,2020-01-07 08:58:29
+,ajitaj7777@gmail.com,Ajit,G,RDBMS,What is Data? ,32,2020-01-07 08:59:31
+,ajitaj7777@gmail.com,Ajit,G,RDBMS,Entities,185,2020-01-07 09:12:28
+,ajitaj7777@gmail.com,Ajit,G,RDBMS,Visualizing Retail Business,23,2020-01-07 09:12:54
+,ajitaj7777@gmail.com,Ajit,G,RDBMS,Databases,218,2020-01-07 09:16:48
+,ajitaj7777@gmail.com,Ajit,G,RDBMS,Types of Databases,837,2020-01-07 09:30:50
+,ajitaj7777@gmail.com,Ajit,G,RDBMS,Relational DBMS,9,2020-01-07 09:31:01
+,ajitaj7777@gmail.com,Ajit,G,RDBMS,RDBMS Products in the market,252,2020-01-07 09:35:21
+,ajitaj7777@gmail.com,Ajit,G,RDBMS,Three types of Relationships,15,2020-01-07 09:35:54
+,ajitaj7777@gmail.com,Ajit,G,RDBMS,Three types of Relationships,12,2020-01-07 09:36:08
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,RDBMS,Entities and Relationships-Example,5,2020-01-07 13:40:28
+,ajitaj7777@gmail.com,Ajit,G,Oracle SQL,Select Full Outer Join,45,2020-01-08 11:12:37
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Expectation from you,17,2020-01-13 09:29:54
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Representing relationship in Logical and Physical Model,9,2020-01-13 09:31:10
+,madhusreddy.ct@gmail.com,Madhu,C T,Microsoft SQL Server,Welcome,4,2020-01-13 09:31:50
+,madhusreddy.ct@gmail.com,Madhu,C T,Data Warehouse Concepts,Differences Between OLTP And DW,9,2020-01-13 09:32:10
+,madhusreddy.ct@gmail.com,Madhu,C T,Data Warehouse Concepts,Data Modeling in DW systems,17,2020-01-13 09:32:37
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Introduction,693,2020-01-13 12:20:09
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Expectation from you,457,2020-01-13 12:27:56
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,What is Data? ,135,2020-01-13 12:30:15
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Entities,233,2020-01-13 12:34:12
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Expectation from you,2,2020-01-13 12:34:15
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Visualizing Retail Business,115,2020-01-13 12:36:14
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Databases,265,2020-01-13 12:40:45
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Types of Databases,293,2020-01-13 12:45:45
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Relational DBMS,9,2020-01-13 12:46:12
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,RDBMS Products in the market,173,2020-01-13 12:49:14
+,madhusreddy.ct@gmail.com,Madhu,C T,RDBMS,Entities and Relationships-Example,257,2020-01-13 12:53:46
+,madhusreddy.ct@gmail.com,Madhu,C T,Microsoft SQL Server,Welcome,11,2020-01-13 13:01:05
+,madhusreddy.ct@gmail.com,Madhu,C T,Microsoft SQL Server,Welcome,3,2020-01-13 13:01:09
+,madhusreddy.ct@gmail.com,Madhu,C T,Data Warehouse Concepts,Differences Between OLTP And DW,82,2020-01-13 13:02:42
+,madhusreddy.ct@gmail.com,Madhu,C T,Data Warehouse Concepts,Different approaches to build DW,58,2020-01-13 13:03:49
+,madhusreddy.ct@gmail.com,Madhu,C T,Data Warehouse Concepts,Extract scenarios in ETL Layer,2,2020-01-13 13:03:53
+,madhusreddy.ct@gmail.com,Madhu,C T,Data Warehouse Concepts,Difference between 3rd NF and Dimensional Modeling,92,2020-01-13 13:05:37
+,madhusreddy.ct@gmail.com,Madhu,C T,Data Warehouse Concepts,DW Fact table,25,2020-01-13 13:06:07
+,madhusreddy.ct@gmail.com,Madhu,C T,Oracle SQL,Select Simple Join PartII,102,2020-01-13 13:10:41
+,madhusreddy.ct@gmail.com,Madhu,C T,Oracle SQL,SQL Simple Join,704,2020-01-13 13:22:27
+,madhusreddy.ct@gmail.com,Madhu,C T,Oracle SQL,Select Simple Join PartII,544,2020-01-13 13:31:35
+,pradhans900@gmail.com,sonali,pradhan,RDBMS,Introduction,710,2020-01-15 07:20:52
+,pradhans900@gmail.com,sonali,pradhan,RDBMS,Entities,126,2020-01-15 07:23:02
+,pradhans900@gmail.com,sonali,pradhan,RDBMS,Entities,71,2020-01-15 07:24:16
+,pradhans900@gmail.com,sonali,pradhan,RDBMS,Entities,2303,2020-01-15 08:22:03
+,hemasundar4999@gmail.com,hema,Sundar,Data Warehouse Concepts,Introduction to DW,605,2020-01-15 16:58:50
+,hemasundar4999@gmail.com,hema,Sundar,Data Warehouse Concepts,Differences Between OLTP And DW,733,2020-01-15 17:11:08
+,hemasundar4999@gmail.com,hema,Sundar,Data Warehouse Concepts,DW Architecture,166,2020-01-15 17:13:57
+,hemasundar4999@gmail.com,hema,Sundar,Data Warehouse Concepts,DW Architecture,9,2020-01-15 17:14:09
+,hemasundar4999@gmail.com,hema,Sundar,Data Warehouse Concepts,Definition of DW Part One,758,2020-01-15 17:26:51
+,dhanyasreesailam@gmail.com,dhanya,v g,RDBMS,Entities,182,2020-01-16 00:34:35
+,dhanyasreesailam@gmail.com,dhanya,v g,RDBMS,What is a transaction?,307,2020-01-16 00:40:00
+,dhanyasreesailam@gmail.com,dhanya,v g,RDBMS,Next Steps,111,2020-01-16 00:41:58
+,dhanyasreesailam@gmail.com,dhanya,v g,Oracle SQL,Select Simple Join three tables,799,2020-01-16 00:55:52
+,dhanyasreesailam@gmail.com,dhanya,v g,Oracle SQL,Select Simple Join three tables,101,2020-01-16 00:57:42
+,dhanyasreesailam@gmail.com,dhanya,v g,Oracle SQL,Select Full Outer Join,9547,2020-01-16 03:36:58
+,vishwanath.mr@aroha.com,vishwanath,M R,Data Warehouse Concepts,DW Architecture,10,2020-01-16 08:35:16
+,vishwanath.mr@aroha.com,vishwanath,M R,Oracle SQL,SQL_Class_expectation,23,2020-01-16 08:35:49
+,vishwanath.mr@aroha.com,vishwanath,M R,Power BI,Introduction to Power BI - Summary,7,2020-01-16 08:36:35
+,araj38334@gmail.com,Ashish,Raj,Business Objects,Introduction to Business Objects,38,2020-01-16 08:49:21
+,araj38334@gmail.com,Ashish,Raj,Business Objects,Fan Trap,17,2020-01-16 08:49:42
+,araj38334@gmail.com,Ashish,Raj,Power BI,Introduction to Power BI,14,2020-01-16 08:50:09
+,mehulsaha@gmail.com,Mehul,Raj,Tableau,Getting Started,10,2020-01-16 09:16:29
+,mehulsaha@gmail.com,Mehul,Raj,SDLC,Part-1,5,2020-01-16 09:17:03
+,manjunath.va@aroha.co.in,Manjunath,V A,SDLC,Part-1,23,2020-01-16 09:17:36
+,manjunath.va@aroha.co.in,Manjunath,V A,RDBMS,Next Steps,3,2020-01-16 09:17:56
+,deepikamis9@gmail.com,Deepika,Mishra,Desktop Intelligence,Difference between operational reporting and BO reporting,23,2020-01-16 12:23:10
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,Desktop Intelligence,Difference between operational reporting and BO reporting,17,2020-01-18 17:06:05
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,Desktop Intelligence,Difference between operational reporting and BO reporting,6,2020-01-18 17:06:13
+,rajesh@aroha.co.in,rajesh,kumar,SSRS,Adding Code to Reports,5,2020-01-21 02:01:27
+,vishwanath.mr@aroha.com,vishwanath,M R,RDBMS,What is Data? ,2,2020-01-21 10:28:03
+,araj38334@gmail.com,Ashish,Raj,Data Warehouse Concepts,Before you learn DW,19,2020-01-22 06:41:55
+,jaideep233@gmail.com,Jaydeep,Acharjee,RDBMS,Introduction,4,2020-01-22 07:11:15
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,What is Data? ,12,2020-01-22 13:10:58
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,Visualizing Data,39,2020-01-22 13:37:04
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,Visualizing Data,39,2020-01-22 13:37:05
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,Introduction,668,2020-01-22 16:59:05
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,Expectation from you,196,2020-01-22 17:02:27
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,What is Data? ,271,2020-01-22 17:07:02
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,Entities,54,2020-01-22 17:07:59
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,Visualizing Retail Business,6,2020-01-22 17:08:11
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,Databases,247,2020-01-22 17:12:23
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,Types of Databases,3137,2020-01-23 06:34:52
+,pradhans900@gmail.com,sonali,pradhan,RDBMS,Introduction,520,2020-01-24 03:15:02
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,Desktop Intelligence,Introduction to Dimensional Modeling,2,2020-01-24 08:50:42
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,What is a transaction?,61,2020-01-24 15:17:27
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,ACID property,3313,2020-01-24 16:12:46
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,ACID property,423,2020-01-24 16:19:55
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,Conceptual Model,1,2020-01-24 16:19:56
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,EF Codd's Rules,20,2020-01-24 16:20:22
+,suhasini.m1990@gmail.com,suhasini,metri,RDBMS,EF Codd's Rules,170,2020-01-24 16:23:22
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Introduction to DW,97,2020-01-24 16:25:13
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Definition of DW Part One,52,2020-01-24 16:26:09
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Extract process in ETL Layer,119,2020-01-24 16:28:22
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Different transformations in ETL,1610,2020-01-24 16:55:19
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Different transformations in ETL,37,2020-01-24 16:56:01
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Different transformations in ETL,16,2020-01-24 16:57:00
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Loading process in ETL Layer,257,2020-01-24 17:01:25
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Data Modeling in DW systems,268,2020-01-24 17:05:57
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Difference between 3rd NF and Dimensional Modeling,309,2020-01-24 17:11:09
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Introduction to Dimensional Modeling,443,2020-01-24 17:19:02
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Slowly Changing Dimension - SCD1,1,2020-01-24 17:19:07
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Star and Snowflake schemas,112,2020-01-24 17:21:03
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Slowly Changing Dimension - SCD1,331,2020-01-24 17:26:46
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Slowly Changing Dimension - SCD2,634,2020-01-24 17:37:23
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Data Granularity,411,2020-01-25 05:56:07
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,DW Fact table,27,2020-01-25 05:56:42
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,DW Fact table,27,2020-01-25 05:56:47
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Differences Between OLTP And DW,757,2020-01-25 06:09:31
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,DW Architecture,18,2020-01-25 06:09:51
+,suhasini.m1990@gmail.com,suhasini,metri,Informatica,Introduction to informatica ,49,2020-01-25 06:11:54
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Introduction to DW,5,2020-01-25 06:12:09
+,suhasini.m1990@gmail.com,suhasini,metri,Informatica,Introduction to informatica ,788,2020-01-25 06:25:29
+,suhasini.m1990@gmail.com,suhasini,metri,Informatica,Source Qualifier Transformation ,1,2020-01-25 06:25:32
+,suhasini.m1990@gmail.com,suhasini,metri,Informatica,Architecture of Informatica ,283,2020-01-25 06:30:17
+,jaideep233@gmail.com,Jaydeep,Acharjee,RDBMS,Introduction,18,2020-01-25 14:31:18
+,jaideep233@gmail.com,Jaydeep,Acharjee,RDBMS,"Primary Key, Foreign Key",38,2020-01-25 14:32:03
+,jaideep233@gmail.com,Jaydeep,Acharjee,Oralce PL/SQL,Introduction to PL SQL,43,2020-01-25 14:32:57
+,jaideep233@gmail.com,Jaydeep,Acharjee,RDBMS,Next Steps,1,2020-01-25 14:33:29
+,suhasini.m1990@gmail.com,suhasini,metri,Data Warehouse Concepts,Transformation process in ETL Layer,34,2020-01-28 09:26:08
+,nandinipatilm88@gmail.com,nandini,patil,Business Objects,Introduction to Business Objects,27,2020-01-30 07:44:09
+,archana.b1196@gmail.com,Archana,B,Data Warehouse Concepts,Before you learn DW,62,2020-01-30 07:44:17
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Next Steps,3,2020-01-30 07:44:58
+,rachin.pant@gmail.com,Rachin,Pant,Business Objects,Introduction to Business Objects,27,2020-01-30 07:45:32
+,pandaanita98@gmail.com,Anita,panda,RDBMS,Introduction,39,2020-01-30 07:49:20
+,pandaanita98@gmail.com,Anita,panda,RDBMS,Introduction,40,2020-01-30 07:50:51
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Introduction,51,2020-01-30 07:52:11
+,anilkumarameta02@gmail.com,AK joshi,joshi,Desktop Intelligence,Difference between operational reporting and BO reporting,11,2020-01-30 09:04:29
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Introduction,1442,2020-01-30 14:26:44
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Expectation from you,2380,2020-01-30 15:06:45
+,nandinipatilm88@gmail.com,nandini,patil,Business Objects,Introduction to Business Objects,51,2020-01-30 15:12:23
+,nandinipatilm88@gmail.com,nandini,patil,Business Objects,Introduction to Business Objects,51,2020-01-30 15:12:25
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Introduction,706,2020-01-30 15:47:24
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Expectation from you,1548,2020-01-30 16:13:17
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Expectation from you,911,2020-01-30 16:28:30
+,anilkumarameta02@gmail.com,AK joshi,joshi,Microsoft SQL Server,Welcome,3,2020-01-30 16:54:33
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Introduction,72,2020-01-30 17:37:17
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Introduction,612,2020-01-31 01:26:05
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Expectation from you,911,2020-01-31 01:41:18
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,What is Data? ,291,2020-01-31 01:49:16
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Entities,5,2020-01-31 01:49:28
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Entities,443,2020-01-31 01:58:57
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Visualizing Retail Business,753,2020-01-31 02:11:34
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Visualizing Retail Business,17,2020-01-31 02:12:08
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,ACID property,18,2020-01-31 02:12:54
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Next Steps,10,2020-01-31 02:13:11
+,archana.b1196@gmail.com,Archana,B,RDBMS,Introduction,688,2020-01-31 03:27:48
+,archana.b1196@gmail.com,Archana,B,RDBMS,Expectation from you,460,2020-01-31 03:35:31
+,nandinipatilm88@gmail.com,nandini,patil,Business Objects,Introduction to Business Objects,7,2020-01-31 03:40:40
+,archana.b1196@gmail.com,Archana,B,RDBMS,What is Data? ,395,2020-01-31 03:42:12
+,archana.b1196@gmail.com,Archana,B,RDBMS,Entities,920,2020-01-31 03:57:36
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,What is Data? ,6,2020-01-31 17:26:39
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,What is Data? ,5,2020-01-31 17:36:45
+,archana.b1196@gmail.com,Archana,B,Oracle SQL,Writing Simple select Statements...,22,2020-01-31 17:50:39
+,archana.b1196@gmail.com,Archana,B,RDBMS,Query parameters,2,2020-01-31 17:52:05
+,archana.b1196@gmail.com,Archana,B,RDBMS,Create calculated columns,8,2020-01-31 17:52:10
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Expectation from you,1147,2020-02-01 05:25:29
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,What is Data? ,369,2020-02-01 05:35:26
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,What is Data? ,655,2020-02-01 05:36:28
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Entities,257,2020-02-01 05:39:45
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Visualizing Retail Business,9,2020-02-01 05:39:57
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Entities,294,2020-02-01 05:49:56
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Visualizing Retail Business,582,2020-02-01 05:50:06
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Databases,436,2020-02-01 05:57:25
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,RDBMS Products in the market,464,2020-02-01 06:05:13
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Types of Databases,283,2020-02-01 06:10:19
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Visualizing Retail Business,89,2020-02-01 06:16:45
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Databases,9,2020-02-01 06:17:13
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Relational DBMS,706,2020-02-01 06:22:10
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Three types of Relationships,7,2020-02-01 06:22:23
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Three types of Relationships,30,2020-02-01 06:22:56
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Three types of Relationships,21,2020-02-01 06:23:21
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Databases,428,2020-02-01 06:24:26
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Entities and Relationships-Example,68,2020-02-01 06:24:38
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Visualizing Data,4,2020-02-01 06:24:47
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Visualizing Data,193,2020-02-01 06:28:09
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,"Primary Key, Foreign Key",3,2020-02-01 06:36:31
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,"Primary Key, Foreign Key",57,2020-02-01 06:37:30
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,EF Codd's Rules,403,2020-02-01 06:44:35
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,What is a transaction?,154,2020-02-01 06:47:10
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Representing relationship in Logical and Physical Model,2,2020-02-01 06:47:18
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Types of Databases,228,2020-02-01 06:51:29
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Relational DBMS,10,2020-02-01 06:51:58
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,ACID property,2,2020-02-01 06:54:26
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,ACID property,351,2020-02-01 07:00:20
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Relational DBMS,585,2020-02-01 07:02:54
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,RDBMS Products in the market,473,2020-02-01 07:11:08
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Three types of Relationships,28,2020-02-01 07:11:52
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Three types of Relationships,15,2020-02-01 07:12:11
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Conceptual Model,753,2020-02-01 07:12:57
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Entities and Relationships-Example,1,2020-02-01 07:31:31
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,ACID property,2,2020-02-01 07:39:44
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,"Primary Key, Foreign Key",679,2020-02-01 07:51:16
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Next Steps,22,2020-02-01 07:51:38
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Sample-Conceptual Model,7,2020-02-01 08:18:13
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Entities,11,2020-02-01 08:19:58
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Entities,6,2020-02-01 08:20:18
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Tables in RDBMS,683,2020-02-01 08:31:48
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Entities,479,2020-02-01 08:40:18
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Visualizing Retail Business,2,2020-02-01 10:30:55
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Visualizing Retail Business,4,2020-02-01 10:40:18
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Visualizing Retail Business,691,2020-02-01 11:00:21
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Databases,449,2020-02-01 11:08:49
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Visualizing Data,3,2020-02-01 11:08:55
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Types of Databases,798,2020-02-01 11:22:19
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Relational DBMS,768,2020-02-01 11:40:42
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Visualizing Retail Business,4,2020-02-01 11:43:49
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,RDBMS Products in the market,416,2020-02-01 11:57:24
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Three types of Relationships,17,2020-02-01 11:58:03
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Three types of Relationships,15,2020-02-01 11:58:20
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Three types of Relationships,19,2020-02-01 11:58:50
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Three types of Relationships,16,2020-02-01 11:59:46
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Entities and Relationships-Example,14,2020-02-01 12:00:10
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Types of Databases,1,2020-02-01 12:50:01
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Entities and Relationships-Example,528,2020-02-01 13:05:40
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Visualizing Data,692,2020-02-01 13:21:42
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Entities and Relationships-Example,877,2020-02-02 06:14:15
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Entities and Relationships-Example,300,2020-02-02 06:25:09
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Visualizing Data,31,2020-02-02 06:25:50
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Entities and Relationships-Example,312,2020-02-02 06:31:07
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Entities and Relationships-Example,139,2020-02-02 06:33:32
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Visualizing Data,14,2020-02-02 06:35:09
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Entities and Relationships-Example,119,2020-02-02 06:37:29
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Visualizing Data,522,2020-02-02 06:55:24
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Tables in RDBMS,974,2020-02-02 07:11:45
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Tables in RDBMS,329,2020-02-02 07:21:08
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Tables in RDBMS,7,2020-02-02 07:22:29
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,"Primary Key, Foreign Key",684,2020-02-02 07:33:58
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,EF Codd's Rules,414,2020-02-02 07:46:39
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,EF Codd's Rules,87,2020-02-02 08:45:39
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,EF Codd's Rules,107,2020-02-02 08:47:31
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,What is a transaction?,383,2020-02-02 08:55:02
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Next Steps,23,2020-02-02 08:55:35
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,EF Codd's Rules,581,2020-02-02 13:28:49
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,What is a transaction?,394,2020-02-02 13:35:29
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,ACID property,353,2020-02-02 13:41:36
+,tvnr690@gmail.com,,,RDBMS,Sample-Conceptual Model,7,2020-02-02 15:03:49
+,archana.b1196@gmail.com,Archana,B,RDBMS,Databases,429,2020-02-02 16:25:44
+,archana.b1196@gmail.com,Archana,B,RDBMS,Types of Databases,2,2020-02-02 16:25:49
+,archana.b1196@gmail.com,Archana,B,RDBMS,Entities,162,2020-02-02 16:28:35
+,archana.b1196@gmail.com,Archana,B,RDBMS,Types of Databases,587,2020-02-02 16:38:28
+,archana.b1196@gmail.com,Archana,B,RDBMS,Visualizing Data,523,2020-02-02 16:47:42
+,archana.b1196@gmail.com,Archana,B,RDBMS,EF Codd's Rules,564,2020-02-02 16:57:13
+,archana.b1196@gmail.com,Archana,B,RDBMS,What is a transaction?,182,2020-02-02 17:00:28
+,archana.b1196@gmail.com,Archana,B,RDBMS,ACID property,243,2020-02-02 17:05:27
+,archana.b1196@gmail.com,Archana,B,RDBMS,ACID property,213,2020-02-02 17:09:39
+,archana.b1196@gmail.com,Archana,B,RDBMS,ACID property,213,2020-02-02 17:09:44
+,tvnr690@gmail.com,,,RDBMS,Introduction,1362,2020-02-02 17:11:28
+,tvnr690@gmail.com,,,RDBMS,Expectation from you,7,2020-02-02 17:12:22
+,tvnr690@gmail.com,,,RDBMS,Expectation from you,907,2020-02-02 17:32:00
+,tvnr690@gmail.com,,,RDBMS,What is Data? ,222,2020-02-02 17:35:58
+,tvnr690@gmail.com,,,RDBMS,Entities,28,2020-02-02 17:36:29
+,tvnr690@gmail.com,,,RDBMS,Entities,434,2020-02-02 17:43:46
+,tvnr690@gmail.com,,,RDBMS,"Primary Key, Foreign Key",215,2020-02-02 17:58:33
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Expectation from you,12,2020-02-03 02:21:39
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,What is a transaction?,28,2020-02-03 02:23:05
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Sample-Conceptual Model,528,2020-02-03 02:49:48
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Introduction,1,2020-02-03 03:50:06
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,"Primary Key, Foreign Key",8,2020-02-03 03:55:27
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Tables in RDBMS,8,2020-02-03 03:55:40
+,tvnr690@gmail.com,,,RDBMS,Visualizing Retail Business,412,2020-02-03 03:57:59
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Sample-Conceptual Model,33,2020-02-03 04:00:15
+,nandinipatilm88@gmail.com,nandini,patil,RDBMS,Next Steps,220,2020-02-03 04:04:14
+,tvnr690@gmail.com,,,RDBMS,Databases,439,2020-02-03 04:05:35
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Tables in RDBMS,726,2020-02-03 04:08:32
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,"Primary Key, Foreign Key",5,2020-02-03 04:53:48
+,archana.b1196@gmail.com,Archana,B,Microsoft SQL Server,Welcome,32,2020-02-03 13:37:50
+,archana.b1196@gmail.com,Archana,B,SSIS,Getting Started,78,2020-02-03 13:39:35
+,suhasini.m1990@gmail.com,suhasini,metri,Oracle SQL,Data Definition Language,159,2020-02-04 05:09:54
+,suhasini.m1990@gmail.com,suhasini,metri,Oracle SQL,Data Manipulation language,67,2020-02-04 05:11:08
+,suhasini.m1990@gmail.com,suhasini,metri,Oracle SQL,Introduction to Aggregate Functions part-I,39,2020-02-04 05:11:54
+,suhasini.m1990@gmail.com,suhasini,metri,Oracle SQL,Group by and Having Clause,8,2020-02-04 05:12:26
+,suhasini.m1990@gmail.com,suhasini,metri,Oracle SQL,SQL Simple Join,5,2020-02-04 05:12:33
+,suhasini.m1990@gmail.com,suhasini,metri,SDLC,Part-1,14,2020-02-04 05:13:12
+,suhasini.m1990@gmail.com,suhasini,metri,Power BI,Connect to an Access database,198,2020-02-04 05:16:41
+,suhasini.m1990@gmail.com,suhasini,metri,Power BI,Basic transformations,165,2020-02-04 05:19:31
+,archana.b1196@gmail.com,Archana,B,Data Warehouse Concepts,Before you learn DW,116,2020-02-05 16:00:53
+,archana.b1196@gmail.com,Archana,B,Data Warehouse Concepts,Before you learn DW,196,2020-02-05 16:04:16
+,rachin.pant@gmail.com,Rachin,Pant,SSIS,Getting Started,201,2020-02-05 16:58:08
+,rachin.pant@gmail.com,Rachin,Pant,Microsoft SQL Server,Welcome,24,2020-02-05 16:59:11
+,rachin.pant@gmail.com,Rachin,Pant,Microsoft SQL Server,Welcome,10,2020-02-05 16:59:25
+,rachin.pant@gmail.com,Rachin,Pant,Microsoft SQL Server,Welcome,18,2020-02-05 17:00:26
+,rachin.pant@gmail.com,Rachin,Pant,Microsoft SQL Server,Welcome,15,2020-02-05 17:00:59
+,rachin.pant@gmail.com,Rachin,Pant,Microsoft SQL Server,Welcome,2,2020-02-05 17:01:04
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,ACID property,367,2020-02-05 17:07:55
+,archana.b1196@gmail.com,Archana,B,RDBMS,Sample-Logical Model,37,2020-02-05 17:08:55
+,archana.b1196@gmail.com,Archana,B,RDBMS,Visualizing Retail Business,313,2020-02-05 17:14:16
+,archana.b1196@gmail.com,Archana,B,RDBMS,Visualizing Data,2,2020-02-05 17:14:31
+,archana.b1196@gmail.com,Archana,B,RDBMS,Entities and Relationships-Example,382,2020-02-05 17:21:02
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Conceptual Model,895,2020-02-05 17:23:01
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Representing relationship in Logical and Physical Model,288,2020-02-05 17:27:58
+,archana.b1196@gmail.com,Archana,B,RDBMS,"Primary Key, Foreign Key",810,2020-02-05 17:47:11
+,archana.b1196@gmail.com,Archana,B,RDBMS,What is a transaction?,303,2020-02-05 17:52:23
+,archana.b1196@gmail.com,Archana,B,RDBMS,ACID property,344,2020-02-06 03:20:25
+,archana.b1196@gmail.com,Archana,B,RDBMS,Conceptual Model,758,2020-02-06 03:33:09
+,archana.b1196@gmail.com,Archana,B,RDBMS,Introduction,696,2020-02-06 03:45:26
+,archana.b1196@gmail.com,Archana,B,RDBMS,Representing relationship in Logical and Physical Model,848,2020-02-06 04:04:45
+,archana.b1196@gmail.com,Archana,B,RDBMS,Next Steps,117,2020-02-06 04:06:50
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Introduction,1200,2020-02-06 05:13:04
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Introduction,295,2020-02-06 05:18:01
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Expectation from you,635,2020-02-06 05:28:38
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,What is Data? ,250,2020-02-06 05:32:48
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Entities,346,2020-02-06 05:38:41
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Visualizing Retail Business,43,2020-02-06 05:39:29
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Visualizing Retail Business,478,2020-02-06 05:47:30
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Databases,2879,2020-02-06 06:48:47
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Types of Databases,697,2020-02-06 07:02:49
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Types of Databases,386,2020-02-06 07:09:17
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Relational DBMS,48,2020-02-06 07:10:09
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,RDBMS Products in the market,147,2020-02-06 07:12:39
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,RDBMS Products in the market,282,2020-02-06 07:17:57
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Three types of Relationships,8,2020-02-06 07:18:23
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Three types of Relationships,17,2020-02-06 07:18:44
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Entities and Relationships-Example,2726,2020-02-06 08:04:14
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Entities and Relationships-Example,352,2020-02-06 08:10:07
+,archana.b1196@gmail.com,Archana,B,Microsoft SQL Server,Welcome,1016,2020-02-06 09:25:42
+,kavitha.n@aroha.co.in,Kavitha,Nayak,SSIS,Basic Transformations,1,2020-02-06 11:30:34
+,kavitha.n@aroha.co.in,Kavitha,Nayak,SSIS,Getting Started,25,2020-02-06 11:31:16
+,kavitha.n@aroha.co.in,Kavitha,Nayak,SSRS,Getting Started with a New Project,15,2020-02-06 11:31:37
+,soumya.kulkarni@aroha.co.in,soumya,Kulkarni,RDBMS,Introduction,43,2020-02-06 11:46:16
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Visualizing Data,2,2020-02-06 13:00:00
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Tables in RDBMS,578,2020-02-06 13:21:09
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,"Primary Key, Foreign Key",565,2020-02-06 13:30:37
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,EF Codd's Rules,587,2020-02-06 13:40:27
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,What is a transaction?,244,2020-02-06 13:44:34
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,ACID property,210,2020-02-06 13:48:08
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Conceptual Model,261,2020-02-06 13:52:31
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Sample-Conceptual Model,247,2020-02-06 13:56:42
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Sample-Conceptual Model,3,2020-02-06 13:56:51
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Representing relationship in Logical and Physical Model,488,2020-02-06 14:05:02
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Sample-Logical Model,52,2020-02-06 14:05:59
+,arpitha.a.k.77@gmail.com,Arpitha,K,RDBMS,Next Steps,14,2020-02-06 14:06:15
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,SQL AND ORACLE QUIZ,8,2020-02-06 14:06:48
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,SQL AND ORACLE QUIZ,11,2020-02-06 14:07:00
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,DML Scenario phone plan,4,2020-02-06 14:07:06
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Introduction to SQL,225,2020-02-06 14:13:16
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,SQL_Class_expectation,49,2020-02-06 14:14:07
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,SQL_Class_expectation,28,2020-02-06 14:14:36
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Understanding Oracle database connectivity,406,2020-02-06 15:26:53
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,SQL Introduction And Types of SQL Statements,4,2020-02-06 15:27:00
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Understanding Oracle database connectivity,2,2020-02-06 15:27:06
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,SQL Introduction And Types of SQL Statements,12,2020-02-06 15:27:21
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Introduction_to_Application,457,2020-02-06 15:35:00
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Data Definition Language,1866,2020-02-06 16:06:18
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Data Definition Language,246,2020-02-06 16:10:26
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Data Manipulation language customer,960,2020-02-06 16:26:29
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Writing Simple select Statements...,429,2020-02-06 16:34:09
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Data Manipulation language,328,2020-02-06 16:39:46
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Writing Simple select Statements derived column,11,2020-02-06 16:40:21
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Writing Simple select Statements order by clause,3,2020-02-06 16:40:27
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,select statement dealing with date,716,2020-02-06 16:52:27
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,select statement subquery,294,2020-02-07 01:25:35
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Introduction to Aggregate Functions part-I,404,2020-02-07 01:32:22
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Introduction to Aggregate Functions part-II,720,2020-02-07 01:44:25
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Group by and Having Clause,10,2020-02-07 01:44:36
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Group by and Having Clause,239,2020-02-07 01:48:38
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Writing different queries on customer table,305,2020-02-07 01:53:57
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Group by and Having Clause PartII,517,2020-02-07 02:15:07
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Writing different queries on customer table,387,2020-02-07 02:40:48
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,SQL Simple Join,945,2020-02-07 03:25:20
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,SQL Simple Join,680,2020-02-07 03:36:48
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select Simple Join PartII,4820,2020-02-07 05:24:14
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select Simple Join PartII,484,2020-02-07 05:32:20
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select Outer join,14,2020-02-07 05:42:32
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select Outer join,12,2020-02-07 05:42:53
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select Outer join,12,2020-02-07 05:42:53
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,SQL Simple Join,1,2020-02-07 05:43:41
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select Outer join,224,2020-02-07 05:49:15
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select Date Functions,24,2020-02-07 05:49:43
+,kavitha.n@aroha.co.in,Kavitha,Nayak,Oracle SQL,Writing Simple select Statements...,78,2020-02-07 06:10:31
+,kavitha.n@aroha.co.in,Kavitha,Nayak,Oracle SQL,Introduction to SQL,1101,2020-02-07 06:29:00
+,kavitha.n@aroha.co.in,Kavitha,Nayak,Oracle SQL,Introduction to SQL,22,2020-02-07 06:29:23
+,kavitha.n@aroha.co.in,Kavitha,Nayak,Oracle SQL,SQL_Class_expectation,333,2020-02-07 06:52:58
+,kavitha.n@aroha.co.in,Kavitha,Nayak,Oracle SQL,Understanding Oracle database connectivity,677,2020-02-07 07:04:16
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select String functions,496,2020-02-07 07:09:17
+,kavitha.n@aroha.co.in,Kavitha,Nayak,Oracle SQL,Understanding Oracle database connectivity,547,2020-02-07 07:13:26
+,kavitha.n@aroha.co.in,Kavitha,Nayak,Oracle SQL,Understanding Oracle database connectivity,137,2020-02-07 07:15:44
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select String function part II,433,2020-02-07 07:16:39
+,kavitha.n@aroha.co.in,Kavitha,Nayak,Oracle SQL,Understanding Oracle database connectivity,287,2020-02-07 07:20:38
+,kavitha.n@aroha.co.in,Kavitha,Nayak,Oracle SQL,SQL Introduction And Types of SQL Statements,59,2020-02-07 07:21:38
+,kavitha.n@aroha.co.in,Kavitha,Nayak,Oracle SQL,SQL_Class_expectation,7,2020-02-07 07:21:55
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select Simple Join three tables,756,2020-02-07 07:29:18
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select Simple Join three tables,2,2020-02-07 07:29:20
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select Full Outer Join,440,2020-02-07 08:02:08
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,Select More about Joins,2,2020-02-07 08:02:15
+,arpitha.a.k.77@gmail.com,Arpitha,K,Oracle SQL,SQL AND ORACLE QUIZ,12,2020-02-07 08:02:30
+,archana.b1196@gmail.com,Archana,B,Oracle SQL,Introduction to SQL,561,2020-02-07 13:32:24
+,archana.b1196@gmail.com,Archana,B,Oracle SQL,SQL_Class_expectation,244,2020-02-07 13:36:36
+,archana.b1196@gmail.com,Archana,B,Oracle SQL,Understanding Oracle database connectivity,675,2020-02-07 13:47:57
+,archana.b1196@gmail.com,Archana,B,Oracle SQL,SQL Introduction And Types of SQL Statements,33,2020-02-07 13:48:37
+,archana.b1196@gmail.com,Archana,B,Oracle SQL,SQL Introduction And Types of SQL Statements,379,2020-02-07 13:56:03
+,rachin.pant@gmail.com,Rachin,Pant,Microsoft SQL Server,Welcome,5,2020-02-07 16:54:58
+,rachin.pant@gmail.com,Rachin,Pant,SSRS,Getting Started with a New Project,54,2020-02-07 16:56:22
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Introduction,693,2020-02-07 17:52:37
+,shailendra.kumar@aroha.co.in,Shailendra,Kumar,RDBMS,Introduction,911,2020-02-08 12:02:38
+,shailendra.kumar@aroha.co.in,Shailendra,Kumar,RDBMS,Introduction,4,2020-02-08 12:02:45
+,shailendra.kumar@aroha.co.in,Shailendra,Kumar,RDBMS,Next Steps,8,2020-02-08 12:03:02
+,shailendra.kumar@aroha.co.in,Shailendra,Kumar,RDBMS,"Primary Key, Foreign Key",4,2020-02-08 12:03:15
+,shailendra.kumar@aroha.co.in,Shailendra,Kumar,RDBMS,Expectation from you,1016,2020-02-08 12:20:17
+,shailendra.kumar@aroha.co.in,Shailendra,Kumar,RDBMS,Expectation from you,366,2020-02-08 12:26:25
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,ACID property,319,2020-02-08 14:06:05
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Conceptual Model,779,2020-02-08 14:19:07
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Representing relationship in Logical and Physical Model,904,2020-02-08 14:34:15
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Next Steps,137,2020-02-08 14:36:38
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Introduction,760,2020-02-08 14:49:22
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Expectation from you,899,2020-02-08 15:26:28
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,What is Data? ,7,2020-02-08 15:26:38
+,archana.b1196@gmail.com,Archana,B,Oracle SQL,Data Definition Language,903,2020-02-09 03:58:57
+,soumya.kulkarni@aroha.co.in,soumya,Kulkarni,RDBMS,Introduction,207,2020-02-09 08:29:48
+,soumya.kulkarni@aroha.co.in,soumya,Kulkarni,RDBMS,Types of Databases,15,2020-02-09 08:30:10
+,rachin.pant@gmail.com,Rachin,Pant,Microsoft SQL Server,Welcome,7,2020-02-09 11:21:23
+,rachin.pant@gmail.com,Rachin,Pant,Business Objects,Object types in Universe,560,2020-02-09 11:31:21
+,rachin.pant@gmail.com,Rachin,Pant,Business Objects,Object types in Universe,251,2020-02-09 11:35:43
+,rachin.pant@gmail.com,Rachin,Pant,Business Objects,Introduction to Business Objects,530,2020-02-09 11:44:45
+,rachin.pant@gmail.com,Rachin,Pant,Business Objects,Components of BO,526,2020-02-09 11:53:36
+,rachin.pant@gmail.com,Rachin,Pant,Business Objects,SQL Exercise to practice before working in Designer Powerpoint presentation,16,2020-02-09 11:54:01
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,ACID property,13,2020-02-09 11:54:31
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Conceptual Model,768,2020-02-09 12:07:26
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Sample-Conceptual Model,495,2020-02-09 12:15:52
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Representing relationship in Logical and Physical Model,761,2020-02-09 12:28:42
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Sample-Logical Model,7,2020-02-09 12:29:02
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Next Steps,108,2020-02-09 12:30:52
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Introduction,5,2020-02-09 17:00:18
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Expectation from you,735,2020-02-09 17:12:36
+,soumya.kulkarni@aroha.co.in,soumya,Kulkarni,RDBMS,Expectation from you,133,2020-02-10 09:36:55
+,soumya.kulkarni@aroha.co.in,soumya,Kulkarni,RDBMS,Next Steps,4,2020-02-10 09:37:13
+,mehulsaha@gmail.com,Mehul,Raj,RDBMS,Introduction,3,2020-02-10 17:33:21
+,mehulsaha@gmail.com,Mehul,Raj,RDBMS,Introduction,3,2020-02-10 17:34:29
+,mehulsaha@gmail.com,Mehul,Raj,RDBMS,Introduction,506,2020-02-10 17:43:07
+,mehulsaha@gmail.com,Mehul,Raj,SDLC,Part-1,2,2020-02-10 17:43:32
+,suhasini.m1990@gmail.com,suhasini,metri,Power BI,Introduction to Power BI - Summary,48,2020-02-11 15:04:41
+,suhasini.m1990@gmail.com,suhasini,metri,Power BI,Introduction to Power BI,129,2020-02-11 15:06:53
+,sumanunna22@gmail.com,SUMA,B NUNNA,Microsoft SQL Server,Welcome,2,2020-02-12 07:53:26
+,sumanunna22@gmail.com,SUMA,B NUNNA,Microsoft SQL Server,Welcome,29,2020-02-12 07:54:02
+,sumanunna22@gmail.com,SUMA,B NUNNA,Power BI,Introduction to Power BI,11,2020-02-13 13:06:42
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Introduction,22,2020-02-17 06:05:32
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Introduction to SQL,799,2020-02-17 14:59:14
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,SQL_Class_expectation,15,2020-02-17 15:29:39
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Introduction to SQL,696,2020-02-17 16:59:22
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,SQL_Class_expectation,214,2020-02-17 17:03:00
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Understanding Oracle database connectivity,3,2020-02-17 17:03:18
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Introduction_to_Application,407,2020-02-17 17:10:12
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,SQL Introduction And Types of SQL Statements,42,2020-02-17 17:10:54
+,tvnr690@gmail.com,,,Oracle SQL,Introduction to Aggregate Functions part-I,758,2020-02-18 04:32:22
+,suma.h1990@gmail.com,Suma,H,Microsoft SQL Server,Welcome,0,2020-02-18 04:39:05
+,suma.h1990@gmail.com,Suma,H,Microsoft SQL Server,Welcome,3,2020-02-18 04:39:10
+,shruthimys@gmail.com,Shruthi,Dinesh,RDBMS,Introduction,27,2020-02-18 04:50:14
+,bandappa@aroha.co.in,Bandappa,Basavaraj,RDBMS,Introduction,34,2020-02-18 05:12:08
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Entities,16,2020-02-18 08:15:19
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Entities,38,2020-02-18 08:16:01
+,tvnr690@gmail.com,,,Oracle SQL,Introduction to SQL,555,2020-02-18 08:55:13
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Introduction,23,2020-02-18 09:06:50
+,tvnr690@gmail.com,,,Oracle SQL,SQL_Class_expectation,3,2020-02-18 09:07:31
+,tvnr690@gmail.com,,,Oracle SQL,Understanding Oracle database connectivity,243,2020-02-18 09:28:08
+,tvnr690@gmail.com,,,Oracle SQL,SQL Introduction And Types of SQL Statements,55,2020-02-18 09:42:46
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Entities,211,2020-02-18 09:52:07
+,tvnr690@gmail.com,,,Oracle SQL,SQL Introduction And Types of SQL Statements,4,2020-02-18 09:55:33
+,tvnr690@gmail.com,,,Oracle SQL,Data Definition Language,478,2020-02-18 10:04:05
+,drhemanth05@gmail.com,hemanth,dr,SSIS,Error handling,11,2020-02-18 10:11:41
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Introduction,168,2020-02-18 10:17:47
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Entities,20,2020-02-18 10:18:10
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Introduction,101,2020-02-18 10:20:16
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Introduction,19,2020-02-18 10:20:38
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Introduction,1,2020-02-18 10:22:14
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Expectation from you,11,2020-02-18 10:23:58
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Introduction,12,2020-02-18 10:24:21
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Introduction,43,2020-02-18 10:38:53
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Introduction,92,2020-02-18 10:40:26
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Introduction,975,2020-02-18 10:43:05
+,tvnr690@gmail.com,,,Oracle SQL,Data Manipulation language customer,2,2020-02-18 10:52:29
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Introduction,587,2020-02-18 10:53:46
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Expectation from you,20,2020-02-18 12:25:08
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Introduction,36,2020-02-18 14:25:25
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Introduction,95,2020-02-18 14:27:01
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Introduction,75,2020-02-18 14:43:35
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Introduction,17,2020-02-18 14:43:53
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Introduction,17,2020-02-18 14:43:58
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Introduction,835,2020-02-18 14:57:50
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Expectation from you,95,2020-02-18 14:59:31
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Introduction,1977,2020-02-18 15:00:05
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Introduction,21,2020-02-18 15:02:10
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Expectation from you,49,2020-02-18 15:03:03
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Expectation from you,11,2020-02-18 15:03:16
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,What is Data? ,448,2020-02-18 15:07:01
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Entities,418,2020-02-18 15:17:37
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Visualizing Retail Business,693,2020-02-18 15:29:45
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Introduction,3,2020-02-18 15:54:16
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Introduction,20,2020-02-18 15:57:34
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,What is Data? ,1,2020-02-18 16:04:19
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Introduction,263,2020-02-18 16:08:54
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Introduction,263,2020-02-18 16:08:58
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Writing Simple select Statements order by clause,3,2020-02-18 16:09:29
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Introduction,395,2020-02-18 16:09:45
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Introduction,337,2020-02-18 16:15:25
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Databases,2,2020-02-18 16:15:28
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Data Manipulation language customer,23,2020-02-18 16:24:58
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Expectation from you,11,2020-02-18 16:26:05
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Expectation from you,11,2020-02-18 16:26:10
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,What is Data? ,342,2020-02-18 16:26:39
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Expectation from you,84,2020-02-18 16:27:35
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Data Manipulation language,49,2020-02-18 16:27:41
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Entities,548,2020-02-18 16:36:00
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Types of Databases,53,2020-02-18 16:36:35
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Expectation from you,1545,2020-02-18 16:41:15
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,What is Data? ,329,2020-02-18 16:46:47
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Visualizing Retail Business,695,2020-02-18 16:47:41
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Types of Databases,803,2020-02-18 16:49:59
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Databases,244,2020-02-18 16:53:14
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Entities,534,2020-02-18 17:04:55
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,ACID property,99,2020-02-18 17:07:08
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Introduction,2,2020-02-18 17:38:17
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Databases,425,2020-02-18 17:46:59
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Databases,433,2020-02-19 01:27:57
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Types of Databases,779,2020-02-19 01:41:01
+,mahendranviji333@gmail.com,mahendran,N,Business Objects,Introduction to Business Objects,79,2020-02-19 01:42:07
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Relational DBMS,161,2020-02-19 01:43:59
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,RDBMS Products in the market,448,2020-02-19 01:51:35
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Introduction,988,2020-02-19 01:58:59
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Writing Simple select Statements order by clause,459,2020-02-19 02:15:19
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,select statement subquery,26,2020-02-19 02:15:49
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,select statement subquery,4,2020-02-19 02:40:55
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Expectation from you,3,2020-02-19 02:45:21
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Introduction to Aggregate Functions part-I,538,2020-02-19 02:50:13
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Three types of Relationships,29,2020-02-19 03:08:20
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Three types of Relationships,8,2020-02-19 03:08:35
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Expectation from you,6,2020-02-19 03:18:46
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,What is Data? ,384,2020-02-19 03:31:52
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Entities,3,2020-02-19 03:36:30
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,"Primary Key, Foreign Key",13,2020-02-19 03:49:05
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Relational DBMS,9,2020-02-19 03:49:34
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Entities,3,2020-02-19 03:50:39
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,RDBMS Products in the market,240,2020-02-19 03:53:40
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Three types of Relationships,5,2020-02-19 03:53:57
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Entities,4,2020-02-19 04:01:05
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Entities,26,2020-02-19 04:01:52
+,tvnr690@gmail.com,,,Oracle SQL,SQL Simple Join,34,2020-02-19 04:30:46
+,tvnr690@gmail.com,,,Oracle SQL,Select Date Functions,3,2020-02-19 05:40:18
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Visualizing Retail Business,4,2020-02-19 06:23:50
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Introduction to Aggregate Functions part-II,2,2020-02-19 09:01:37
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Writing different queries on customer table,17,2020-02-19 09:01:54
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Writing different queries on customer table,9,2020-02-19 09:36:47
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Group by and Having Clause PartII,17,2020-02-19 09:37:07
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Group by and Having Clause PartII,4,2020-02-19 09:37:14
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Group by and Having Clause,64,2020-02-19 09:38:28
+,ps1381606@gmail.com,Pooja,singh,RDBMS,Introduction,82,2020-02-19 12:59:18
+,bandappa@aroha.co.in,Bandappa,Basavaraj,RDBMS,Introduction,685,2020-02-19 13:33:28
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Databases,14,2020-02-19 13:40:59
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Introduction to SQL,735,2020-02-19 13:48:20
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,SQL_Class_expectation,209,2020-02-19 13:51:54
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Understanding Oracle database connectivity,33,2020-02-19 13:52:38
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Understanding Oracle database connectivity,22,2020-02-19 13:53:16
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Databases,2,2020-02-19 13:53:59
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Databases,2,2020-02-19 13:54:01
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Types of Databases,30,2020-02-19 13:54:30
+,bandappa@aroha.co.in,Bandappa,Basavaraj,RDBMS,Expectation from you,1341,2020-02-19 13:55:53
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Understanding Oracle database connectivity,357,2020-02-19 14:01:12
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,SQL Introduction And Types of SQL Statements,152,2020-02-19 14:03:46
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,SQL_Class_expectation,8,2020-02-19 14:04:02
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Introduction_to_Application,486,2020-02-19 14:12:13
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Data Definition Language,563,2020-02-19 14:21:39
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Three types of Relationships,21,2020-02-19 14:30:35
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Entities and Relationships-Example,275,2020-02-19 14:35:14
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Entities and Relationships-Example,275,2020-02-19 14:35:17
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Data Manipulation language customer,1078,2020-02-19 14:39:44
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Writing Simple select Statements...,533,2020-02-19 14:48:52
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Writing Simple select Statements order by clause,616,2020-02-19 14:59:18
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,select statement dealing with date,670,2020-02-19 15:10:50
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Sample-Logical Model,2050,2020-02-19 15:29:28
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Sample-Logical Model,2050,2020-02-19 15:29:31
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Introduction,36,2020-02-19 16:21:06
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Tables in RDBMS,14,2020-02-19 16:21:26
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Introduction,1129,2020-02-19 16:40:01
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Introduction,1179,2020-02-19 16:43:22
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Introduction,424,2020-02-19 16:47:07
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Entities,1,2020-02-19 16:47:12
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Expectation from you,1023,2020-02-19 17:04:23
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Expectation from you,1292,2020-02-19 17:05:32
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,What is Data? ,331,2020-02-19 17:10:14
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,What is Data? ,384,2020-02-19 17:12:01
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Entities,114,2020-02-19 17:12:17
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Databases,2,2020-02-19 17:12:21
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Entities,554,2020-02-19 17:21:48
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Visualizing Retail Business,690,2020-02-19 17:34:16
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,SQL_Class_expectation,213,2020-02-19 17:39:34
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Databases,472,2020-02-19 17:42:22
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Understanding Oracle database connectivity,388,2020-02-19 17:46:04
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,SQL Introduction And Types of SQL Statements,13,2020-02-19 17:47:14
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Types of Databases,1129,2020-02-19 17:51:38
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Types of Databases,829,2020-02-19 17:56:14
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,SQL Introduction And Types of SQL Statements,530,2020-02-19 17:57:48
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Types of Databases,12,2020-02-19 17:58:50
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Relational DBMS,101,2020-02-19 18:00:33
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Databases,441,2020-02-20 00:28:21
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,What is Data? ,28,2020-02-20 00:41:05
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Entities,17,2020-02-20 00:41:33
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,What is Data? ,10,2020-02-20 00:41:40
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Introduction,15,2020-02-20 00:42:04
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Next Steps,3,2020-02-20 00:42:13
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Types of Databases,810,2020-02-20 00:45:05
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,What is Data? ,334,2020-02-20 00:49:24
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Entities,546,2020-02-20 00:58:32
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Entities,111,2020-02-20 01:00:26
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Relational DBMS,689,2020-02-20 01:01:45
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,RDBMS Products in the market,436,2020-02-20 01:09:27
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Three types of Relationships,14,2020-02-20 01:10:24
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Entities and Relationships-Example,15,2020-02-20 01:10:44
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Visualizing Retail Business,1220,2020-02-20 01:20:48
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Visualizing Retail Business,77,2020-02-20 01:22:21
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Entities and Relationships-Example,722,2020-02-20 01:22:52
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Entities and Relationships-Example,761,2020-02-20 01:24:32
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Introduction,1570,2020-02-20 01:27:51
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Databases,426,2020-02-20 01:29:34
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Visualizing Data,10,2020-02-20 01:32:51
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Visualizing Data,717,2020-02-20 01:36:33
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Types of Databases,663,2020-02-20 01:40:47
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Databases,1,2020-02-20 01:41:02
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Introduction to SQL,463,2020-02-20 01:42:04
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Expectation from you,909,2020-02-20 01:43:08
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Introduction to SQL,106,2020-02-20 01:43:53
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Visualizing Data,2,2020-02-20 01:46:24
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Tables in RDBMS,706,2020-02-20 01:48:26
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Sample-Logical Model,1,2020-02-20 01:48:34
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,What is Data? ,333,2020-02-20 01:48:46
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,"Primary Key, Foreign Key",468,2020-02-20 01:54:20
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Entities,466,2020-02-20 01:56:40
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Visualizing Retail Business,17,2020-02-20 01:57:07
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,EF Codd's Rules,402,2020-02-20 02:01:09
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,select statement subquery,998,2020-02-20 02:01:21
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,What is a transaction?,24,2020-02-20 02:01:36
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,What is a transaction?,304,2020-02-20 02:06:46
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,ACID property,4,2020-02-20 02:09:24
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Introduction to SQL,195,2020-02-20 02:10:39
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Entities,92,2020-02-20 02:43:29
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Visualizing Data,2,2020-02-20 02:49:01
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Entities and Relationships-Example,72,2020-02-20 02:50:20
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Visualizing Retail Business,699,2020-02-20 02:55:11
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Visualizing Data,1182,2020-02-20 03:10:04
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Visualizing Data,124,2020-02-20 03:12:18
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Conceptual Model,763,2020-02-20 03:26:34
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Relational DBMS,22,2020-02-20 03:33:27
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Tables in RDBMS,954,2020-02-20 03:33:50
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,RDBMS Products in the market,330,2020-02-20 03:39:02
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,What is Data? ,1002,2020-02-20 04:14:46
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,What is Data? ,1002,2020-02-20 04:14:47
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Sample-Conceptual Model,23,2020-02-20 09:04:43
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Sample-Conceptual Model,40,2020-02-20 09:05:29
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Expectation from you,129,2020-02-20 09:54:27
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,EF Codd's Rules,10,2020-02-20 13:15:41
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Expectation from you,5,2020-02-20 13:43:57
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Expectation from you,707,2020-02-20 13:56:29
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Introduction,33,2020-02-21 12:31:36
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Sample-Conceptual Model,1,2020-02-21 13:07:21
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Tables in RDBMS,221,2020-02-21 13:11:06
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Representing relationship in Logical and Physical Model,779,2020-02-21 14:01:37
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Introduction,4,2020-02-21 14:25:12
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Introduction,1791,2020-02-21 14:56:46
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Introduction,1791,2020-02-21 14:56:48
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Introduction,1,2020-02-21 14:56:56
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Introduction,1,2020-02-21 14:56:56
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,EF Codd's Rules,7,2020-02-21 14:57:03
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Introduction,516,2020-02-21 15:05:42
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,EF Codd's Rules,2444,2020-02-21 15:46:41
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Introduction,615,2020-02-21 15:57:08
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Introduction,615,2020-02-21 15:57:10
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Visualizing Retail Business,18,2020-02-21 16:30:40
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Introduction,2,2020-02-21 16:30:52
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,EF Codd's Rules,2063,2020-02-21 16:31:39
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Expectation from you,28,2020-02-21 16:32:06
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Expectation from you,28,2020-02-21 16:32:06
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,What is Data? ,687,2020-02-21 16:42:24
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,What is Data? ,687,2020-02-21 16:42:28
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,What is Data? ,10,2020-02-21 16:42:37
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Visualizing Retail Business,1,2020-02-21 16:42:41
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Expectation from you,778,2020-02-21 16:45:09
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,Expectation from you,778,2020-02-21 16:45:11
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,What is Data? ,745,2020-02-21 16:58:12
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,What is Data? ,5,2020-02-21 16:58:54
+,nkasnaveenkumar@gmail.com,Naveen,kumar,RDBMS,What is Data? ,38,2020-02-21 16:59:38
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Entities,25,2020-02-21 17:04:49
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Visualizing Retail Business,676,2020-02-21 17:16:08
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,"Primary Key, Foreign Key",2145,2020-02-21 17:45:35
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,What is a transaction?,314,2020-02-21 17:51:39
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,select statement dealing with date,41,2020-02-21 17:54:11
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,SQL Introduction And Types of SQL Statements,9,2020-02-22 07:09:02
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Introduction_to_Application,419,2020-02-22 07:20:20
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Data Definition Language,555,2020-02-22 07:29:45
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Data Manipulation language customer,1010,2020-02-22 09:38:43
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Writing Simple select Statements...,525,2020-02-22 09:47:38
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Writing Simple select Statements order by clause,481,2020-02-22 09:55:49
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,"Primary Key, Foreign Key",662,2020-02-22 12:44:56
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,EF Codd's Rules,566,2020-02-22 12:54:44
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,What is a transaction?,324,2020-02-22 13:00:13
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,select statement dealing with date,209,2020-02-22 13:14:07
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,select statement dealing with date,51,2020-02-22 13:15:04
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Introduction,856,2020-02-22 16:04:03
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Expectation from you,965,2020-02-22 16:33:54
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,ACID property,317,2020-02-22 16:36:29
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,What is Data? ,351,2020-02-22 16:39:47
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Entities,538,2020-02-22 16:48:48
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Conceptual Model,747,2020-02-22 16:49:05
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Next Steps,2,2020-02-22 16:49:08
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Sample-Conceptual Model,501,2020-02-22 16:57:42
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Sample-Logical Model,380,2020-02-22 17:04:09
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Visualizing Retail Business,393,2020-02-22 17:05:29
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Next Steps,157,2020-02-22 17:06:56
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Introduction to SQL,4,2020-02-22 17:08:04
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,SQL_Class_expectation,4,2020-02-22 17:08:09
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Understanding Oracle database connectivity,5,2020-02-22 17:08:17
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,SQL Introduction And Types of SQL Statements,4,2020-02-22 17:08:25
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Introduction_to_Application,3,2020-02-22 17:08:41
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Writing Simple select Statements...,2,2020-02-22 17:08:49
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Data Manipulation language,3,2020-02-22 17:08:54
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Databases,445,2020-02-22 17:13:50
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Types of Databases,765,2020-02-22 17:36:28
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Visualizing Retail Business,12,2020-02-22 17:39:09
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Visualizing Retail Business,236,2020-02-22 17:43:16
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Relational DBMS,561,2020-02-22 17:46:00
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,RDBMS Products in the market,436,2020-02-22 17:53:35
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Three types of Relationships,24,2020-02-22 17:55:16
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Three types of Relationships,33,2020-02-22 17:55:52
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Visualizing Retail Business,331,2020-02-22 17:57:35
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Types of Databases,762,2020-02-23 03:23:46
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,RDBMS Products in the market,16,2020-02-23 03:24:18
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,RDBMS Products in the market,16,2020-02-23 03:24:19
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,RDBMS Products in the market,230,2020-02-23 03:28:59
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Three types of Relationships,16,2020-02-23 03:41:47
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,RDBMS Products in the market,499,2020-02-23 03:43:35
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Entities and Relationships-Example,107,2020-02-23 03:43:39
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Three types of Relationships,22,2020-02-23 03:44:27
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Three types of Relationships,21,2020-02-23 03:45:10
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Visualizing Data,710,2020-02-23 03:55:48
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Entities and Relationships-Example,352,2020-02-23 03:58:15
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Tables in RDBMS,710,2020-02-23 04:07:43
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Visualizing Data,689,2020-02-23 04:10:00
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,"Primary Key, Foreign Key",738,2020-02-23 04:22:26
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,"Primary Key, Foreign Key",1035,2020-02-23 04:25:10
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,EF Codd's Rules,446,2020-02-23 04:30:02
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,What is a transaction?,238,2020-02-23 04:34:10
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,ACID property,320,2020-02-23 04:39:39
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,EF Codd's Rules,3,2020-02-23 04:42:12
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Conceptual Model,447,2020-02-23 04:47:15
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Sample-Conceptual Model,314,2020-02-23 04:53:18
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Representing relationship in Logical and Physical Model,282,2020-02-23 04:58:04
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Sample-Logical Model,49,2020-02-23 04:59:19
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,What is a transaction?,387,2020-02-23 05:00:03
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Sample-Logical Model,280,2020-02-23 05:04:00
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Next Steps,74,2020-02-23 05:05:18
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Introduction to SQL,436,2020-02-23 06:13:11
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,SQL_Class_expectation,198,2020-02-23 06:16:36
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,SQL_Class_expectation,198,2020-02-23 06:16:38
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Understanding Oracle database connectivity,383,2020-02-23 06:23:01
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,SQL_Class_expectation,3,2020-02-23 06:23:22
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Understanding Oracle database connectivity,1,2020-02-23 06:23:25
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,SQL Introduction And Types of SQL Statements,347,2020-02-23 06:29:16
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Introduction_to_Application,1970,2020-02-23 07:02:23
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Data Definition Language,508,2020-02-23 07:11:00
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Expectation from you,952,2020-02-23 07:42:58
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Data Manipulation language customer,2195,2020-02-23 07:47:38
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Relational DBMS,270,2020-02-23 07:57:07
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Writing Simple select Statements...,725,2020-02-23 07:59:57
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,RDBMS Products in the market,467,2020-02-23 08:05:06
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Three types of Relationships,24,2020-02-23 08:05:39
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Entities and Relationships-Example,644,2020-02-23 08:16:47
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Visualizing Data,261,2020-02-23 08:21:30
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Tables in RDBMS,12,2020-02-23 08:23:06
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,ACID property,960,2020-02-23 08:36:23
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Conceptual Model,1039,2020-02-23 08:53:57
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,SQL Introduction And Types of SQL Statements,427,2020-02-23 09:15:21
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,SQL_Class_expectation,293,2020-02-23 09:20:33
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Select Simple Join PartII,615,2020-02-23 09:29:31
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Select Outer join,475,2020-02-23 09:38:19
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,select statement subquery,818,2020-02-23 09:46:54
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Sample-Conceptual Model,689,2020-02-23 09:55:58
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Select Date Functions,988,2020-02-23 09:56:04
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Select Number Functions,467,2020-02-23 10:03:58
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Representing relationship in Logical and Physical Model,1129,2020-02-23 10:15:56
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Sample-Logical Model,772,2020-02-23 10:29:07
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,RDBMS,Next Steps,165,2020-02-23 10:31:53
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Writing Simple select Statements...,87,2020-02-23 11:26:31
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Data Manipulation language,257,2020-02-23 11:30:55
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Writing Simple select Statements derived column,568,2020-02-23 11:41:09
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Writing Simple select Statements order by clause,133,2020-02-23 11:43:28
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Writing Simple select Statements order by clause,397,2020-02-23 11:50:09
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,select statement dealing with date,95,2020-02-23 11:51:51
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,select statement dealing with date,761,2020-02-23 12:04:33
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,ACID property,367,2020-02-23 12:06:32
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,select statement subquery,647,2020-02-23 12:15:49
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Introduction to Aggregate Functions part-I,589,2020-02-23 12:25:41
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,select statement dealing with date,21,2020-02-23 12:26:10
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Introduction to Aggregate Functions part-II,787,2020-02-23 12:40:16
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Group by and Having Clause,20,2020-02-23 12:41:16
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Writing different queries on customer table,8,2020-02-23 12:41:39
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Group by and Having Clause,3,2020-02-23 12:41:44
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Introduction to SQL,551,2020-02-23 12:52:46
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Introduction to Aggregate Functions part-I,8,2020-02-23 12:57:00
+,rachin.pant@gmail.com,Rachin,Pant,RDBMS,Databases,1,2020-02-23 12:57:16
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Writing different queries on customer table,1210,2020-02-23 13:01:58
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Introduction to Aggregate Functions part-II,6,2020-02-23 13:03:28
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Introduction to Aggregate Functions part-II,27,2020-02-23 13:03:59
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Group by and Having Clause,4,2020-02-23 13:04:08
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Writing different queries on customer table,206,2020-02-23 13:07:40
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,"Primary Key, Foreign Key",14,2020-02-23 13:31:16
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Tables in RDBMS,672,2020-02-23 13:42:33
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Group by and Having Clause PartII,2221,2020-02-23 13:44:43
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Writing different queries on customer table,39,2020-02-23 13:46:35
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Writing different queries on customer table,77,2020-02-23 13:47:56
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Group by and Having Clause PartII,37,2020-02-23 13:48:41
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,"Primary Key, Foreign Key",554,2020-02-23 13:51:50
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,"Primary Key, Foreign Key",6,2020-02-23 13:52:06
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Select String functions,2663,2020-02-23 13:55:29
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,SQL Simple Join,666,2020-02-23 13:59:52
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Simple Join PartII,9,2020-02-23 14:00:32
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Databases,363,2020-02-23 14:05:47
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Introduction to Aggregate Functions part-I,444,2020-02-23 14:05:57
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Group by and Having Clause,12,2020-02-23 14:06:32
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Group by and Having Clause PartII,35,2020-02-23 14:07:09
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Group by and Having Clause,9,2020-02-23 14:07:25
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Group by and Having Clause,4,2020-02-23 14:07:32
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,EF Codd's Rules,990,2020-02-23 14:08:35
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Representing relationship in Logical and Physical Model,6,2020-02-23 14:10:42
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Simple Join PartII,833,2020-02-23 14:14:28
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Writing different queries on customer table,625,2020-02-23 14:18:03
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Types of Databases,780,2020-02-23 14:19:01
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,What is a transaction?,504,2020-02-23 14:19:10
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,ACID property,356,2020-02-23 14:25:12
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Conceptual Model,635,2020-02-23 14:36:20
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Sample-Conceptual Model,25,2020-02-23 14:36:53
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Next Steps,109,2020-02-23 14:38:45
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Representing relationship in Logical and Physical Model,29,2020-02-23 14:39:26
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Introduction to SQL,19,2020-02-23 14:40:00
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Conceptual Model,829,2020-02-23 14:44:58
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Relational DBMS,1597,2020-02-23 14:45:45
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Outer join,662,2020-02-23 14:48:53
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Date Functions,46,2020-02-23 14:49:49
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,RDBMS Products in the market,493,2020-02-23 14:54:31
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Outer join,411,2020-02-23 14:56:44
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Sample-Conceptual Model,177,2020-02-23 14:59:20
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Representing relationship in Logical and Physical Model,2,2020-02-23 15:02:03
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Date Functions,750,2020-02-23 15:09:35
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Number Functions,522,2020-02-23 15:18:24
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select String function part II,358,2020-02-23 15:24:27
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Simple Join three tables,33,2020-02-23 15:25:05
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Representing relationship in Logical and Physical Model,790,2020-02-23 15:26:04
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Simple Join three tables,365,2020-02-23 15:31:33
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Simple Join three tables,606,2020-02-23 15:42:06
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Sample-Logical Model,374,2020-02-23 15:42:38
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select Full Outer Join,716,2020-02-23 15:54:11
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Next Steps,128,2020-02-23 16:05:52
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Sample-Conceptual Model,49,2020-02-23 16:09:28
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,Select More about Joins,1064,2020-02-23 16:11:59
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,SQL AND ORACLE QUIZ,15,2020-02-23 16:13:13
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,SQL AND ORACLE QUIZ,3,2020-02-23 16:13:18
+,siddeshbagali13@gmail.com,siddesh,bagali,Oracle SQL,DML Scenario phone plan,743,2020-02-23 16:25:43
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Representing relationship in Logical and Physical Model,793,2020-02-23 16:46:54
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Introduction to SQL,677,2020-02-23 17:03:44
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,RDBMS Products in the market,97,2020-02-23 17:03:52
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Relational DBMS,25,2020-02-23 17:04:21
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,Sample-Logical Model,215,2020-02-23 17:07:30
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Select Outer join,1,2020-02-23 17:07:52
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,SQL_Class_expectation,348,2020-02-23 17:10:08
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,RDBMS Products in the market,388,2020-02-23 17:11:02
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Three types of Relationships,16,2020-02-23 17:11:22
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Introduction to SQL,504,2020-02-23 17:16:19
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Understanding Oracle database connectivity,722,2020-02-23 17:23:23
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,SQL Introduction And Types of SQL Statements,16,2020-02-23 17:24:05
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Entities and Relationships-Example,766,2020-02-23 17:24:12
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Three types of Relationships,10,2020-02-23 17:24:39
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Introduction_to_Application,439,2020-02-23 17:32:04
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Visualizing Data,742,2020-02-23 17:37:07
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Introduction_to_Application,385,2020-02-23 17:38:31
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Data Definition Language,583,2020-02-23 17:48:16
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Tables in RDBMS,744,2020-02-23 17:50:26
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Introduction to SQL,598,2020-02-23 17:51:37
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,SQL_Class_expectation,202,2020-02-23 17:55:02
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,"Primary Key, Foreign Key",577,2020-02-23 18:00:06
+,ps1381606@gmail.com,Pooja,singh,RDBMS,Expectation from you,337,2020-02-24 01:26:48
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Select String function part II,41564,2020-02-24 01:28:17
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,SQL AND ORACLE QUIZ,55,2020-02-24 01:29:58
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Introduction,13,2020-02-24 01:31:58
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Expectation from you,25,2020-02-24 01:32:26
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,What is Data? ,13,2020-02-24 01:32:42
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Entities,13,2020-02-24 01:32:58
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Visualizing Retail Business,13,2020-02-24 01:33:14
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Databases,9,2020-02-24 01:33:41
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Types of Databases,24,2020-02-24 01:34:09
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Relational DBMS,15,2020-02-24 01:34:27
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,RDBMS Products in the market,16,2020-02-24 01:34:45
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Three types of Relationships,16,2020-02-24 01:35:04
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Entities and Relationships-Example,12,2020-02-24 01:35:23
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Visualizing Data,12,2020-02-24 01:35:38
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Tables in RDBMS,14,2020-02-24 01:35:53
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,"Primary Key, Foreign Key",12,2020-02-24 01:36:08
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,EF Codd's Rules,15,2020-02-24 01:36:28
+,ps1381606@gmail.com,Pooja,singh,RDBMS,What is Data? ,577,2020-02-24 01:36:33
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,What is a transaction?,14,2020-02-24 01:36:45
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Conceptual Model,12,2020-02-24 01:37:01
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Conceptual Model,2,2020-02-24 01:37:11
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Sample-Conceptual Model,12,2020-02-24 01:37:27
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Representing relationship in Logical and Physical Model,13,2020-02-24 01:37:44
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Sample-Logical Model,23,2020-02-24 01:38:14
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,Next Steps,8,2020-02-24 01:38:23
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Select String function part II,11,2020-02-24 01:46:01
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,SQL AND ORACLE QUIZ,8,2020-02-24 01:46:21
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,DML Scenario phone plan,2,2020-02-24 01:46:26
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Data Manipulation language,400,2020-02-24 01:47:49
+,ps1381606@gmail.com,Pooja,singh,RDBMS,Visualizing Retail Business,939,2020-02-24 01:52:14
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Writing Simple select Statements derived column,477,2020-02-24 02:00:44
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Writing Simple select Statements order by clause,3,2020-02-24 02:01:02
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,Select More about Joins,986,2020-02-24 02:02:56
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Understanding Oracle database connectivity,1041,2020-02-24 02:08:42
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,SQL Introduction And Types of SQL Statements,6,2020-02-24 02:08:59
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,SQL_Class_expectation,12,2020-02-24 02:09:15
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,SQL Introduction And Types of SQL Statements,33,2020-02-24 02:09:53
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,select statement dealing with date,672,2020-02-24 02:12:29
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,select statement dealing with date,70,2020-02-24 02:13:47
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Introduction_to_Application,528,2020-02-24 02:18:57
+,nandinipatilm88@gmail.com,nandini,patil,Oracle SQL,DML Scenario phone plan,2,2020-02-24 02:22:47
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,select statement subquery,971,2020-02-24 02:30:14
+,ps1381606@gmail.com,Pooja,singh,RDBMS,Visualizing Retail Business,4,2020-02-24 02:34:06
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Introduction_to_Application,32,2020-02-24 02:37:56
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Introduction to Aggregate Functions part-I,56,2020-02-24 02:40:23
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Data Definition Language,564,2020-02-24 02:47:24
+,ps1381606@gmail.com,Pooja,singh,RDBMS,Types of Databases,771,2020-02-24 02:48:45
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Understanding Oracle database connectivity,0,2020-02-24 02:54:18
+,ps1381606@gmail.com,Pooja,singh,RDBMS,Relational DBMS,685,2020-02-24 03:00:16
+,ps1381606@gmail.com,Pooja,singh,RDBMS,Visualizing Data,1,2020-02-24 03:00:20
+,ps1381606@gmail.com,Pooja,singh,RDBMS,EF Codd's Rules,1,2020-02-24 03:08:55
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Introduction to Aggregate Functions part-I,22,2020-02-24 03:13:31
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Introduction to Aggregate Functions part-I,22,2020-02-24 03:14:33
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Understanding Oracle database connectivity,1409,2020-02-24 03:18:10
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Introduction to SQL,30,2020-02-24 03:20:25
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL_Class_expectation,6,2020-02-24 03:20:36
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Understanding Oracle database connectivity,17,2020-02-24 03:20:55
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Understanding Oracle database connectivity,13,2020-02-24 03:21:12
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL Introduction And Types of SQL Statements,6,2020-02-24 03:21:23
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Introduction_to_Application,18,2020-02-24 03:21:43
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Data Definition Language,14,2020-02-24 03:22:01
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Data Manipulation language customer,16,2020-02-24 03:22:21
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Writing Simple select Statements derived column,13,2020-02-24 03:22:37
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,select statement dealing with date,13,2020-02-24 03:22:53
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,select statement subquery,27,2020-02-24 03:23:25
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Introduction to Aggregate Functions part-II,12,2020-02-24 03:23:42
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Introduction to Aggregate Functions part-II,17,2020-02-24 03:24:04
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Group by and Having Clause,34,2020-02-24 03:24:44
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Introduction to Aggregate Functions part-I,5,2020-02-24 03:24:55
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Writing different queries on customer table,24,2020-02-24 03:25:20
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Group by and Having Clause PartII,16,2020-02-24 03:25:40
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL Simple Join,16,2020-02-24 03:25:59
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select Simple Join PartII,20,2020-02-24 03:26:22
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select Outer join,63,2020-02-24 03:27:30
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select Date Functions,29,2020-02-24 03:29:29
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select Number Functions,5,2020-02-24 03:30:30
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select String functions,5,2020-02-24 03:30:41
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select String function part II,9,2020-02-24 03:30:50
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select Simple Join three tables,16,2020-02-24 03:31:12
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Data Definition Language,28,2020-02-24 03:31:17
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select Full Outer Join,10,2020-02-24 03:31:24
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select More about Joins,9,2020-02-24 03:31:37
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Data Definition Language,16,2020-02-24 03:31:38
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select More about Joins,14,2020-02-24 03:31:53
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL AND ORACLE QUIZ,14,2020-02-24 03:32:12
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL AND ORACLE QUIZ,14,2020-02-24 03:32:28
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,DML Scenario phone plan,12,2020-02-24 03:32:44
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,SQL Introduction And Types of SQL Statements,0,2020-02-24 12:55:40
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Introduction_to_Application,7,2020-02-24 15:03:41
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Writing Simple select Statements...,881,2020-02-24 15:18:37
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Writing Simple select Statements...,435,2020-02-24 15:25:54
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Conceptual Model,721,2020-02-24 15:31:17
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,EF Codd's Rules,6,2020-02-24 15:33:55
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Writing Simple select Statements order by clause,560,2020-02-24 15:35:42
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,EF Codd's Rules,451,2020-02-24 15:41:42
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Representing relationship in Logical and Physical Model,717,2020-02-24 15:43:19
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,EF Codd's Rules,1,2020-02-24 15:43:28
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Sample-Logical Model,13,2020-02-24 15:43:44
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Sample-Logical Model,13,2020-02-24 15:43:48
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,select statement dealing with date,712,2020-02-24 15:47:38
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,Sample-Logical Model,344,2020-02-24 15:49:30
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,ACID property,11,2020-02-24 15:49:45
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,select statement subquery,1013,2020-02-24 16:04:49
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,"Primary Key, Foreign Key",682,2020-02-24 16:10:07
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,EF Codd's Rules,568,2020-02-24 16:23:39
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,EF Codd's Rules,346,2020-02-24 16:27:34
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,ACID property,1,2020-02-24 16:27:44
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,What is a transaction?,297,2020-02-24 16:28:40
+,madhurichinni@gmail.com,KATAKAM,MADHURI,RDBMS,What is a transaction?,248,2020-02-24 16:31:55
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Introduction to Aggregate Functions part-I,841,2020-02-24 16:32:39
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,ACID property,588,2020-02-24 16:38:41
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Conceptual Model,764,2020-02-25 00:53:16
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Sample-Conceptual Model,504,2020-02-25 01:06:23
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Sample-Logical Model,387,2020-02-25 01:28:17
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Next Steps,119,2020-02-25 01:30:12
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Entities,134,2020-02-25 02:53:27
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,What is Data? ,98,2020-02-25 02:55:08
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,Entities,81,2020-02-25 02:56:34
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,What is a transaction?,18,2020-02-25 02:57:09
+,ilavarasu43@gmail.com,ilavarasu,s,RDBMS,ACID property,163,2020-02-25 02:59:55
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Data Definition Language,124,2020-02-25 03:02:28
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Data Manipulation language customer,16,2020-02-25 03:02:50
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Data Manipulation language,74,2020-02-25 03:04:11
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Group by and Having Clause PartII,44,2020-02-25 03:05:05
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Group by and Having Clause,8,2020-02-25 03:05:16
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,EF Codd's Rules,657,2020-02-25 03:39:28
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,What is a transaction?,113,2020-02-25 03:41:41
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,ACID property,232,2020-02-25 03:45:36
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,EF Codd's Rules,108,2020-02-25 03:48:08
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Conceptual Model,418,2020-02-25 03:55:09
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Representing relationship in Logical and Physical Model,154,2020-02-25 03:57:48
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Sample-Logical Model,31,2020-02-25 03:58:23
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Next Steps,56,2020-02-25 03:59:22
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL_Class_expectation,222,2020-02-25 04:01:35
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Introduction to SQL,1008,2020-02-25 06:41:57
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,RDBMS,Introduction,38,2020-02-25 10:00:07
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,RDBMS,Introduction,230,2020-02-25 10:04:05
+,hemanthraj2009@gmail.com,hemanth,aroha,RDBMS,Introduction,39,2020-02-25 10:05:57
+,mustafa.sm@aroha.co.in,SM,Mustafa,RDBMS,Introduction,42,2020-02-25 10:06:01
+,vnr.tumu@gmail.com,venkat,reddy,RDBMS,Introduction,54,2020-02-25 10:06:12
+,mustafa.sm@aroha.co.in,SM,Mustafa,RDBMS,Expectation from you,3,2020-02-25 10:06:13
+,vnr.tumu@gmail.com,venkat,reddy,RDBMS,Expectation from you,50,2020-02-25 10:07:03
+,hemanthraj2009@gmail.com,hemanth,aroha,RDBMS,Expectation from you,73,2020-02-25 10:07:12
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,RDBMS,Introduction,191,2020-02-25 10:07:23
+,mustafa.sm@aroha.co.in,SM,Mustafa,RDBMS,Introduction,73,2020-02-25 10:07:29
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,RDBMS,What is Data? ,35,2020-02-25 10:08:01
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,RDBMS,Introduction,7,2020-02-25 10:08:09
+,hemanthraj2009@gmail.com,hemanth,aroha,RDBMS,What is Data? ,55,2020-02-25 10:08:10
+,mustafa.sm@aroha.co.in,SM,Mustafa,RDBMS,What is Data? ,4,2020-02-25 10:08:14
+,vnr.tumu@gmail.com,venkat,reddy,RDBMS,What is Data? ,69,2020-02-25 10:08:14
+,pratibhagodekar123@gmail.com,Pratibha,Godekar,RDBMS,Introduction,6,2020-02-25 10:08:30
+,hemanthraj2009@gmail.com,hemanth,aroha,Microsoft SQL Server,Welcome,21,2020-02-25 10:09:14
+,hemanthraj2009@gmail.com,hemanth,aroha,Microsoft SQL Server,Welcome,2,2020-02-25 10:09:19
+,hemanthraj2009@gmail.com,hemanth,aroha,RDBMS,Introduction,9,2020-02-25 10:09:35
+,hemanthraj2009@gmail.com,hemanth,aroha,RDBMS,Expectation from you,5,2020-02-25 10:09:41
+,drp.montu@gmail.com,dipti ranjan,panigrahy,RDBMS,Introduction,13,2020-02-25 11:35:45
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL_Class_expectation,197,2020-02-25 13:14:24
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Introduction to Aggregate Functions part-II,52,2020-02-25 13:40:50
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,RDBMS Products in the market,592,2020-02-25 15:26:06
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Three types of Relationships,16,2020-02-25 15:26:27
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Three types of Relationships,10,2020-02-25 15:26:43
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,SQL Introduction And Types of SQL Statements,26,2020-02-25 15:46:25
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Introduction_to_Application,139,2020-02-25 15:48:54
+,bandappa@aroha.co.in,Bandappa,Basavaraj,RDBMS,Introduction,15,2020-02-25 15:55:19
+,bandappa@aroha.co.in,Bandappa,Basavaraj,RDBMS,Tables in RDBMS,22,2020-02-25 15:55:46
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Data Definition Language,430,2020-02-25 15:56:07
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,SQL Introduction And Types of SQL Statements,35,2020-02-25 15:56:09
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Introduction_to_Application,7,2020-02-25 15:56:29
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Data Manipulation language customer,31,2020-02-25 15:57:23
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Data Definition Language,410,2020-02-25 16:03:25
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Data Manipulation language customer,10,2020-02-25 16:03:39
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Writing Simple select Statements...,274,2020-02-25 16:03:43
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Data Manipulation language customer,14,2020-02-25 16:03:56
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Data Manipulation language,232,2020-02-25 16:07:44
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Data Manipulation language,47,2020-02-25 16:08:34
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Writing Simple select Statements...,391,2020-02-25 16:10:31
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Writing Simple select Statements derived column,18,2020-02-25 16:10:58
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Writing Simple select Statements derived column,18,2020-02-25 16:11:03
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Writing Simple select Statements derived column,268,2020-02-25 16:13:13
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Entities and Relationships-Example,2794,2020-02-25 16:13:24
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Writing Simple select Statements derived column,11,2020-02-25 16:13:26
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Writing Simple select Statements order by clause,14,2020-02-25 16:14:04
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Writing Simple select Statements order by clause,14,2020-02-25 16:14:06
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Data Manipulation language,249,2020-02-25 16:15:13
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Writing Simple select Statements order by clause,277,2020-02-25 16:19:54
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,select statement dealing with date,358,2020-02-25 16:26:53
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Entities and Relationships-Example,819,2020-02-25 16:27:08
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Writing Simple select Statements derived column,700,2020-02-25 16:27:09
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,select statement subquery,14,2020-02-25 16:27:16
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Writing Simple select Statements order by clause,106,2020-02-25 16:29:30
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,select statement subquery,374,2020-02-25 16:33:46
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Introduction to Aggregate Functions part-I,191,2020-02-25 16:37:02
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,select statement dealing with date,465,2020-02-25 16:37:49
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,SQL AND ORACLE QUIZ,17,2020-02-25 16:37:56
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,SQL AND ORACLE QUIZ,3,2020-02-25 16:38:07
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,DML Scenario phone plan,110,2020-02-25 16:40:00
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Visualizing Data,849,2020-02-25 16:42:22
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Introduction to SQL,72,2020-02-25 16:48:28
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Tables in RDBMS,622,2020-02-25 16:52:52
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,EF Codd's Rules,26,2020-02-25 16:53:46
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Writing Simple select Statements order by clause,746,2020-02-25 16:56:18
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Introduction to SQL,528,2020-02-25 17:00:19
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,SQL_Class_expectation,206,2020-02-25 17:03:41
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Understanding Oracle database connectivity,356,2020-02-25 17:09:43
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,select statement dealing with date,838,2020-02-25 17:11:36
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Introduction_to_Application,423,2020-02-25 17:16:50
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Representing relationship in Logical and Physical Model,6,2020-02-25 17:19:30
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,RDBMS,Sample-Logical Model,6,2020-02-25 17:19:40
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Introduction to SQL,432,2020-02-25 17:27:42
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Introduction to SQL,31,2020-02-25 17:28:15
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,select statement subquery,1054,2020-02-25 17:29:36
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,SQL_Class_expectation,155,2020-02-25 17:31:09
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Understanding Oracle database connectivity,355,2020-02-25 17:37:07
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Understanding Oracle database connectivity,12,2020-02-25 17:37:23
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Introduction to Aggregate Functions part-I,488,2020-02-25 17:38:22
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,SQL Introduction And Types of SQL Statements,98,2020-02-25 17:39:05
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Introduction to SQL,2,2020-02-25 17:39:09
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Introduction_to_Application,441,2020-02-25 17:46:36
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Introduction to Aggregate Functions part-II,69,2020-02-25 17:48:19
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Introduction to Aggregate Functions part-II,890,2020-02-25 17:53:50
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Group by and Having Clause,10,2020-02-25 17:54:21
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Group by and Having Clause,15,2020-02-25 17:54:37
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Group by and Having Clause,3,2020-02-25 17:54:41
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,EF Codd's Rules,2,2020-02-25 17:54:53
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Data Definition Language,582,2020-02-26 01:23:12
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Data Manipulation language customer,20,2020-02-26 01:23:45
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Data Manipulation language customer,14,2020-02-26 01:24:04
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Data Manipulation language customer,14,2020-02-26 01:24:05
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Writing Simple select Statements...,531,2020-02-26 01:32:57
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Data Manipulation language,427,2020-02-26 01:40:31
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Introduction to Aggregate Functions part-II,982,2020-02-26 02:25:05
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Group by and Having Clause,39,2020-02-26 02:25:50
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Group by and Having Clause,3,2020-02-26 02:26:00
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Writing different queries on customer table,723,2020-02-26 02:38:06
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Group by and Having Clause PartII,6,2020-02-26 02:49:09
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Writing Simple select Statements derived column,502,2020-02-26 02:53:04
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,SQL Simple Join,763,2020-02-26 03:04:00
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select Simple Join PartII,698,2020-02-26 03:15:51
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select Simple Join PartII,35,2020-02-26 03:16:31
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Introduction to SQL,27,2020-02-26 03:28:20
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,select statement dealing with date,46,2020-02-26 03:29:18
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select Outer join,773,2020-02-26 03:29:40
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Select Simple Join three tables,118,2020-02-26 03:31:29
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select Date Functions,118,2020-02-26 03:32:38
+,ps1381606@gmail.com,Pooja,singh,Oralce PL/SQL,Cursor Scenario - Customer Grading Part one,12,2020-02-26 03:34:30
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Data Definition Language,616,2020-02-26 04:07:27
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,select statement subquery,1,2020-02-26 04:11:47
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,select statement subquery,863,2020-02-26 04:26:12
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Introduction to SQL,392,2020-02-26 04:29:18
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Introduction to Aggregate Functions part-I,310,2020-02-26 04:31:31
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,SQL_Class_expectation,130,2020-02-26 04:31:48
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,DML Scenario phone plan,10,2020-02-26 04:33:30
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Understanding Oracle database connectivity,540,2020-02-26 04:34:15
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL AND ORACLE QUIZ,8,2020-02-26 04:34:16
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select Simple Join three tables,4,2020-02-26 04:34:30
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Understanding Oracle database connectivity,40,2020-02-26 04:34:57
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select Simple Join PartII,6,2020-02-26 04:35:55
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Understanding Oracle database connectivity,71,2020-02-26 04:36:14
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Introduction to SQL,4,2020-02-26 04:36:34
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Introduction to Aggregate Functions part-I,3,2020-02-26 04:37:04
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Introduction to Aggregate Functions part-II,11,2020-02-26 04:37:17
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Introduction to Aggregate Functions part-II,2,2020-02-26 04:37:22
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Writing Simple select Statements order by clause,3,2020-02-26 04:38:59
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Writing Simple select Statements derived column,2,2020-02-26 04:39:03
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,SQL Introduction And Types of SQL Statements,825,2020-02-26 05:51:11
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Introduction_to_Application,59,2020-02-26 05:53:15
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Data Definition Language,202,2020-02-26 05:56:42
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Data Manipulation language customer,92,2020-02-26 05:58:30
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Writing Simple select Statements...,58,2020-02-26 06:00:19
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Data Manipulation language,53,2020-02-26 06:01:17
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Writing Simple select Statements derived column,50,2020-02-26 06:02:13
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Writing Simple select Statements order by clause,3726,2020-02-26 06:03:48
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Writing Simple select Statements order by clause,70,2020-02-26 06:05:50
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,select statement dealing with date,270,2020-02-26 06:10:28
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,select statement subquery,99,2020-02-26 06:12:45
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Introduction to Aggregate Functions part-I,1166,2020-02-26 06:32:17
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Introduction to Aggregate Functions part-I,68,2020-02-26 06:33:38
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Introduction to Aggregate Functions part-II,81,2020-02-26 06:35:06
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Group by and Having Clause,71,2020-02-26 06:36:27
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Group by and Having Clause,19,2020-02-26 06:39:52
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Writing different queries on customer table,48,2020-02-26 06:40:43
+,nkasnaveenkumar@gmail.com,Naveen,kumar,Oracle SQL,Group by and Having Clause PartII,98,2020-02-26 06:43:23
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select Date Functions,27,2020-02-26 13:55:20
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select Date Functions,52,2020-02-26 13:56:51
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select Date Functions,1065,2020-02-26 14:14:37
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select Number Functions,536,2020-02-26 14:23:38
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select String functions,371,2020-02-26 14:29:59
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select String function part II,315,2020-02-26 14:35:20
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Writing Simple select Statements order by clause,40,2020-02-26 16:48:47
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Introduction to Aggregate Functions part-II,575,2020-02-26 16:53:04
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Group by and Having Clause,9,2020-02-26 16:53:17
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Writing different queries on customer table,381,2020-02-26 16:59:41
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Select Outer join,705,2020-02-26 17:00:19
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Data Manipulation language customer,24,2020-02-26 17:01:33
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Writing Simple select Statements derived column,2,2020-02-26 17:01:40
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Writing Simple select Statements order by clause,3,2020-02-26 17:01:48
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Select Outer join,236,2020-02-26 17:04:21
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Group by and Having Clause PartII,275,2020-02-26 17:04:25
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Select Simple Join PartII,254,2020-02-26 17:09:24
+,msarunkumar30@gmail.com,Arun,Kumar,Oracle SQL,Data Definition Language,1,2020-02-26 17:09:42
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Select Date Functions,893,2020-02-26 17:19:40
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Select Number Functions,469,2020-02-26 17:27:51
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Select String functions,457,2020-02-26 17:36:00
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Select String functions,8,2020-02-26 17:36:13
+,nadellanaveenkumar16@gmail.com,Nadella,Naveen kumar,Oracle SQL,Select String function part II,460,2020-02-26 17:44:18
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,DML Scenario phone plan,617,2020-02-27 01:57:43
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select More about Joins,21,2020-02-27 01:58:10
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,DML Scenario phone plan,5,2020-02-27 01:58:16
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Group by and Having Clause,14,2020-02-27 03:44:45
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Group by and Having Clause,7,2020-02-27 03:44:56
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,select statement dealing with date,27,2020-02-27 03:45:00
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Writing different queries on customer table,22,2020-02-27 03:45:21
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,select statement dealing with date,20,2020-02-27 03:45:23
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Group by and Having Clause PartII,25,2020-02-27 03:45:49
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,SQL Simple Join,19,2020-02-27 03:46:10
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,select statement subquery,44,2020-02-27 03:46:10
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Introduction to Aggregate Functions part-I,5,2020-02-27 03:46:18
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Select Outer join,8,2020-02-27 03:46:24
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Expectation from you,26,2020-02-27 04:43:40
+,bandappa@aroha.co.in,Bandappa,Basavaraj,RDBMS,Databases,6,2020-02-27 04:44:18
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Group by and Having Clause,8,2020-02-27 04:44:32
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Writing different queries on customer table,9,2020-02-27 04:44:43
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Group by and Having Clause PartII,5,2020-02-27 04:44:50
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Group by and Having Clause PartII,18,2020-02-27 04:45:11
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Visualizing Retail Business,21,2020-02-27 04:45:36
+,chaithra1695@gmail.com,Chaithra,T K,Oracle SQL,Writing Simple select Statements...,66,2020-02-27 04:45:58
+,chaithra1695@gmail.com,Chaithra,T K,RDBMS,Introduction,13,2020-02-27 04:46:50
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Entities,7,2020-02-27 04:47:08
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Writing Simple select Statements derived column,22,2020-02-27 06:00:07
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL_Class_expectation,1,2020-02-27 06:00:35
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL AND ORACLE QUIZ,11,2020-02-27 06:12:36
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL AND ORACLE QUIZ,4,2020-02-27 06:12:43
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Select String function part II,3,2020-02-27 06:15:32
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,select statement subquery,2,2020-02-27 06:17:27
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Writing Simple select Statements...,5,2020-02-27 06:17:45
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Writing Simple select Statements...,91,2020-02-27 06:19:25
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Writing Simple select Statements...,17,2020-02-27 06:20:00
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Data Manipulation language,9,2020-02-27 06:42:16
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Data Manipulation language,45,2020-02-27 06:43:07
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Writing Simple select Statements order by clause,43,2020-02-27 06:45:19
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Group by and Having Clause,56,2020-02-27 06:48:06
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL Simple Join,60,2020-02-27 06:49:23
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,SQL Simple Join,22,2020-02-27 13:22:01
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Introduction,6,2020-02-27 14:17:41
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,select statement dealing with date,1,2020-02-27 16:43:56
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Writing Simple select Statements derived column,525,2020-02-27 16:53:44
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Introduction to Aggregate Functions part-I,6,2020-02-27 16:54:04
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Group by and Having Clause PartII,0,2020-02-27 16:54:07
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Introduction_to_Application,486,2020-02-27 17:03:50
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Introduction_to_Application,486,2020-02-27 17:03:53
+,ilavarasu43@gmail.com,ilavarasu,s,Oracle SQL,Data Definition Language,612,2020-02-27 17:17:48
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select String function part II,26,2020-02-28 01:59:42
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,EF Codd's Rules,485,2020-02-28 04:54:20
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Conceptual Model,0,2020-02-28 04:54:21
+,ajitaj7777@gmail.com,Ajit,G,Microsoft SQL Server,Welcome,9,2020-02-28 07:52:34
+,ajitaj7777@gmail.com,Ajit,G,Microsoft SQL Server,Welcome,4,2020-02-28 07:52:39
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Writing Simple select Statements...,299,2020-02-28 09:18:25
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Data Manipulation language,242,2020-02-28 09:22:40
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,Writing different queries on customer table,16,2020-02-28 09:26:03
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oracle SQL,SQL Simple Join,5,2020-02-28 09:26:11
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Data Manipulation language customer,405,2020-02-28 09:29:29
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Writing Simple select Statements derived column,5,2020-02-28 09:29:53
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Writing Simple select Statements order by clause,25,2020-02-28 09:30:22
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,Data Manipulation language customer,16,2020-02-28 13:26:26
+,shailendran70@gmail.com,Shailendra,Yadav,Oracle SQL,SQL Simple Join,56,2020-02-28 13:27:25
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,select statement subquery,58,2020-02-28 13:29:27
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Introduction to Aggregate Functions part-II,42,2020-02-28 13:30:46
+,deepikamis9@gmail.com,Deepika,Mishra,Tableau,Getting Started,2,2020-02-28 16:04:35
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Understanding Oracle database connectivity,28,2020-02-29 02:17:49
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Writing Simple select Statements...,522,2020-02-29 02:26:38
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,select statement subquery,540,2020-02-29 02:35:43
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Writing Simple select Statements derived column,395,2020-02-29 04:07:15
+,roshanraj1035@gmail.com,dilraj,meena,Business Objects,Introduction to Business Objects,19,2020-02-29 04:16:57
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,Writing Simple select Statements order by clause,571,2020-02-29 04:16:59
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,EF Codd's Rules,48,2020-02-29 10:04:38
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,EF Codd's Rules,561,2020-02-29 10:43:31
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,"Primary Key, Foreign Key",675,2020-02-29 10:54:50
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,What is a transaction?,348,2020-02-29 11:00:49
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,ACID property,5,2020-02-29 11:00:57
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,What is a transaction?,293,2020-02-29 11:05:52
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,ACID property,737,2020-02-29 11:18:17
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,Select More about Joins,256,2020-03-02 01:44:59
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,SQL AND ORACLE QUIZ,34,2020-03-02 01:45:58
+,mahendranviji333@gmail.com,mahendran,N,Oracle SQL,SQL AND ORACLE QUIZ,766,2020-03-02 02:00:56
+,tvnr690@gmail.com,,,Microsoft SQL Server,Welcome,1,2020-03-02 08:02:46
+,tvnr690@gmail.com,,,SSRS,Pivot Table (Dynamic Matrix),65,2020-03-02 09:55:39
+,rachin.pant@gmail.com,Rachin,Pant,SSRS,Pivot Table (Dynamic Matrix),51,2020-03-02 09:57:45
+,rachin.pant@gmail.com,Rachin,Pant,SSRS,Pivot Table (Dynamic Matrix),31,2020-03-02 09:58:25
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Select More about Joins,21,2020-03-02 09:59:18
+,rachin.pant@gmail.com,Rachin,Pant,Tableau,Dynamic Calculation,1,2020-03-02 10:00:30
+,rachin.pant@gmail.com,Rachin,Pant,SDLC,Part-1,5,2020-03-02 10:00:40
+,rachin.pant@gmail.com,Rachin,Pant,Oracle SQL,Select Simple Join three tables,22,2020-03-02 10:01:32
+,tvnr690@gmail.com,,,SSRS,Pivot Table (Dynamic Matrix),61,2020-03-02 10:02:42
+,tvnr690@gmail.com,,,SSRS,Gauges,3,2020-03-02 10:02:50
+,tvnr690@gmail.com,,,SSRS,Document Maps,3,2020-03-02 10:02:59
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Introduction_to_Application,422,2020-03-03 01:51:51
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Data Manipulation language customer,16,2020-03-03 01:52:13
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Introduction to Aggregate Functions part-I,450,2020-03-03 01:59:50
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Select Simple Join PartII,1,2020-03-03 02:12:48
+,vnr.tumu@gmail.com,venkat,reddy,RDBMS,"Primary Key, Foreign Key",357,2020-03-03 06:02:44
+,vnr.tumu@gmail.com,venkat,reddy,RDBMS,Expectation from you,29,2020-03-03 06:03:25
+,vnr.tumu@gmail.com,venkat,reddy,RDBMS,Entities,194,2020-03-03 06:06:57
+,vnr.tumu@gmail.com,venkat,reddy,RDBMS,Three types of Relationships,11,2020-03-03 06:07:22
+,vnr.tumu@gmail.com,venkat,reddy,RDBMS,EF Codd's Rules,87,2020-03-03 06:09:06
+,vnr.tumu@gmail.com,venkat,reddy,RDBMS,Sample-Conceptual Model,16,2020-03-03 12:41:09
+,mahendranviji333@gmail.com,mahendran,N,RDBMS,Expectation from you,25,2020-03-03 13:21:40
+,shridharbhardwaj@gmail.com,Shridhar,Bhardwaj,Oracle SQL,SQL AND ORACLE QUIZ,12,2020-03-03 14:39:34
+,msarunkumar30@gmail.com,Arun,Kumar,RDBMS,EF Codd's Rules,1012,2020-03-03 17:37:25
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,ACID property,56,2020-03-04 00:38:04
+,shailendran70@gmail.com,Shailendra,Yadav,RDBMS,ACID property,51,2020-03-04 01:19:09
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Introduction,794,2020-03-04 16:06:32
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Expectation from you,250,2020-03-04 16:10:44
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,What is Data? ,260,2020-03-04 16:15:14
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Entities,294,2020-03-04 16:20:10
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Three types of Relationships,13,2020-03-04 16:20:33
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,"Primary Key, Foreign Key",583,2020-03-04 16:30:23
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,What is a transaction?,156,2020-03-04 16:33:03
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,ACID property,444,2020-03-04 16:40:31
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Conceptual Model,3696,2020-03-04 17:42:23
+,siddeshbagali13@gmail.com,siddesh,bagali,RDBMS,Sample-Logical Model,67,2020-03-04 17:43:35
+,chebel1993@gmail.com,Chetan,Belagali,RDBMS,Introduction,7,2020-03-05 10:36:06
+,chebel1993@gmail.com,Chetan,Belagali,RDBMS,What is Data? ,13,2020-03-05 10:36:24
+,chebel1993@gmail.com,Chetan,Belagali,RDBMS,Databases,6,2020-03-05 10:37:07
+,mehulsaha@gmail.com,Mehul,Raj,RDBMS,Introduction,18,2020-03-05 17:32:00
+,mehulsaha@gmail.com,Mehul,Raj,RDBMS,Expectation from you,594,2020-03-05 17:48:47
+,mehulsaha@gmail.com,Mehul,Raj,RDBMS,What is Data? ,366,2020-03-05 17:55:03
+,mehulsaha@gmail.com,Mehul,Raj,RDBMS,Introduction,2,2020-03-05 17:55:29
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,Introduction,47,2020-03-06 06:48:46
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,Introduction,118,2020-03-06 06:51:08
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,Introduction,16,2020-03-06 07:17:55
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,Introduction,34,2020-03-06 07:18:32
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,Business Objects,Using Alias in the universe model,14,2020-03-06 07:53:56
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,Business Objects,Using Alias in the universe model,14,2020-03-06 07:54:01
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,Data Warehouse Concepts,Slowly Changing Dimension - SCD1,41,2020-03-06 07:55:03
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,Micro Strategy,Attributes,26,2020-03-06 07:55:46
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,Micro Strategy,Attributes,26,2020-03-06 07:55:52
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,SSIS,Getting Started,57,2020-03-06 07:56:55
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,SSIS,Getting Started,57,2020-03-06 07:56:57
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,Desktop Intelligence,Difference between operational reporting and BO reporting,9,2020-03-06 07:57:14
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Group by and Having Clause,9,2020-03-06 11:21:56
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Group by and Having Clause PartII,549,2020-03-06 11:31:13
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Group by and Having Clause PartII,549,2020-03-06 11:31:19
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,select statement subquery,1,2020-03-06 11:31:19
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Select Date Functions,776,2020-03-06 11:44:23
+,rachin.pant@gmail.com,Rachin,Pant,Oralce PL/SQL,Cursor Scenario - Customer Grading Part one,23,2020-03-07 05:01:55
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Group by and Having Clause PartII,40,2020-03-07 08:52:59
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Group by and Having Clause,5,2020-03-07 08:53:07
+,rachin.pant@gmail.com,Rachin,Pant,Oralce PL/SQL,Banking Process Scenario with Deposit,3,2020-03-07 17:03:32
+,rachin.pant@gmail.com,Rachin,Pant,Oralce PL/SQL,Introduction to PL SQL,663,2020-03-07 17:17:11
+,rachin.pant@gmail.com,Rachin,Pant,Oralce PL/SQL,Sample PL SQL Block,712,2020-03-07 17:29:05
+,rachin.pant@gmail.com,Rachin,Pant,Oralce PL/SQL,Exception handling,2,2020-03-07 17:29:08
+,rachin.pant@gmail.com,Rachin,Pant,Oralce PL/SQL,Exception handling,573,2020-03-07 17:38:44
+,rachin.pant@gmail.com,Rachin,Pant,Oralce PL/SQL,No Data Found and Update DML,294,2020-03-07 17:43:40
+,rachin.pant@gmail.com,Rachin,Pant,Oralce PL/SQL,Dealing with Updates in PL SQL,566,2020-03-07 17:53:10
+,ps1381606@gmail.com,Pooja,singh,Oracle SQL,Writing different queries on customer table,0,2020-03-09 01:41:47
+,sumanunna22@gmail.com,SUMA,B NUNNA,RDBMS,Expectation from you,3,2020-03-09 07:00:58
+,sumanunna22@gmail.com,SUMA,B NUNNA,RDBMS,What is Data? ,3,2020-03-09 07:01:04
+,anmuchalambe@gmail.com,Ambadas,N,Microsoft SQL Server,Welcome,7,2020-03-09 09:48:21
+,anmuchalambe@gmail.com,Ambadas,N,Microsoft SQL Server,Welcome,4,2020-03-09 09:48:27
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Before you learn DW,111,2020-03-09 09:51:09
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Introduction to DW,34,2020-03-09 09:51:45
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Differences Between OLTP And DW,13,2020-03-09 09:52:01
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,DW Architecture,12,2020-03-09 09:52:17
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,DW Architecture,4,2020-03-09 09:52:25
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of DW Part One,32,2020-03-09 09:53:10
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of Datawarehouse Part II,5,2020-03-09 09:53:14
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of Datawarehouse Part III,5,2020-03-09 09:53:23
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of Datawarehouse Part II,4,2020-03-09 09:53:38
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of Datawarehouse Part II,4,2020-03-09 09:53:43
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Differences Between OLTP And DW,7,2020-03-09 09:54:31
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Before you learn DW,11,2020-03-09 09:55:45
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of DW Part One,13,2020-03-09 09:56:08
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Different approaches to build DW,23,2020-03-09 09:56:39
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of Datawarehouse Part II,21,2020-03-09 09:57:12
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of Datawarehouse Part III,16,2020-03-09 09:57:35
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Different approaches to build DW,10,2020-03-09 09:57:51
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Difference between DW and Data Mart,10,2020-03-09 09:58:05
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,DW Maturity,10,2020-03-09 09:58:24
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Data Granularity,11,2020-03-09 09:58:39
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Itroduction to ETL (Extract Transfer and Load),11,2020-03-09 09:58:57
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Extract process in ETL Layer,11,2020-03-09 09:59:12
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Extract scenarios in ETL Layer,10,2020-03-09 09:59:26
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Transformation process in ETL Layer,10,2020-03-09 09:59:42
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Different transformations in ETL,11,2020-03-09 10:00:05
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Loading process in ETL Layer,10,2020-03-09 10:00:20
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Loading process in ETL Layer,8,2020-03-09 10:00:40
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Data Modeling in DW systems,11,2020-03-09 10:00:59
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Difference between 3rd NF and Dimensional Modeling,10,2020-03-09 10:01:15
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Introduction to Dimensional Modeling,9,2020-03-09 10:01:30
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Star and Snowflake schemas,8,2020-03-09 10:01:42
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Star and Snowflake schemas,7,2020-03-09 10:01:54
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Slowly Changing Dimension - SCD1,9,2020-03-09 10:02:08
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Slowly Changing Dimension - SCD2,12,2020-03-09 10:02:23
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Slowly Changing Dimension - SCD3,9,2020-03-09 10:02:35
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,DW Fact table,10,2020-03-09 10:02:46
+,anmuchalambe@gmail.com,Ambadas,N,SDLC,Part-1,30,2020-03-09 10:03:29
+,anmuchalambe@gmail.com,Ambadas,N,SDLC,Part-2,15,2020-03-09 10:03:46
+,anmuchalambe@gmail.com,Ambadas,N,SDLC,Part-3,9,2020-03-09 10:03:57
+,anmuchalambe@gmail.com,Ambadas,N,Tableau,Live Project for Understanding Implementation,19,2020-03-09 10:05:22
+,anmuchalambe@gmail.com,Ambadas,N,Power BI,Introduction to DAX,4,2020-03-09 10:07:39
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Before you learn DW,171,2020-03-09 11:07:53
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of DW Part One,41,2020-03-09 11:12:58
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of DW Part One,13,2020-03-09 11:13:13
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,DW Architecture,40,2020-03-09 11:13:57
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,DW Architecture,9,2020-03-09 11:14:49
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,DW Architecture,8,2020-03-09 11:15:14
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Definition of DW Part One,10,2020-03-09 11:15:26
+,ruby23aroha@gmail.com,Grace,Rubila,RDBMS,Entities and Relationships-Example,748,2020-03-09 17:55:59
+,manak14gupta@gmail.com,Manak,Gupta,RDBMS,EF Codd's Rules,73,2020-03-10 08:36:14
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Introduction,6,2020-03-10 08:44:33
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Introduction,14,2020-03-10 08:44:48
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Expectation from you,4,2020-03-10 08:44:54
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Next Steps,5,2020-03-10 08:45:11
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Introduction,18,2020-03-10 08:46:20
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Introduction,18,2020-03-10 08:46:22
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Expectation from you,21,2020-03-10 08:46:44
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Expectation from you,21,2020-03-10 08:46:46
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Expectation from you,5,2020-03-10 08:46:51
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,"Primary Key, Foreign Key",17,2020-03-10 08:49:08
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,ACID property,3,2020-03-10 08:49:11
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Representing relationship in Logical and Physical Model,1,2020-03-10 08:49:15
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Introduction,1246,2020-03-10 08:50:22
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,Introduction,718,2020-03-10 13:27:30
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,Expectation from you,476,2020-03-10 13:40:17
+,nidhimurthy1208@gmail.com,Nidhi,Murthy,RDBMS,Introduction,36,2020-03-10 16:52:00
+,nidhimurthy1208@gmail.com,Nidhi,Murthy,RDBMS,Expectation from you,54,2020-03-10 16:52:57
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Introduction,683,2020-03-10 17:55:01
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Introduction,683,2020-03-10 17:55:02
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Expectation from you,9,2020-03-10 18:02:14
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,Relational DBMS,281,2020-03-11 02:04:50
+,nidhimurthy1208@gmail.com,Nidhi,Murthy,RDBMS,Introduction,696,2020-03-11 02:41:53
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Introduction,2,2020-03-11 11:03:51
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Introduction,3,2020-03-11 11:04:08
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,What is Data? ,10,2020-03-11 11:04:11
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,Relational DBMS,32349,2020-03-11 11:04:17
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,Introduction,2,2020-03-11 11:04:17
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,Introduction,17,2020-03-11 11:04:35
+,manak14gupta@gmail.com,Manak,Gupta,RDBMS,Expectation from you,34,2020-03-11 11:04:44
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Introduction,36,2020-03-11 11:05:00
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,Microsoft SQL Server,Welcome,8,2020-03-11 11:05:57
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,Microsoft SQL Server,Welcome,8,2020-03-11 11:06:03
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Introduction,34,2020-03-11 16:50:07
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Introduction,46,2020-03-11 16:51:29
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,Introduction,10,2020-03-11 17:06:51
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,What is Data? ,5,2020-03-11 17:13:24
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,Entities,2,2020-03-11 17:13:29
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,What is Data? ,330,2020-03-11 17:19:06
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Introduction,1,2020-03-11 17:23:44
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,What is Data? ,371,2020-03-11 17:25:25
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,Entities,471,2020-03-11 17:36:19
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Expectation from you,5,2020-03-11 17:45:39
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,Visualizing Retail Business,689,2020-03-11 17:47:54
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,Databases,48,2020-03-11 17:50:08
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,Databases,426,2020-03-11 17:55:10
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,What is Data? ,609,2020-03-11 17:55:50
+,nidhimurthy1208@gmail.com,Nidhi,Murthy,RDBMS,Visualizing Retail Business,113,2020-03-11 17:57:31
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,What is Data? ,256,2020-03-11 18:00:08
+,nidhimurthy1208@gmail.com,Nidhi,Murthy,RDBMS,Databases,173,2020-03-11 18:00:35
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,Introduction,10,2020-03-12 02:04:25
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,What is Data? ,35,2020-03-12 02:05:03
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,Visualizing Retail Business,26,2020-03-12 02:05:33
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,Databases,18,2020-03-12 02:05:58
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,RDBMS Products in the market,1,2020-03-12 02:06:06
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,ACID property,124,2020-03-12 02:19:13
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,ACID property,50,2020-03-12 02:20:07
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,Entities,1,2020-03-12 02:20:14
+,ajitaj7777@gmail.com,Ajit,aj,RDBMS,Entities,4,2020-03-12 02:20:21
+,nidhimurthy1208@gmail.com,Nidhi,Murthy,RDBMS,EF Codd's Rules,54,2020-03-12 16:29:46
+,nidhimurthy1208@gmail.com,Nidhi,Murthy,RDBMS,ACID property,340,2020-03-12 16:40:12
+,nidhimurthy1208@gmail.com,Nidhi,Murthy,RDBMS,EF Codd's Rules,46,2020-03-12 16:42:14
+,nidhimurthy1208@gmail.com,Nidhi,Murthy,RDBMS,EF Codd's Rules,485,2020-03-12 16:50:23
+,nidhimurthy1208@gmail.com,Nidhi,Murthy,RDBMS,What is a transaction?,12,2020-03-12 16:50:45
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,Introduction to PL SQL,41,2020-03-13 06:39:24
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,Introduction to PL SQL,6,2020-03-13 06:41:35
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,Sample PL SQL Block,75,2020-03-13 06:42:54
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,Exception handling,5,2020-03-13 06:46:04
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,No Data Found and Update DML,3,2020-03-13 06:48:25
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,Embedded SQL,4,2020-03-13 06:49:15
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,Dealing with Updates in PL SQL,34,2020-03-13 06:49:51
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,Banking Process Scenario with Deposit,27,2020-03-13 06:51:15
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,Dealing with Updates in PL SQL,73,2020-03-13 06:52:32
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,Banking Process Scenario with Deposit,29,2020-03-13 06:53:14
+,shailendran70@gmail.com,Shailendra,Yadav,Oralce PL/SQL,Banking Process Scenario with Deposit,3,2020-03-13 06:53:17
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,What is Data? ,1,2020-03-14 05:01:49
+,manak14gupta@gmail.com,Manak,Gupta,Microsoft SQL Server,Welcome,14,2020-03-14 05:03:03
+,anmuchalambe@gmail.com,Ambadas,N,Data Warehouse Concepts,Slowly Changing Dimension - SCD1,11,2020-03-15 06:39:25
+,msarunkumar30@gmail.com,Arun,Kumar,Oralce PL/SQL,Introduction to PL SQL,106,2020-03-15 07:11:52
+,msarunkumar30@gmail.com,Arun,Kumar,Oralce PL/SQL,Exception Part one,15,2020-03-15 07:12:39
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,What is Data? ,36,2020-03-17 03:29:31
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,What is Data? ,329,2020-03-17 03:35:03
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Entities,471,2020-03-17 03:42:57
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,"Primary Key, Foreign Key",1,2020-03-19 03:50:31
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,Expectation from you,79,2020-03-19 07:16:12
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,Databases,4,2020-03-19 07:16:18
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,Expectation from you,30,2020-03-19 07:20:41
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,Expectation from you,3,2020-03-19 07:20:47
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,Expectation from you,239,2020-03-19 07:24:49
+,shyamliupadhyaya1234@gmail.com,Shyamali,Upadhyaya,RDBMS,What is Data? ,421,2020-03-19 07:35:28
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,Expectation from you,215,2020-03-19 13:41:16
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,RDBMS,What is Data? ,265,2020-03-19 15:20:19
+,soumya.kulkarni@aroha.co.in,soumya,Kulkarni,RDBMS,Tables in RDBMS,1,2020-03-20 10:08:17
+,soumya.kulkarni@aroha.co.in,soumya,Kulkarni,RDBMS,Expectation from you,2,2020-03-20 10:08:22
+,soumya.kulkarni@aroha.co.in,soumya,Kulkarni,RDBMS,What is Data? ,1,2020-03-20 10:08:24
+,soumya.kulkarni@aroha.co.in,soumya,Kulkarni,RDBMS,What is a transaction?,1,2020-03-20 10:08:51
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Introduction to PL SQL,88,2020-03-21 04:13:20
+,dharithakar@gmail.com,Dhari,Thakar,Microsoft SQL Server,Welcome,21,2020-03-21 07:17:34
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Introduction to PL SQL,54,2020-03-22 03:44:00
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Sample PL SQL Block,643,2020-03-22 03:54:46
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Exception handling,1957,2020-03-22 04:27:30
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Exception handling,1022,2020-03-22 04:44:34
+,siddeshbagali13@gmail.com,siddesh,bagali,Power BI,Introduction to Power BI - Summary,27,2020-03-22 04:45:07
+,siddeshbagali13@gmail.com,siddesh,bagali,Tableau,Creating Sets and Calculations,17,2020-03-22 04:45:31
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Exception handling,73,2020-03-22 04:47:15
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,No Data Found and Update DML,105,2020-03-22 04:49:20
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Embedded SQL,500,2020-03-22 04:57:50
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Control Statement If then else,246,2020-03-22 05:02:17
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Control Statement If then else,1437,2020-03-22 05:26:43
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Exception Part one,1423,2020-03-22 05:50:30
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Exception Part two,241,2020-03-22 05:54:49
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Loops in PLSQL Introduction,1169,2020-03-22 06:14:30
+,rachin.pant@gmail.com,Rachin,Pant,Data Warehouse Concepts,Before you learn DW,25,2020-03-22 06:33:57
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oralce PL/SQL,Introduction to PL SQL,19,2020-03-22 06:47:09
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oralce PL/SQL,PL/SQL QUIZ,8,2020-03-22 06:47:34
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oralce PL/SQL,Cursor Scenario - Customer Grading Part two,2,2020-03-22 06:47:37
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oralce PL/SQL,PL/SQL QUIZ,4,2020-03-22 06:47:42
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oralce PL/SQL,Loops in PLSQL Introduction,6,2020-03-22 06:47:51
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Block with in Block Problem Statement,356,2020-03-22 07:50:08
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Introduction,634,2020-03-22 08:14:26
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Expectation from you,1040,2020-03-22 08:31:49
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,What is Data? ,363,2020-03-22 08:37:55
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Cursor Scenario - Customer Grading Part one,4026,2020-03-22 08:57:29
+,siddeshbagali13@gmail.com,siddesh,bagali,Oralce PL/SQL,Cursor Scenario - Customer Grading Part one,148,2020-03-22 09:00:04
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Entities,216,2020-03-22 13:41:42
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Visualizing Retail Business,733,2020-03-22 13:53:59
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Databases,450,2020-03-22 14:01:40
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Types of Databases,21,2020-03-22 14:02:06
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Types of Databases,771,2020-03-22 14:15:03
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,RDBMS Products in the market,495,2020-03-22 14:41:18
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Three types of Relationships,21,2020-03-22 14:42:16
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Visualizing Data,729,2020-03-22 14:57:07
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Tables in RDBMS,710,2020-03-22 15:09:03
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Entities and Relationships-Example,928,2020-03-22 15:24:49
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Visualizing Data,18,2020-03-22 15:25:15
+,aki05.july@gmail.com,akanksha,kumbhaj,RDBMS,Tables in RDBMS,11,2020-03-22 15:25:34
+,hariprincy06@gmail.com,Hari,Priya,Data Warehouse Concepts,Before you learn DW,35,2020-03-23 06:00:38
+,hariprincy06@gmail.com,Hari,Priya,Data Warehouse Concepts,Introduction to DW,32,2020-03-23 06:01:15
+,hariprincy06@gmail.com,Hari,Priya,Data Warehouse Concepts,Differences Between OLTP And DW,19,2020-03-23 06:01:40
+,mahendranviji333@gmail.com,mahendran,N,Data Warehouse Concepts,Introduction to DW,3,2020-03-23 06:10:39
+,mahendranviji333@gmail.com,mahendran,N,Data Warehouse Concepts,DW Architecture,9,2020-03-23 06:10:49
+,mahendranviji333@gmail.com,mahendran,N,Data Warehouse Concepts,Definition of DW Part One,6,2020-03-23 06:19:04
+,mahendranviji333@gmail.com,mahendran,N,Data Warehouse Concepts,Differences Between OLTP And DW,2,2020-03-23 07:24:28
+,hariprincy06@gmail.com,Hari,Priya,Data Warehouse Concepts,Introduction to DW,6,2020-03-23 07:26:45
+,manak14gupta@gmail.com,Manak,Gupta,Data Warehouse Concepts,Before you learn DW,165,2020-03-23 07:35:59
+,dharithakar@gmail.com,Dhari,Thakar,SDLC,Part-1,215,2020-03-23 12:11:00
+,dharithakar@gmail.com,Dhari,Thakar,SDLC,Part-2,7,2020-03-23 12:11:08
+,dharithakar@gmail.com,Dhari,Thakar,SDLC,Part-3,21,2020-03-23 12:11:30
+,dharithakar@gmail.com,Dhari,Thakar,Business Objects,Introduction to Business Objects,189,2020-03-23 12:15:37
+,dharithakar@gmail.com,Dhari,Thakar,Business Objects,Components of BO,95,2020-03-23 12:17:18
+,dharithakar@gmail.com,Dhari,Thakar,Business Objects,Introduction to BO Designer,155,2020-03-23 12:19:56
+,dharithakar@gmail.com,Dhari,Thakar,Business Objects,Object types in Universe,53,2020-03-23 12:21:01
+,rajesh@aroha.co.in,rajesh,kumar,Data Warehouse Concepts,Before you learn DW,13,2020-03-23 14:48:13
+,rajesh@aroha.co.in,rajesh,kumar,Data Warehouse Concepts,Before you learn DW,3,2020-03-23 14:48:19
+,rajesh@aroha.co.in,rajesh,kumar,Data Warehouse Concepts,Introduction to DW,2,2020-03-23 14:48:23
+,rajesh@aroha.co.in,rajesh,kumar,Data Warehouse Concepts,Introduction to DW,18,2020-03-23 14:48:42
+,rajesh@aroha.co.in,rajesh,kumar,Data Warehouse Concepts,Differences Between OLTP And DW,35,2020-03-23 14:49:20
+,rajesh@aroha.co.in,rajesh,kumar,Data Warehouse Concepts,DW Architecture,7,2020-03-23 14:49:29
+,rajesh@aroha.co.in,rajesh,kumar,Data Warehouse Concepts,Definition of DW Part One,36,2020-03-23 14:50:07
+,rajesh@aroha.co.in,rajesh,kumar,Data Warehouse Concepts,DW Maturity,20,2020-03-23 14:50:32
+,akkishivaraj303@gmail.com,Shivaraj,Akkivat,Data Warehouse Concepts,Before you learn DW,4006,2020-03-23 15:58:35
+,ajitaj7777@gmail.com,Ajit,aj,Data Warehouse Concepts,Before you learn DW,461,2020-03-23 17:16:42
+,ajitaj7777@gmail.com,Ajit,aj,Oracle SQL,Data Definition Language,30,2020-03-23 17:17:28
+,ajitaj7777@gmail.com,Ajit,aj,Oracle SQL,Select Simple Join three tables,39,2020-03-23 17:20:48
+,ajitaj7777@gmail.com,Ajit,aj,Oracle SQL,SQL AND ORACLE QUIZ,11,2020-03-23 17:21:07
+,ajitaj7777@gmail.com,Ajit,aj,Oracle SQL,SQL AND ORACLE QUIZ,8,2020-03-23 17:21:17
+,ajitaj7777@gmail.com,Ajit,aj,Oracle SQL,Select More about Joins,4,2020-03-23 17:21:28
+,ajitaj7777@gmail.com,Ajit,aj,Oracle SQL,Select Date Functions,34,2020-03-23 17:22:06
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Introduction to PL SQL,81,2020-03-24 04:10:49
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Introduction to PL SQL,656,2020-03-24 07:08:07
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Sample PL SQL Block,136,2020-03-24 07:10:24
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Cursor Scenario - Customer Grading Part one,199,2020-03-24 08:40:42
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,PL/SQL QUIZ,0,2020-03-24 08:40:44
+,Chaurasiyaranjeet014@gmail.com,ranjeet,chaurasiya,Desktop Intelligence,Difference between operational reporting and BO reporting,12,2020-03-24 10:03:37
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Exception handling,197,2020-03-25 16:09:44
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Exception handling,1,2020-03-26 01:45:29
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,No Data Found and Update DML,768,2020-03-26 01:58:21
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Embedded SQL,779,2020-03-26 02:11:46
+,hariprincy06@gmail.com,Hari,Priya,SDLC,Part-1,23,2020-03-26 09:20:34
+,hariprincy06@gmail.com,Hari,Priya,RDBMS,Visualizing Retail Business,708,2020-03-26 09:32:32
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Cursor Scenario - Customer Grading Part one,678,2020-03-27 05:36:35
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Cursor Scenario - Customer Grading Part two,765,2020-03-27 05:49:22
+,vinayakjadhav423@gmail.com,vinayak,jadhav,Microsoft SQL Server,Welcome,6,2020-03-29 11:36:16
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oralce PL/SQL,Introduction to PL SQL,168,2020-03-29 13:00:56
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oralce PL/SQL,Sample PL SQL Block,123,2020-03-29 13:03:01
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oralce PL/SQL,Exception handling,5,2020-03-29 13:03:12
+,madhurichinni@gmail.com,KATAKAM,MADHURI,Oralce PL/SQL,Cursor Scenario - Customer Grading Part one,4,2020-03-29 13:03:20
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Exception handling,510,2020-03-30 04:33:50
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,No Data Found and Update DML,788,2020-03-30 04:48:51
+,chaithra1695@gmail.com,Chaithra,T K,Oralce PL/SQL,Banking Process Scenario with Deposit,577,2020-03-30 04:58:33

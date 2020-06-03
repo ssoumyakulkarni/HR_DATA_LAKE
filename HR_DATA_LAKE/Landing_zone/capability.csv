@@ -1,0 +1,600 @@
+Total_Marks,test_id,email,phone,Correct_Answers,First_Name,Last_Name,Skill_Level,Test_Date,Topic_Name
+19,MS-SQL-Simple-2,123pallavibiradar@gmail.com,7795740325,10,pallavi,b,Beginner,24/08/2019,MS-SQL
+10,MS-SQL-Simple-1,123pallavibiradar@gmail.com,7795740325,0,pallavi,b,Beginner,22/08/2019,MS-SQL
+19,MS-SQL-Simple-1,meghraj.rakesh00@gmail.com,8544144889,8,Megh Raj,Rakesh,Beginner,22/08/2019,MS-SQL
+16,MS-SQL-Simple-1,aditya.j@aroha.co.in,9513333027,10,aditya,j,Beginner,23/08/2019,MS-SQL
+13,MS-SQL-Simple-1,bandappa@gmail.com,9900699946,5,bandappa,basavaraj,Beginner,23/08/2019,MS-SQL
+16,MS-SQL-Simple-1,malavikamr23@gmail.com,7625094264,9,malavika,Ramanathan,Beginner,24/08/2019,MS-SQL
+15,MS-SQL-Simple-1,sankha.ghosh91@gmail.com,7384985814,7,sankha,ghosh,Beginner,24/08/2019,MS-SQL
+4,ORASQL-Simple-1,renunm29@gmail.com,7619350250,2,Renuka,nagayya,Beginner,24/08/2019,Oracle SQL
+17,MS-SQL-Simple-1,19banerjee.sayani92@gmail.com,7003397486,12,Sayani,Banerjee,Beginner,24/08/2019,MS-SQL
+15,MS-SQL-Simple-1,asmangesh27@gmail.com,9611104881,10,mangesh,jagtap,Beginner,24/08/2019,MS-SQL
+16,MS-SQL-Simple-1,pallavigubbe@gmail.com,8197142517,7,pallavi,gubbe,Beginner,24/08/2019,MS-SQL
+16,MS-SQL-Simple-1,vinayakjadhav423@gmail.com,9535203663,9,vinayak,jadhav,Beginner,24/08/2019,MS-SQL
+15,MS-SQL-Simple-1,svenkateshkumar93@gmail.com,9566548603,9,Venkateshkumar,S,Beginner,24/08/2019,MS-SQL
+16,MS-SQL-Simple-1,divyasreedijesh@gmail.com,9947996443,10,Divyasree,K,Beginner,24/08/2019,MS-SQL
+13,MS-SQL-Simple-1,renunm29@gmail.com,7619350250,7,Renuka,nagayya,Beginner,24/08/2019,MS-SQL
+16,MS-SQL-Simple-1,prashanthnkkp65@gmail.com,8762968934,6,prashanth,n,Beginner,24/08/2019,MS-SQL
+16,MS-SQL-Simple-2,shivamyy9023@gmail.com,9670901819,8,Shivam,Yadav,Beginner,24/08/2019,MS-SQL
+15,MS-SQL-Simple-1,ballagiribhargav@gmail.com,7702608968,9,bhargav,b,Beginner,24/08/2019,MS-SQL
+16,MS-SQL-Simple-1,rahulcr104@gmail.com,9986980246,9,rahul,cr,Beginner,24/08/2019,MS-SQL
+11,ORASQL-Intermediate-1,suraj.narayan@aroha.co.in,9886228615,5,suraj,N,Intermediate,26/08/2019,Oracle SQL
+43,MS-SQL-Simple-2,prashanthnkkp65@gmail.com,8762968934,0,prashanth,n,Beginner,09/09/2019,MS-SQL
+11,MS-SQL-Simple-2,renunm29@gmail.com,7619350250,5,Renuka,nagayya,Beginner,11/09/2019,MS-SQL
+20,MS-SQL-Intermediate-1,renunm29@gmail.com,7619350250,12,Renuka,nagayya,Intermediate,11/09/2019,MS-SQL
+2,ORASQL-Intermediate-3,pallavigubbe@gmail.com,8197142517,0,pallavi,gubbe,Intermediate,11/09/2019,Oracle SQL
+9,ORASQL-Simple-2,pallavigubbe@gmail.com,8197142517,6,pallavi,gubbe,Beginner,11/09/2019,Oracle SQL
+6,ORASQL-Simple-3,pallavigubbe@gmail.com,8197142517,3,pallavi,gubbe,Beginner,11/09/2019,Oracle SQL
+1,MS-SQL-Simple-2,pallavigubbe@gmail.com,8197142517,0,pallavi,gubbe,Beginner,11/09/2019,MS-SQL
+22,ORASQL-Simple-4,pallavigubbe@gmail.com,8197142517,7,pallavi,gubbe,Beginner,11/09/2019,Oracle SQL
+8,MS-SQL-Simple-2,sankha.ghosh91@gmail.com,7384985814,3,sankha,ghosh,Beginner,11/09/2019,MS-SQL
+20,MS-SQL-Simple-3,sankha.ghosh91@gmail.com,7384985814,13,sankha,ghosh,Beginner,11/09/2019,MS-SQL
+20,MS-SQL-Simple-2,vinayakjadhav423@gmail.com,9535203663,9,vinayak,jadhav,Beginner,11/09/2019,MS-SQL
+20,MS-SQL-Simple-2,malavikamr23@gmail.com,7625094264,17,malavika,Ramanathan,Beginner,11/09/2019,MS-SQL
+17,MS-SQL-Simple-2,meghraj.rakesh00@gmail.com,8544144889,10,Megh Raj,Rakesh,Beginner,11/09/2019,MS-SQL
+20,ORASQL-Simple-1,santhoshachar603@gmail.com,9590859896,9,santhosha,acharya,Beginner,11/09/2019,Oracle SQL
+10,ORASQL-Simple-5,ppjoshi28@gmail.com,9850175787,3,pratikj,joshi,Beginner,11/09/2019,Oracle SQL
+17,ORASQL-Complex-1,shameenaaabdul@gmail.com,9008179436,4,Shameenaabdul,abdul,Expert,11/09/2019,Oracle SQL
+1,ORASQL-Simple-1,shivamyy9023@gmail.com,9670901819,1,Shivam,Yadav,Beginner,11/09/2019,Oracle SQL
+20,MS-SQL-Simple-1,shivamyy9023@gmail.com,9670901819,11,Shivam,Yadav,Beginner,11/09/2019,MS-SQL
+20,MS-SQL-Simple-2,ballagiribhargav@gmail.com,7702608968,9,bhargav,b,Beginner,11/09/2019,MS-SQL
+17,ORASQL-Intermediate-1,pallavigubbe@gmail.com,8197142517,12,pallavi,gubbe,Intermediate,11/09/2019,Oracle SQL
+17,ORASQL-Simple-1,19banerjee.sayani92@gmail.com,7003397486,7,Sayani,Banerjee,Beginner,11/09/2019,Oracle SQL
+20,ORASQL-Simple-1,manjupgowda92@gmail.com,8892025017,12,manjushreemp,mp,Beginner,11/09/2019,Oracle SQL
+20,ORASQL-Simple-1,pallavigubbe@gmail.com,8197142517,10,pallavi,gubbe,Beginner,11/09/2019,Oracle SQL
+19,ORASQL-Intermediate-5,asmangesh36@gmail.com,9611104881,9,Mangesh b,b,Intermediate,11/09/2019,Oracle SQL
+19,MS-SQL-Simple-1,asmangesh36@gmail.com,9611104881,9,Mangesh b,b,Beginner,11/09/2019,MS-SQL
+19,MS-SQL-Simple-2,svenkateshkumar93@gmail.com,9566548603,13,Venkateshkumar,S,Beginner,11/09/2019,MS-SQL
+16,MS-SQL-Intermediate-1,harsha.hn31@gmail.com,9845921887,9,Harsha,H,Intermediate,16/09/2019,MS-SQL
+17,MS-SQL-Simple-1,kusumsahu3103@gmail.com,8770544679,8,kusum,sahu,Beginner,16/09/2019,MS-SQL
+12,MS-SQL-Simple-1,monika.sharma6125@gmail.com,7973112325,5,Monica,sharma,Beginner,16/09/2019,MS-SQL
+15,MS-SQL-Simple-1,prashant.tonk88@gmail.com,7042234073,10,prashant,tonk,Beginner,16/09/2019,MS-SQL
+18,MS-SQL-Intermediate-2,hollasubramanya92@gmail.com,9483802481,14,subramanya,holla,Intermediate,16/09/2019,MS-SQL
+18,MS-SQL-Simple-1,souravsahana95@gmail.com,9113892470,11,sourav,sahana,Beginner,16/09/2019,MS-SQL
+18,MS-SQL-Simple-1,sumacstech@gmail.com,9844831445,11,suma,a,Beginner,16/09/2019,MS-SQL
+13,ORASQL-Simple-3,dineshmodi8889019752@gmail.com,8889019752,3,Dinesh,sahu,Beginner,25/09/2019,Oracle SQL
+13,ORASQL-Simple-2,ruchi1993chauhan@gmail.com,9821599653,4,Ruchika,Chauhan,Beginner,25/09/2019,Oracle SQL
+13,ORASQL-Simple-2,shantala12@gmail.com,9663648391,7,Shantala,kulkarni,Beginner,25/09/2019,Oracle SQL
+13,ORASQL-Simple-2,hsmalini28@gmail.com,9686746079,7,Malini,HS,Beginner,25/09/2019,Oracle SQL
+13,ORASQL-Simple-4,shilpabashetti1995@gmail.com,7756005059,5,Shilpa,Bashetti,Beginner,25/09/2019,Oracle SQL
+13,ORASQL-Simple-2,anamika.29.kunwar@gmail.com,8376893202,3,Anamika,kumari,Beginner,25/09/2019,Oracle SQL
+13,ORASQL-Simple-6,akchandrama95@gmail.com,7763025791,8,Aakanksha,karn,Beginner,25/09/2019,Oracle SQL
+20,MS-SQL-Simple-1,akchandrama95@gmail.com,7763025791,12,Aakanksha,karn,Beginner,26/09/2019,MS-SQL
+19,MS-SQL-Simple-1,anamika.29.kunwar@gmail.com,8376893202,14,Anamika,kumari,Beginner,26/09/2019,MS-SQL
+20,MS-SQL-Simple-1,dineshmodi8889019752@gmail.com,8889019752,10,Dinesh,sahu,Beginner,26/09/2019,MS-SQL
+20,MS-SQL-Simple-1,ruchi1993chauhan@gmail.com,9821599653,12,Ruchika,Chauhan,Beginner,26/09/2019,MS-SQL
+20,MS-SQL-Simple-1,shantala12@gmail.com,9663648391,14,Shantala,kulkarni,Beginner,26/09/2019,MS-SQL
+20,MS-SQL-Simple-1,shilpabashetti1995@gmail.com,7756005059,8,Shilpa,Bashetti,Beginner,26/09/2019,MS-SQL
+19,MS-SQL-Simple-1,hsmalini28@gmail.com,9686746079,16,Malini,HS,Beginner,26/09/2019,MS-SQL
+20,MS-SQL-Simple-1,shameenaaabdul@gmail.com,9008179436,10,Shameenaabdul,abdul,Beginner,27/09/2019,MS-SQL
+10,PL-SQL-Simple-1,shameenaaabdul@gmail.com,9008179436,6,Shameenaabdul,abdul,Beginner,27/09/2019,PL-SQL
+18,MS-SQL-Simple-1,ppjoshi28@gmail.com,9850175787,9,pratikj,joshi,Beginner,27/09/2019,MS-SQL
+6,PL-SQL-Simple-1,ppjoshi28@gmail.com,9850175787,4,pratikj,joshi,Beginner,27/09/2019,PL-SQL
+20,MS-SQL-Simple-1,santhoshachar603@gmail.com,9590859896,12,santhosha,acharya,Beginner,27/09/2019,MS-SQL
+10,PL-SQL-Simple-1,santhoshachar603@gmail.com,9590859896,6,santhosha,acharya,Beginner,27/09/2019,PL-SQL
+15,T-SQL-Intermediate-1,prashanthnkkp65@gmail.com,8762968934,6,prashanth,n,Intermediate,30/09/2019,T-SQL
+19,MS-SQL-Intermediate-1,prashanthnkkp65@gmail.com,8762968934,9,prashanth,n,Intermediate,30/09/2019,MS-SQL
+15,ORASQL-Intermediate-1,ballagiribhargav@gmail.com,7702608968,7,bhargav,b,Intermediate,30/09/2019,Oracle SQL
+12,PL-SQL-Intermediate-1,ballagiribhargav@gmail.com,7702608968,9,bhargav,b,Intermediate,30/09/2019,PL-SQL
+19,MS-SQL-Simple-3,ballagiribhargav@gmail.com,7702608968,15,bhargav,b,Beginner,30/09/2019,MS-SQL
+15,T-SQL-Intermediate-1,ballagiribhargav@gmail.com,7702608968,4,bhargav,b,Intermediate,30/09/2019,T-SQL
+19,MS-SQL-Intermediate-1,svenkateshkumar93@gmail.com,9566548603,8,Venkateshkumar,S,Intermediate,30/09/2019,MS-SQL
+12,DWC-Intermediate-1,svenkateshkumar93@gmail.com,9566548603,2,Venkateshkumar,S,Intermediate,30/09/2019,DW Concepts
+14,T-SQL-Intermediate-1,svenkateshkumar93@gmail.com,9566548603,5,Venkateshkumar,S,Intermediate,30/09/2019,T-SQL
+20,MS-SQL-Intermediate-1,vinayakjadhav423@gmail.com,9535203663,12,vinayak,jadhav,Intermediate,30/09/2019,MS-SQL
+15,T-SQL-Intermediate-1,vinayakjadhav423@gmail.com,9535203663,6,vinayak,jadhav,Intermediate,30/09/2019,T-SQL
+12,DWC-Intermediate-1,vinayakjadhav423@gmail.com,9535203663,5,vinayak,jadhav,Intermediate,30/09/2019,DW Concepts
+16,ORASQL-Simple-2,santhoshachar603@gmail.com,9590859896,5,santhosha,acharya,Beginner,01/10/2019,Oracle SQL
+6,ORASQL-Simple-1,ppjoshi28@gmail.com,9850175787,3,pratikj,joshi,Beginner,01/10/2019,Oracle SQL
+7,ORASQL-Simple-2,ppjoshi28@gmail.com,9850175787,4,pratikj,joshi,Beginner,01/10/2019,Oracle SQL
+20,MS-SQL-Simple-1,gayatripammi@gmail.com,9440456689,14,gayathri,patrl,Beginner,01/10/2019,MS-SQL
+15,ORASQL-Intermediate-4,pallavigubbe@gmail.com,8197142517,9,pallavi,gubbe,Intermediate,01/10/2019,Oracle SQL
+10,PL-SQL-Intermediate-1,pallavigubbe@gmail.com,8197142517,0,pallavi,gubbe,Intermediate,01/10/2019,PL-SQL
+12,PL-SQL-Intermediate-3,pallavigubbe@gmail.com,8197142517,7,pallavi,gubbe,Intermediate,01/10/2019,PL-SQL
+12,DWC-Intermediate-1,pallavigubbe@gmail.com,8197142517,5,pallavi,gubbe,Intermediate,01/10/2019,DW Concepts
+14,ORASQL-Simple-3,ppjoshi28@gmail.com,9850175787,9,pratikj,joshi,Beginner,01/10/2019,Oracle SQL
+19,ORASQL-Simple-1,shameenaaabdul@gmail.com,9008179436,12,Shameenaabdul,abdul,Beginner,03/10/2019,Oracle SQL
+20,ORASQL-Simple-2,shameenaaabdul@gmail.com,9008179436,7,Shameenaabdul,abdul,Beginner,03/10/2019,Oracle SQL
+2,ORASQL-Simple-3,santhoshachar603@gmail.com,9590859896,0,santhosha,acharya,Beginner,03/10/2019,Oracle SQL
+18,ORASQL-Simple-4,santhoshachar603@gmail.com,9590859896,13,santhosha,acharya,Beginner,03/10/2019,Oracle SQL
+15,ORASQL-Simple-4,ppjoshi28@gmail.com,9850175787,10,pratikj,joshi,Beginner,03/10/2019,Oracle SQL
+20,ORASQL-Simple-3,shameenaaabdul@gmail.com,9008179436,7,Shameenaabdul,abdul,Beginner,03/10/2019,Oracle SQL
+5,ORASQL-Intermediate-2,asmangesh36@gmail.com,9611104881,2,Mangesh b,b,Intermediate,03/10/2019,Oracle SQL
+2,ORASQL-Intermediate-3,asmangesh36@gmail.com,9611104881,2,Mangesh b,b,Intermediate,03/10/2019,Oracle SQL
+4,ORASQL-Intermediate-4,asmangesh36@gmail.com,9611104881,2,Mangesh b,b,Intermediate,03/10/2019,Oracle SQL
+15,ORASQL-Simple-1,shilpabashetti1995@gmail.com,7756005059,7,Shilpa,Bashetti,Beginner,04/10/2019,Oracle SQL
+5,ORASQL-Simple-2,shilpabashetti1995@gmail.com,7756005059,0,Shilpa,Bashetti,Beginner,04/10/2019,Oracle SQL
+16,T-SQL-Simple-1,sumacstech@gmail.com,9844831445,11,suma,a,Beginner,04/10/2019,T-SQL
+18,MS-SQL-Simple-2,sumacstech@gmail.com,9844831445,15,suma,a,Beginner,04/10/2019,MS-SQL
+20,ORASQL-Simple-1,ruchi1993chauhan@gmail.com,9821599653,10,Ruchika,Chauhan,Beginner,04/10/2019,Oracle SQL
+17,T-SQL-Simple-1,hollasubramanya92@gmail.com,9483802481,12,subramanya,holla,Beginner,04/10/2019,T-SQL
+18,MS-SQL-Simple-1,hollasubramanya92@gmail.com,9483802481,13,subramanya,holla,Beginner,04/10/2019,MS-SQL
+18,MS-SQL-Intermediate-1,souravsahana95@gmail.com,9113892470,6,sourav,sahana,Intermediate,04/10/2019,MS-SQL
+16,T-SQL-Simple-1,souravsahana95@gmail.com,9113892470,8,sourav,sahana,Beginner,04/10/2019,T-SQL
+14,MS-SQL-Intermediate-2,harsha.hn31@gmail.com,9845921887,8,Harsha,H,Intermediate,04/10/2019,MS-SQL
+17,T-SQL-Simple-1,harsha.hn31@gmail.com,9845921887,11,Harsha,H,Beginner,04/10/2019,T-SQL
+11,Unix/Linux-Simple-1,asmangesh36@gmail.com,9611104881,6,Mangesh b,b,Beginner,04/10/2019,Unix/Linux
+17,T-SQL-Simple-1,prashant.tonk88@gmail.com,7042234073,10,prashant,tonk,Beginner,04/10/2019,T-SQL
+20,MS-SQL-Intermediate-1,prashant.tonk88@gmail.com,7042234073,9,prashant,tonk,Intermediate,04/10/2019,MS-SQL
+17,T-SQL-Simple-1,monika.sharma6125@gmail.com,7973112325,12,Monica,sharma,Beginner,04/10/2019,T-SQL
+20,MS-SQL-Intermediate-1,monika.sharma6125@gmail.com,7973112325,7,Monica,sharma,Intermediate,04/10/2019,MS-SQL
+20,MS-SQL-Intermediate-1,hollasubramanya92@gmail.com,9483802481,10,subramanya,holla,Intermediate,04/10/2019,MS-SQL
+5,ORASQL-Simple-1,dineshmodi8889019752@gmail.com,8889019752,4,Dinesh,sahu,Beginner,04/10/2019,Oracle SQL
+20,ORASQL-Simple-2,dineshmodi8889019752@gmail.com,8889019752,0,Dinesh,sahu,Beginner,04/10/2019,Oracle SQL
+19,ORASQL-Simple-1,anamika.29.kunwar@gmail.com,8376893202,8,Anamika,kumari,Beginner,04/10/2019,Oracle SQL
+20,ORASQL-Simple-1,shantala12@gmail.com,9663648391,14,Shantala,kulkarni,Beginner,04/10/2019,Oracle SQL
+20,ORASQL-Simple-1,hsmalini28@gmail.com,9686746079,10,Malini,HS,Beginner,04/10/2019,Oracle SQL
+20,ORASQL-Simple-3,shilpabashetti1995@gmail.com,7756005059,9,Shilpa,Bashetti,Beginner,04/10/2019,Oracle SQL
+19,ORASQL-Simple-1,akchandrama95@gmail.com,7763025791,0,Aakanksha,karn,Beginner,04/10/2019,Oracle SQL
+13,ORASQL-Simple-2,akchandrama95@gmail.com,7763025791,0,Aakanksha,karn,Beginner,04/10/2019,Oracle SQL
+20,MS-SQL-Intermediate-1,sumacstech@gmail.com,9844831445,8,suma,a,Intermediate,04/10/2019,MS-SQL
+11,Unix/Linux-Simple-1,renunm29@gmail.com,7619350250,1,Renuka,nagayya,Beginner,04/10/2019,Unix/Linux
+11,Unix/Linux-Simple-1,19banerjee.sayani92@gmail.com,7003397486,5,Sayani,Banerjee,Beginner,04/10/2019,Unix/Linux
+11,Unix/Linux-Simple-1,sankha.ghosh91@gmail.com,7384985814,9,sankha,ghosh,Beginner,04/10/2019,Unix/Linux
+10,Unix/Linux-Simple-1,meghraj.rakesh00@gmail.com,8544144889,8,Megh Raj,Rakesh,Beginner,04/10/2019,Unix/Linux
+10,Unix/Linux-Intermediate-1,ballaguribhargav@gmail.com,7702608968,4,bhargav,b,Intermediate,04/10/2019,Unix/Linux
+14,ORASQL-Simple-3,akchandrama95@gmail.com,7763025791,7,Aakanksha,karn,Beginner,04/10/2019,Oracle SQL
+5,ORASQL-Simple-4,akchandrama95@gmail.com,7763025791,5,Aakanksha,karn,Beginner,04/10/2019,Oracle SQL
+8,ORASQL-Simple-5,akchandrama95@gmail.com,7763025791,4,Aakanksha,karn,Beginner,04/10/2019,Oracle SQL
+12,PL-SQL-Intermediate-1,asmangesh36@gmail.com,9611104881,5,Mangesh b,b,Intermediate,09/10/2019,PL-SQL
+12,DWC-Intermediate-1,asmangesh36@gmail.com,9611104881,10,Mangesh b,b,Intermediate,09/10/2019,DW Concepts
+19,ORASQL-Intermediate-1,asmangesh36@gmail.com,9611104881,10,Mangesh b,b,Intermediate,09/10/2019,Oracle SQL
+13,T-SQL-Intermediate-1,meghraj.rakesh00@gmail.com,8544144889,6,Megh Raj,Rakesh,Intermediate,09/10/2019,T-SQL
+12,DWC-Intermediate-1,meghraj.rakesh00@gmail.com,8544144889,8,Megh Raj,Rakesh,Intermediate,09/10/2019,DW Concepts
+20,MS-SQL-Intermediate-1,meghraj.rakesh00@gmail.com,8544144889,7,Megh Raj,Rakesh,Intermediate,09/10/2019,MS-SQL
+12,DWC-Intermediate-1,rahulcr104@gmail.com,9986980246,8,rahul,cr,Intermediate,09/10/2019,DW Concepts
+12,PL-SQL-Intermediate-1,rahulcr104@gmail.com,9986980246,4,rahul,cr,Intermediate,09/10/2019,PL-SQL
+19,ORASQL-Intermediate-1,rahulcr104@gmail.com,9986980246,10,rahul,cr,Intermediate,09/10/2019,Oracle SQL
+2,T-SQL-Intermediate-1,rahulcr104@gmail.com,9986980246,1,rahul,cr,Intermediate,09/10/2019,T-SQL
+17,T-SQL-Simple-1,rahulcr104@gmail.com,9986980246,6,rahul,cr,Beginner,09/10/2019,T-SQL
+20,MS-SQL-Intermediate-1,rahulcr104@gmail.com,9986980246,7,rahul,cr,Intermediate,09/10/2019,MS-SQL
+18,MS-SQL-Simple-1,sureshtheerthamalai@gmail.com,9944770480,11,Suresh,T,Beginner,10/10/2019,MS-SQL
+12,DWC-Intermediate-1,19banerjee.sayani92@gmail.com,7003397486,8,Sayani,Banerjee,Intermediate,10/10/2019,DW Concepts
+11,PL-SQL-Intermediate-1,19banerjee.sayani92@gmail.com,7003397486,5,Sayani,Banerjee,Intermediate,10/10/2019,PL-SQL
+38,MS-SQL-Simple-1,pratibhagodekar@gmail.com,8967976486,4,aruntest,test,Beginner,10/10/2019,MS-SQL
+17,ORASQL-Intermediate-1,19banerjee.sayani92@gmail.com,7003397486,6,Sayani,Banerjee,Intermediate,10/10/2019,Oracle SQL
+20,MS-SQL-Intermediate-1,aroha.social@gmail.com,5843976846,2,test,test,Intermediate,10/10/2019,MS-SQL
+12,DWC-Intermediate-1,manjupgowda92@gmail.com,8892025017,10,manjushreemp,mp,Intermediate,10/10/2019,DW Concepts
+12,PL-SQL-Intermediate-1,manjupgowda92@gmail.com,8892025017,0,manjushreemp,mp,Intermediate,10/10/2019,PL-SQL
+19,ORASQL-Intermediate-1,manjupgowda92@gmail.com,8892025017,0,manjushreemp,mp,Intermediate,10/10/2019,Oracle SQL
+12,DWC-Intermediate-1,malavikamr23@gmail.com,7625094264,0,malavika,Ramanathan,Intermediate,10/10/2019,DW Concepts
+15,T-SQL-Intermediate-1,malavikamr23@gmail.com,7625094264,0,malavika,Ramanathan,Intermediate,10/10/2019,T-SQL
+20,MS-SQL-Intermediate-1,malavikamr23@gmail.com,7625094264,0,malavika,Ramanathan,Intermediate,10/10/2019,MS-SQL
+12,DWC-Intermediate-2,pallavigubbe@gmail.com,8197142517,0,pallavi,gubbe,Intermediate,10/10/2019,DW Concepts
+12,PL-SQL-Intermediate-2,pallavigubbe@gmail.com,8197142517,0,pallavi,gubbe,Intermediate,10/10/2019,PL-SQL
+9,ORASQL-Intermediate-2,pallavigubbe@gmail.com,8197142517,0,pallavi,gubbe,Intermediate,10/10/2019,Oracle SQL
+18,MS-SQL-Simple-1,masroor2502@gmail.com,9844089120,0,Masroor E,Alam,Beginner,10/10/2019,MS-SQL
+18,ORASQL-Intermediate-1,sankha.ghosh91@gmail.com,7384985814,9,sankha,ghosh,Intermediate,14/10/2019,Oracle SQL
+12,PL-SQL-Intermediate-1,sankha.ghosh91@gmail.com,7384985814,3,sankha,ghosh,Intermediate,14/10/2019,PL-SQL
+15,MS-SQL-Intermediate-1,sankha.ghosh91@gmail.com,7384985814,7,sankha,ghosh,Intermediate,14/10/2019,MS-SQL
+13,T-SQL-Intermediate-1,sankha.ghosh91@gmail.com,7384985814,7,sankha,ghosh,Intermediate,14/10/2019,T-SQL
+14,DWC-Intermediate-1,sankha.ghosh91@gmail.com,7384985814,10,sankha,ghosh,Intermediate,14/10/2019,DW Concepts
+19,ORASQL-Intermediate-1,hsmalini28@gmai.com,9686746079,9,malini,HS,Intermediate,14/10/2019,Oracle SQL
+19,ORASQL-Intermediate-1,shantala12@gmail.com,9663648391,0,Shantala,kulkarni,Intermediate,14/10/2019,Oracle SQL
+19,ORASQL-Intermediate-1,ruchi1993chauhan@gmail.com,9821599653,0,Ruchika,Chauhan,Intermediate,14/10/2019,Oracle SQL
+19,ORASQL-Intermediate-1,dineshmodi8889019752@gmail.com,8889019752,0,Dinesh,sahu,Intermediate,14/10/2019,Oracle SQL
+9,T-SQL-Intermediate-1,shivamyy9023@gmail.com,9670901819,0,Shivam,Yadav,Intermediate,16/10/2019,T-SQL
+17,java-Simple-1,ssoumyakulkarni101@gmail.com,8095964708,7,soumya,kulkarni,Beginner,21/10/2019,JAVA
+18,MS-SQL-Simple-1,prattu@gmail.com,8867119329,0,pratibha,godekar,Beginner,24/10/2019,MS-SQL
+18,MS-SQL-Simple-1,jjm@gmail.com,4527758555,0,pratt,ghvfgyfg,Beginner,24/10/2019,MS-SQL
+17,T-SQL-Simple-1,fh@gmail.com,5545845555,0,ty,fh,Beginner,24/10/2019,T-SQL
+16,T-SQL-Intermediate-1,divyasreedijesh@gmail.com,9947996443,8,Divyasree,K,Intermediate,24/10/2019,T-SQL
+20,MS-SQL-Intermediate-1,divyasreedijesh@gmail.com,9947996443,11,Divyasree,K,Intermediate,24/10/2019,MS-SQL
+18,MS-SQL-Simple-1,shruthi.r305@gmail.com,8088240428,10,Shruthi,H,Beginner,31/10/2019,MS-SQL
+11,Unix/Linux-Simple-1,manjupgowda92@gmail.com,8892025017,9,manjushreemp,mp,Beginner,31/10/2019,Unix/Linux
+10,Unix/Linux-Intermediate-1,manjupgowda92@gmail.com,8892025017,6,manjushreemp,mp,Intermediate,31/10/2019,Unix/Linux
+6,Unix/Linux-Complex-1,manjupgowda92@gmail.com,8892025017,0,manjushreemp,mp,Expert,31/10/2019,Unix/Linux
+10,Unix/Linux-Complex-2,manjupgowda92@gmail.com,8892025017,8,manjushreemp,mp,Expert,31/10/2019,Unix/Linux
+18,MS-SQL-Simple-2,masroor2502@gmail.com,9844089120,12,Masroor E,Alam,Beginner,04/11/2019,MS-SQL
+20,MS-SQL-Intermediate-1,masroor2502@gmail.com,9844089120,7,Masroor E,Alam,Intermediate,04/11/2019,MS-SQL
+11,MS-SQL-Complex-1,masroor2502@gmail.com,9844089120,0,Masroor E,Alam,Expert,04/11/2019,MS-SQL
+18,MS-SQL-Simple-1,nafeezmd5@gmail.com,8892769601,0,Nafeez,md,Beginner,05/11/2019,MS-SQL
+32,java-Beginner-1,Chebel1993@gmail.com,7760156568,8,Chetan,Belagali,Beginner,25/11/2019,JAVA
+20,java-Beginner-1,mehulsaha@gmail.com,9473228250,16,Mehul,Raj,Beginner,25/11/2019,JAVA
+5,java-Intermediate-1,rahul66@gmail.com,8825325462,1,Rahul,kumar,Intermediate,25/11/2019,JAVA
+20,java-Beginner-2,Chebel1993@gmail.com,7760156568,9,Chetan,Belagali,Beginner,26/11/2019,JAVA
+5,java-Intermediate-1,araj38334@gmail.com,8825323242,1,Ashish,Raj,Intermediate,26/11/2019,JAVA
+5,java-Intermediate-1,kaustav1357@gmail.com,9830860590,1,Kaustav,Saha,Intermediate,26/11/2019,JAVA
+20,java-Beginner-1,jaideep233@gmail.com,6000892339,3,jaydeep,acharjee,Beginner,26/11/2019,JAVA
+20,ORASQL-Beginner-1,mehulsaha@gmail.com,9473228250,7,Mehul,Raj,Beginner,26/11/2019,Oracle SQL
+20,ORASQL-Beginner-1,Chebel1993@gmail.com,7760156568,7,Chetan,Belagali,Beginner,26/11/2019,Oracle SQL
+16,MS-SQL-Beginner-1,hemasundar4999@gmail.com,8270320705,0,hema,sundar,Beginner,26/11/2019,MS-SQL
+16,MS-SQL-Beginner-1,pragyan@gmail.com,8249524794,6,pragyan,patro,Beginner,26/11/2019,MS-SQL
+16,MS-SQL-Beginner-1,jhanhaviv325@gmail.com,9738320833,0,Jhanhavi,V,Beginner,26/11/2019,MS-SQL
+23,MS-SQL-Beginner-1,drhemanth05@gmail.com,7829626721,0,Hemanth,D R,Beginner,26/11/2019,MS-SQL
+16,MS-SQL-Beginner-1,msofiya88@gmail.com,9441266520,0,Sofiya,M,Beginner,27/11/2019,MS-SQL
+16,MS-SQL-Beginner-1,krishnaprasanthram333@gmail.com,9566995636,0,Krishna,Prasanth R,Beginner,27/11/2019,MS-SQL
+16,MS-SQL-Beginner-1,desaipallavi11@gmail.com,9620197707,0,Pallavi,Desai,Beginner,27/11/2019,MS-SQL
+5,ORASQL-Beginner-1,bandappa@gmail.com,9900699946,0,bandappa,basavaraj,Beginner,27/11/2019,Oracle SQL
+16,T-SQL-Intermediate-1,sumacstech@gmail.com,9844831445,6,suma,a,Intermediate,29/11/2019,T-SQL
+10,MS-SQL-Expert-1,hollasubramanya92@gmail.com,9483802481,3,subramanya,holla,Expert,29/11/2019,MS-SQL
+16,T-SQL-Intermediate-1,hollasubramanya92@gmail.com,9483802481,8,subramanya,holla,Intermediate,29/11/2019,T-SQL
+16,MS-SQL-Beginner-2,monika.sharma6125@gmail.com,7973112325,0,Monica,sharma,Beginner,29/11/2019,MS-SQL
+20,ORASQL-Beginner-1,kanchansrivastava1993@gmail.com,9008110271,6,kanchan,Srivastava,Beginner,02/12/2019,Oracle SQL
+16,MS-SQL-Beginner-1,ruby23cloud@gmail.com,7892159826,0,grace,rubila,Beginner,02/12/2019,MS-SQL
+4,MS-SQL-Beginner-1,k.kirankumar424@gmail.com,9398163133,0,kiran,kumar,Beginner,02/12/2019,MS-SQL
+16,MS-SQL-Beginner-2,k.kirankumar424@gmail.com,9398163133,0,kiran,kumar,Beginner,02/12/2019,MS-SQL
+4,MS-SQL-Beginner-3,k.kirankumar424@gmail.com,9398163133,0,kiran,kumar,Beginner,02/12/2019,MS-SQL
+16,MS-SQL-Beginner-4,k.kirankumar424@gmail.com,9398163133,0,kiran,kumar,Beginner,02/12/2019,MS-SQL
+20,MS-SQL-Intermediate-1,k.kirankumar424@gmail.com,9398163133,5,kiran,kumar,Intermediate,02/12/2019,MS-SQL
+5,java-Intermediate-2,kaustav1357@gmail.com,9830860590,3,Kaustav,Saha,Intermediate,02/12/2019,JAVA
+5,java-Intermediate-1,pranay@gmail.com,9876543210,4,pranay,Kumar,Intermediate,02/12/2019,JAVA
+27,java-Beginner-3,Chebel1993@gmail.com,7760156568,11,Chetan,Belagali,Beginner,02/12/2019,JAVA
+14,java-Beginner-1,shyamliupadhyaya1234@gmail.com,7064781150,0,Shyamali,Upadhyaya,Beginner,02/12/2019,JAVA
+10,java-Beginner-2,jaideep233@gmail.com,6000892339,0,jaydeep,acharjee,Beginner,02/12/2019,JAVA
+20,ORASQL-Beginner-2,bandappa@gmail.com,9900699946,15,bandappa,basavaraj,Beginner,03/12/2019,Oracle SQL
+7,MS-SQL-Intermediate-1,shanavajgkk@gmail.com,7259994435,0,MohammedShanavaj,Pajanigar,Intermediate,03/12/2019,MS-SQL
+17,T-SQL-Beginner-1,shanavajgkk@gmail.com,7259994435,5,MohammedShanavaj,Pajanigar,Beginner,03/12/2019,T-SQL
+20,ORASQL-Beginner-1,sanjukumarhegge5@gmail.com,8123535561,7,sanju,kumar,Beginner,03/12/2019,Oracle SQL
+2,RDBMS-Beginner-1,sanjukumarhegge5@gmail.com,8123535561,1,sanju,kumar,Beginner,03/12/2019,RDBMS
+13,MS-SQL-Beginner-1,padmalathajain1969@gmail.com,8722480977,13,padamalatha,padamalatha,Beginner,03/12/2019,MS-SQL
+14,MS-SQL-Beginner-2,padmalathajain1969@gmail.com,8722480977,1,padamalatha,padamalatha,Beginner,03/12/2019,MS-SQL
+16,MS-SQL-Beginner-1,padamalatha1969@gmail.com,8722480977,11,padamalatha,padamalatha,Beginner,03/12/2019,MS-SQL
+3,MS-SQL-Beginner-2,deepamb1998@gmail.com,8870795247,0,M,Deepa,Beginner,03/12/2019,MS-SQL
+11,java-Beginner-1,padamalatha199@gmail.com,8722480977,9,padamalatha,padamalatha,Beginner,03/12/2019,JAVA
+20,MS-SQL-Intermediate-1,deepamb1998@gmail.com,8870795247,7,M,Deepa,Intermediate,03/12/2019,MS-SQL
+7,java-Beginner-1,deepamb1998@gmail.com,8870795247,0,M,Deepa,Beginner,03/12/2019,JAVA
+10,T-SQL-Beginner-2,deepamb1998@gmail.com,8870795247,0,M,Deepa,Beginner,03/12/2019,T-SQL
+1,RDBMS-Intermediate-1,meghraj.rakesh00@gmail.com,8544144889,1,Megh Raj,Rakesh,Intermediate,03/12/2019,RDBMS
+1,RDBMS-Intermediate-2,meghraj.rakesh00@gmail.com,8544144889,1,Megh Raj,Rakesh,Intermediate,03/12/2019,RDBMS
+12,MS-SQL-Expert-1,bxhc@gmail.com,9999999999,1,ktsksyl,gkxfuflto,Expert,04/12/2019,MS-SQL
+8,java-Beginner-1,najfab@gmail.com,5566666648,7,hnagab,vanajvaab,Beginner,04/12/2019,JAVA
+20,java-Beginner-1,ihgsaagv@gmail.com,7664144556,13,gaqhbvg,zzhhjb,Beginner,04/12/2019,JAVA
+20,java-Beginner-1,gkztkxtkxylx@gmail.com,7617627627,17,gxxylxylxlyx,ygyccuvuc,Beginner,04/12/2019,JAVA
+33,ORASQL-Beginner-1,gauatjaoaanb@gmail.com,9462484672,12,niaganka,vkajafanjjz,Beginner,04/12/2019,Oracle SQL
+2,RDBMS-Beginner-1,tKKtzlyxylxyl@gmail.com,2762762765,0,cuculculcyl,fKtTztlzlzl,Beginner,04/12/2019,RDBMS
+16,MS-SQL-Beginner-1,soundarit1995@gmail.com,7845360097,7,Soundararajan,M,Beginner,04/12/2019,MS-SQL
+9,ORASQL-Beginner-1,soundarit1995@gmail.com,7845360097,0,Soundararajan,M,Beginner,04/12/2019,Oracle SQL
+16,MS-SQL-Beginner-1,bharathkumartr22@gmail.com,7829832378,8,BHARATH,KUMAR,Beginner,04/12/2019,MS-SQL
+16,MS-SQL-Beginner-1,deepikamis9@gmail.com,8770841211,11,Deepika,Mishra,Beginner,04/12/2019,MS-SQL
+2,ORASQL-Beginner-2,soundarit1995@gmail.com,7845360097,0,Soundararajan,M,Beginner,04/12/2019,Oracle SQL
+20,ORASQL-Beginner-3,soundarit1995@gmail.com,7845360097,4,Soundararajan,M,Beginner,04/12/2019,Oracle SQL
+16,MS-SQL-Beginner-1,punith.bgowda18@gmail.com,9880611915,9,punithraj,BB,Beginner,04/12/2019,MS-SQL
+24,MS-SQL-Intermediate-1,bharathkumartr22@gmail.com,7829832378,10,BHARATH,KUMAR,Intermediate,04/12/2019,MS-SQL
+10,MS-SQL-Expert-1,deepikamis9@gmail.com,8770841211,1,Deepika,Mishra,Expert,04/12/2019,MS-SQL
+10,MS-SQL-Expert-1,bharathkumartr22@gmail.com,7829832378,5,BHARATH,KUMAR,Expert,04/12/2019,MS-SQL
+30,java-Beginner-1,bharathkumartr22@gmail.com,7829832378,0,BHARATH,KUMAR,Beginner,04/12/2019,JAVA
+3,ORASQL-Beginner-1,bharathkumartr22@gmail.com,7829832378,0,BHARATH,KUMAR,Beginner,04/12/2019,Oracle SQL
+19,ORASQL-Intermediate-1,pradhans900@gmail.com,7504286165,7,sonali,pradhan,Intermediate,05/12/2019,Oracle SQL
+24,ORASQL-Intermediate-2,pradhans900@gmail.com,7504286165,7,sonali,pradhan,Intermediate,05/12/2019,Oracle SQL
+1,RDBMS-Intermediate-1,rameezraja405@gmail.com,8746863383,1,Rameezraja,Pajanigar,Intermediate,05/12/2019,RDBMS
+2,RDBMS-Beginner-1,rameezraja405@gmail.com,8746863383,1,Rameezraja,Pajanigar,Beginner,05/12/2019,RDBMS
+13,MS-SQL-Beginner-1,rameezraja405@gmail.com,8746863383,0,Rameezraja,Pajanigar,Beginner,05/12/2019,MS-SQL
+19,ORASQL-Intermediate-1,samarthmalviya161@gmail.com,9538207408,8,sam,malviya,Intermediate,06/12/2019,Oracle SQL
+20,ORASQL-Beginner-1,kulkarnideepesh@gmail.com,8878222830,9,deepesh,kul,Beginner,06/12/2019,Oracle SQL
+20,ORASQL-Beginner-1,manishsolanki.oist@gmail.com,7997105667,10,manish,solanki,Beginner,06/12/2019,Oracle SQL
+11,MS-SQL-Beginner-1,sanuk5318@gmail.com,7488057646,0,ashish,vishal,Beginner,06/12/2019,MS-SQL
+11,Unix/Linux-Beginner-1,ashishsharma@gmail.com,7785666230,9,ashish,sharma,Beginner,07/12/2019,Unix/Linux
+16,DWC-Beginner-1,khanshahrukh@gmail.com,9941522367,7,shahrukh,khan,Beginner,08/12/2019,DW Concepts
+11,PL-SQL-Beginner-1,rishabraj121@gmail.com,7456382964,5,rishab,raj,Beginner,08/12/2019,PL-SQL
+20,ORASQL-Beginner-1,pullareddy88@gmail.com,9534207568,7,pulla,reddy,Beginner,08/12/2019,Oracle SQL
+1,RDBMS-Intermediate-1,raginisoni131413cse@gmail.com,9981707502,1,Ragini,Soni,Intermediate,09/12/2019,RDBMS
+1,RDBMS-Intermediate-2,raginisoni131413cse@gmail.com,9981707502,0,Ragini,Soni,Intermediate,09/12/2019,RDBMS
+3,java-Intermediate-1,raginisoni131413cse@gmail.com,9981707502,0,Ragini,Soni,Intermediate,09/12/2019,JAVA
+20,ORASQL-Beginner-1,raginisoni131413cse@gmail.com,9981707502,8,Ragini,Soni,Beginner,09/12/2019,Oracle SQL
+20,ORASQL-Beginner-2,nityaredey638@gmail.com,8898666483,5,nitya,reddy,Beginner,09/12/2019,Oracle SQL
+16,MS-SQL-Beginner-2,krishnaprasanthram333@gmail.com,9566995636,13,Krishna,Prasanth R,Beginner,11/12/2019,MS-SQL
+20,MS-SQL-Intermediate-1,krishnaprasanthram333@gmail.com,9566995636,6,Krishna,Prasanth R,Intermediate,11/12/2019,MS-SQL
+16,MS-SQL-Beginner-2,hemasundar4999@gmail.com,8270320705,8,hema,sundar,Beginner,11/12/2019,MS-SQL
+11,MS-SQL-Intermediate-1,hemasundar4999@gmail.com,8270320705,0,hema,sundar,Intermediate,11/12/2019,MS-SQL
+16,MS-SQL-Beginner-2,msofiya88@gmail.com,9441266520,12,Sofiya,M,Beginner,11/12/2019,MS-SQL
+20,MS-SQL-Intermediate-1,msofiya88@gmail.com,9441266520,11,Sofiya,M,Intermediate,11/12/2019,MS-SQL
+16,MS-SQL-Beginner-2,desaipallavi11@gmail.com,9620197707,8,Pallavi,Desai,Beginner,11/12/2019,MS-SQL
+20,MS-SQL-Intermediate-1,desaipallavi11@gmail.com,9620197707,11,Pallavi,Desai,Intermediate,11/12/2019,MS-SQL
+16,MS-SQL-Beginner-2,jhanhaviv325@gmail.com,9738320833,7,Jhanhavi,V,Beginner,11/12/2019,MS-SQL
+20,MS-SQL-Intermediate-1,jhanhaviv325@gmail.com,9738320833,9,Jhanhavi,V,Intermediate,11/12/2019,MS-SQL
+20,MS-SQL-Intermediate-1,mangala.dvg310@gmail.com,9742161929,4,Mangala,B,Intermediate,11/12/2019,MS-SQL
+6,T-SQL-Intermediate-1,mangala.dvg310@gmail.com,9742161929,0,Mangala,B,Intermediate,11/12/2019,T-SQL
+16,MS-SQL-Beginner-1,pragyanpari.patro@gmail.com,8249524794,9,Pragyan,Patro,Beginner,11/12/2019,MS-SQL
+20,MS-SQL-Intermediate-1,pragyanpari.patro@gmail.com,8249524794,7,Pragyan,Patro,Intermediate,11/12/2019,MS-SQL
+19,ORASQL-Intermediate-1,shaifallah638@gmail.com,9622864572,1,shef,allah,Intermediate,12/12/2019,Oracle SQL
+1,java-Expert-1,araj38334@gmail.com,8825323242,0,Ashish,Raj,Expert,13/12/2019,JAVA
+1,java-Expert-1,harikishor.kg@aroha.co.in,7411836775,0,Hari,Kishor,Expert,13/12/2019,JAVA
+16,MS-SQL-Beginner-1,rajesh@aroha.co.in,9845078308,13,rajesh,kumar,Beginner,16/12/2019,MS-SQL
+5,java-Intermediate-1,harikishor.kg@aroha.co.in,7411836775,1,Hari,Kishor,Intermediate,17/12/2019,JAVA
+16,MS-SQL-Beginner-1,prattuhg@gmail.com,8867119329,5,prattu,hg,Beginner,17/12/2019,MS-SQL
+8,ReactJS-Simple-1,arunc38@gmail.com,8792424801,2,Arun,C,Beginner,17/12/2019,ReactJS
+16,DWC-Simple-1,rajesh@aroha.co.in,9845078308,9,rajesh,kumar,Beginner,18/12/2019,DW Concepts
+16,DWC-Beginner-1,surajaroha@gmail.com,9886228615,3,suraj,N,Beginner,19/12/2019,DW Concepts
+16,MS-SQL-Beginner-2,prattuhg@gmail.com,8867119329,0,prattu,hg,Beginner,19/12/2019,MS-SQL
+17,T-SQL-Beginner-1,prattuhg@gmail.com,8867119329,5,prattu,hg,Beginner,19/12/2019,T-SQL
+10,Unix/Linux-Intermediate-1,bandappa@gmail.com,9900699946,0,bandappa,basavaraj,Intermediate,20/12/2019,Unix/Linux
+20,MS-SQL-Intermediate-2,sumacstech@gmail.com,9844831445,0,suma,a,Intermediate,20/12/2019,MS-SQL
+20,DWC-Intermediate-1,sumacstech@gmail.com,9844831445,13,suma,a,Intermediate,20/12/2019,DW Concepts
+16,T-SQL-Intermediate-2,sumacstech@gmail.com,9844831445,11,suma,a,Intermediate,20/12/2019,T-SQL
+20,MS-SQL-Intermediate-2,hemasundar4999@gmail.com,8270320705,7,hema,sundar,Intermediate,20/12/2019,MS-SQL
+20,MS-SQL-Intermediate-3,hemasundar4999@gmail.com,8270320705,9,hema,sundar,Intermediate,20/12/2019,MS-SQL
+20,MS-SQL-Intermediate-2,krishnaprasanthram333@gmail.com,9566995636,11,Krishna,Prasanth R,Intermediate,20/12/2019,MS-SQL
+20,MS-SQL-Intermediate-2,pragyanpari.patro@gmail.com,8249524794,0,Pragyan,Patro,Intermediate,20/12/2019,MS-SQL
+20,MS-SQL-Intermediate-2,msofiya88@gmail.com,9441266520,12,Sofiya,M,Intermediate,20/12/2019,MS-SQL
+20,MS-SQL-Intermediate-2,desaipallavi11@gmail.com,9620197707,13,Pallavi,Desai,Intermediate,23/12/2019,MS-SQL
+16,DWC-Beginner-2,rajesh@aroha.co.in,9845078308,0,rajesh,kumar,Beginner,23/12/2019,DW Concepts
+13,PL-SQL-Intermediate-1,rajesh.k.shanmugam@gmail.com,9845078308,4,Rajesh,Shanmugam,Intermediate,24/12/2019,PL-SQL
+16,T-SQL-Intermediate-1,rajesh.k.shanmugam@gmail.com,9845078308,9,Rajesh,Shanmugam,Intermediate,26/12/2019,T-SQL
+20,DWC-Intermediate-1,rajesh.k.shanmugam@gmail.com,9845078308,18,Rajesh,Shanmugam,Intermediate,26/12/2019,DW Concepts
+20,MS-SQL-Intermediate-1,drhemanth05@gmail.com,7829626721,6,Hemanth,D R,Intermediate,26/12/2019,MS-SQL
+20,ORASQL-Simple-2,bandappa@aroha.co.in,9900699946,6,Bandappa,Basavaraj,Beginner,26/12/2019,Oracle SQL
+20,ORASQL-Simple-3,bandappa@aroha.co.in,9900699946,15,Bandappa,Basavaraj,Beginner,26/12/2019,Oracle SQL
+20,ORASQL-Simple-1,shruthi@aroha.co.in,9686014349,15,Shruthi,D,Beginner,26/12/2019,Oracle SQL
+19,Cognos-Simple-1,drhemanth05@gmail.com,7829626721,13,Hemanth,D R,Beginner,26/12/2019,Cognos
+18,Cognos-Simple-1,meghraj.rakesh00@gmail.com,8544144889,11,Megh Raj,Rakesh,Beginner,26/12/2019,Cognos
+11,Unix/Linux-Simple-1,bandappa@aroha.co.in,9900699946,7,Bandappa,Basavaraj,Beginner,27/12/2019,Unix/Linux
+19,Cognos-Simple-1,renunm29@gmail.com,7619350250,11,Renuka,nagayya,Beginner,27/12/2019,Cognos
+19,Cognos-Simple-1,akchandrama95@gmail.com,7763025791,11,Aakanksha,karn,Beginner,27/12/2019,Cognos
+10,T-SQL-Beginner-1,rajesh@aroha.co.in,9845078308,0,rajesh,kumar,Beginner,30/12/2019,T-SQL
+10,PHP-Simple-1,arunc38@gmail.com,8792424801,3,Arun,C,Beginner,31/12/2019,Php
+16,MS-SQL-Simple-1,shyamliupadhyaya1234@gmail.com,7064781150,8,Shyamali,Upadhyaya,Beginner,31/12/2019,MS-SQL
+20,java-Simple-2,mehulsaha@gmail.com,9473228250,20,Mehul,Raj,Beginner,31/12/2019,JAVA
+20,java-Simple-3,jaideep233@gmail.com,6000892339,10,jaydeep,acharjee,Beginner,31/12/2019,JAVA
+20,java-Simple-2,kaustav1357@gmail.com,9830860590,17,Kaustav,Saha,Beginner,31/12/2019,JAVA
+20,java-Simple-1,araj38334@gmail.com,8825323242,10,Ashish,Raj,Beginner,31/12/2019,JAVA
+20,java-Simple-4,Chebel1993@gmail.com,7760156568,11,Chetan,Belagali,Beginner,31/12/2019,JAVA
+20,java-Simple-2,shyamliupadhyaya1234@gmail.com,7064781150,17,Shyamali,Upadhyaya,Beginner,31/12/2019,JAVA
+20,java-Simple-3,mehulsaha@gmail.com,9473228250,15,Mehul,Raj,Beginner,31/12/2019,JAVA
+11,PL-SQL-Simple-2,ppjoshi28@gmail.com,9850175787,8,pratikj,joshi,Beginner,02/01/2020,PL-SQL
+11,PL-SQL-Simple-1,ruchi1993chauhan@gmail.com,9821599653,8,Ruchika,Chauhan,Beginner,02/01/2020,PL-SQL
+11,PL-SQL-Simple-2,santhoshachar603@gmail.com,9590859896,7,santhosha,acharya,Beginner,02/01/2020,PL-SQL
+11,PL-SQL-Simple-2,ruchi1993chauhan@gmail.com,9821599653,9,Ruchika,Chauhan,Beginner,02/01/2020,PL-SQL
+11,PL-SQL-Simple-4,ppjoshi28@gmail.com,9850175787,9,pratikj,joshi,Beginner,02/01/2020,PL-SQL
+20,java-Simple-5,Chebel1993@gmail.com,7760156568,11,Chetan,Belagali,Beginner,02/01/2020,JAVA
+16,DWC-Simple-1,rajesh.k.shanmugam@gmail.com,9845078308,11,Rajesh,Shanmugam,Beginner,06/01/2020,DW Concepts
+26,ORASQL-Beginner-4,bandappa@aroha.co.in,9900699946,8,Bandappa,Basavaraj,Beginner,20/01/2020,Oracle SQL
+17,T-SQL-Beginner-1,msofiya88@gmail.com,9441266520,0,Sofiya,M,Beginner,20/01/2020,T-SQL
+16,MS-SQL-Beginner-2,sanuk5318@gmail.com,7488057646,0,ashish,vishal,Beginner,20/01/2020,MS-SQL
+17,T-SQL-Beginner-1,krishnaprasanthram333@gmail.com,9566995636,11,Krishna,Prasanth R,Beginner,20/01/2020,T-SQL
+17,T-SQL-Beginner-1,hemasundar4999@gmail.com,8270320705,9,hema,sundar,Beginner,20/01/2020,T-SQL
+17,T-SQL-Beginner-1,pragyanpari.patro@gmail.com,8249524794,10,Pragyan,Patro,Beginner,20/01/2020,T-SQL
+16,T-SQL-Intermediate-2,hollasubramanya92@gmail.com,9483802481,10,subramanya,holla,Intermediate,22/01/2020,T-SQL
+20,ORASQL-Simple-1,dhanyasreesailam@gmail.com,9538822852,8,Dhanya,V G,Beginner,28/01/2020,Oracle SQL
+19,ORASQL-Simple-1,deepikamis9@gmail.com,8770841211,11,Deepika,Mishra,Beginner,28/01/2020,Oracle SQL
+20,ORASQL-Simple-1,pradhans900@gmail.com,7504286165,10,sonali,pradhan,Beginner,28/01/2020,Oracle SQL
+18,ReactJS-Simple-2,arunc38@gmail.com,8792424801,14,Arun,C,Beginner,28/01/2020,ReactJS
+19,ORASQL-Intermediate-4,deepikamis9@gmail.com,8770841211,8,Deepika,Mishra,Intermediate,28/01/2020,Oracle SQL
+20,ORASQL-Simple-6,dhanyasreesailam@gmail.com,9538822852,13,Dhanya,V G,Beginner,28/01/2020,Oracle SQL
+19,ORASQL-Intermediate-8,dhanyasreesailam@gmail.com,9538822852,8,Dhanya,V G,Intermediate,28/01/2020,Oracle SQL
+24,ORASQL-Intermediate-2,pradhans900@gmail.com,7504286165,7,sonali,pradhan,Beginner,05/12/2019,Oracle SQL
+19,ORASQL-Intermediate-7,pradhans900@gmail.com,7504286165,11,sonali,pradhan,Intermediate,28/01/2020,Oracle SQL
+10,MS-SQL-Complex-1,hemasundar4999@gmail.com,8270320705,4,hema,sundar,Expert,28/01/2020,MS-SQL
+10,MS-SQL-Complex-1,krishnaprasanthram333@gmail.com,9566995636,4,Krishna,Prasanth R,Expert,28/01/2020,MS-SQL
+10,MS-SQL-Complex-1,prashanthnkkp65@gmail.com,8762968934,6,prashanth,n,Expert,28/01/2020,MS-SQL
+10,MS-SQL-Complex-1,msofiya88@gmail.com,9441266520,5,Sofiya,M,Expert,28/01/2020,MS-SQL
+19,ORASQL-Intermediate-1,arunc38@gmail.com,8792424801,3,Arun,C,Intermediate,28/01/2020,Oracle SQL
+10,MS-SQL-Complex-2,arunc38@gmail.com,8792424801,3,Arun,C,Expert,28/01/2020,MS-SQL
+19,ORASQL-Intermediate-2,arunc38@gmail.com,8792424801,3,Arun,C,Intermediate,28/01/2020,Oracle SQL
+16,MS-SQL-Simple-2,deepikamis9@gmail.com,8770841211,12,Deepika,Mishra,Beginner,28/01/2020,MS-SQL
+20,ORASQL-Simple-7,dhanyasreesailam@gmail.com,9538822852,15,Dhanya,V G,Beginner,28/01/2020,Oracle SQL
+19,ORASQL-Intermediate-9,dhanyasreesailam@gmail.com,9538822852,8,Dhanya,V G,Intermediate,28/01/2020,Oracle SQL
+17,MS-SQL-Beginner-1,ps1381606@gmail.com,8800248375,7,pooja,kumari,Beginner,31/01/2020,MS-SQL
+17,MS-SQL-Beginner-1,ankit.mishra1990p@gmail.com,8085413702,4,ankit,mishra,Beginner,03/02/2020,MS-SQL
+18,ReactJS-Simple-1,manasa.rangaswamy@aroha.co.in,9844623145,13,Mansasa,Rangaswamy,Beginner,05/02/2020,ReactJS
+10,MS-SQL-Complex-3,arunc38@gmail.com,8792424801,1,Arun,C,Expert,12/02/2020,MS-SQL
+11,PL-SQL-Simple-1,dhanyasreesailam@gmail.com,9538822852,5,Dhanya,V G,Beginner,13/02/2020,PL-SQL
+20,ORASQL-Simple-3,pradhans900@gmail.com,7504286165,12,sonali,pradhan,Beginner,13/02/2020,Oracle SQL
+11,PL-SQL-Simple-1,deepikamis9@gmail.com,8770841211,5,Deepika,Mishra,Beginner,13/02/2020,PL-SQL
+17,MS-SQL-Simple-1,roopreddi95@gmail.com,9880350367,7,ROOPA,PATIL,Beginner,13/02/2020,MS-SQL
+17,MS-SQL-Simple-1,rachin.pant@gmail.com,9008153210,13,Rachinkumar,Pant,Beginner,13/02/2020,MS-SQL
+17,MS-SQL-Simple-1,drp.montu@gmail.com,9439005515,6,Dipti Ranjan,Panigrahy,Beginner,13/02/2020,MS-SQL
+11,PL-SQL-Simple-2,dhanyasreesailam@gmail.com,9538822852,10,Dhanya,V G,Beginner,13/02/2020,PL-SQL
+17,MS-SQL--1,nandinipatilm88@gmail.com,8147650381,10,Nandini,Patil,Beginner,13/02/2020,MS-SQL
+20,ORASQL-Complex-1,deepikamis9@gmail.com,8770841211,5,Deepika,Mishra,Expert,13/02/2020,Oracle SQL
+11,PL-SQL-Simple-1,pradhans900@gmail.com,7504286165,11,sonali,pradhan,Beginner,13/02/2020,PL-SQL
+17,MS-SQL-Simple-2,mangala.dvg310@gmail.com,9742161929,9,Mangala,B,Beginner,13/02/2020,MS-SQL
+20,ORASQL-Simple-8,dhanyasreesailam@gmail.com,9538822852,13,Dhanya,V G,Beginner,13/02/2020,Oracle SQL
+20,MS-SQL-Intermediate-2,mangala.dvg310@gmail.com,9742161929,9,Mangala,B,Intermediate,13/02/2020,MS-SQL
+19,ORASQL-Intermediate-10,dhanyasreesailam@gmail.com,9538822852,11,Dhanya,V G,Intermediate,13/02/2020,Oracle SQL
+19,ORASQL-Intermediate-8,pradhans900@gmail.com,7504286165,9,sonali,pradhan,Intermediate,13/02/2020,Oracle SQL
+20,ORASQL-Simple-2,deepikamis9@gmail.com,8770841211,15,Deepika,Mishra,Beginner,13/02/2020,Oracle SQL
+20,ORASQL-Complex-1,pradhans900@gmail.com,7504286165,6,sonali,pradhan,Expert,13/02/2020,Oracle SQL
+17,T-SQL-Simple-2,mangala.dvg310@gmail.com,9742161929,7,Mangala,B,Beginner,14/02/2020,T-SQL
+20,MS-SQL-Intermediate-1,Chandunyp@gmail.com,9700121483,0,Chanra,K,Intermediate,17/02/2020,MS-SQL
+17,MS-SQL-Simple-2,Chandunyp@gmail.com,9700121483,0,Chanra,K,Beginner,17/02/2020,MS-SQL
+17,MS-SQL-Simple-3,roopreddi95@gmail.com,9880350367,12,ROOPA,PATIL,Beginner,19/02/2020,MS-SQL
+17,MS-SQL-Simple-2,rachin.pant@gmail.com,9008153210,15,Rachinkumar,Pant,Beginner,19/02/2020,MS-SQL
+17,MS-SQL-Simple-2,nandinipatilm88@gmail.com,8147650381,14,Nandini,Patil,Beginner,19/02/2020,MS-SQL
+19,ORASQL-Intermediate-2,ruchi1993chauhan@gmail.com,9821599653,10,Ruchika,Chauhan,Intermediate,19/02/2020,Oracle SQL
+20,MS-SQL-Intermediate-2,renunm29@gmail.com,7619350250,9,Renuka,nagayya,Intermediate,19/02/2020,MS-SQL
+19,ORASQL-Intermediate-11,dhanyasreesailam@gmail.com,9538822852,13,Dhanya,V G,Intermediate,19/02/2020,Oracle SQL
+19,ORASQL-Intermediate-5,deepikamis9@gmail.com,8770841211,12,Deepika,Mishra,Intermediate,19/02/2020,Oracle SQL
+20,ORASQL-Simple-4,pradhans900@gmail.com,7504286165,11,sonali,pradhan,Beginner,19/02/2020,Oracle SQL
+11,PL-SQL-Simple-3,dhanyasreesailam@gmail.com,9538822852,9,Dhanya,V G,Beginner,19/02/2020,PL-SQL
+19,ORASQL-Intermediate-9,pradhans900@gmail.com,7504286165,12,sonali,pradhan,Intermediate,19/02/2020,Oracle SQL
+11,PL-SQL-Simple-2,deepikamis9@gmail.com,8770841211,7,Deepika,Mishra,Beginner,19/02/2020,PL-SQL
+20,ORASQL-Simple-9,dhanyasreesailam@gmail.com,9538822852,9,Dhanya,V G,Beginner,19/02/2020,Oracle SQL
+20,ORASQL-Simple-3,deepikamis9@gmail.com,8770841211,13,Deepika,Mishra,Beginner,19/02/2020,Oracle SQL
+16,T-SQL-Intermediate-1,renunm29@gmail.com,7619350250,9,Renuka,nagayya,Intermediate,19/02/2020,T-SQL
+13,PL-SQL-Intermediate-1,ruchi1993chauhan@gmail.com,9821599653,10,Ruchika,Chauhan,Intermediate,19/02/2020,PL-SQL
+11,PL-SQL-Simple-3,pradhans900@gmail.com,7504286165,10,sonali,pradhan,Beginner,19/02/2020,PL-SQL
+11,PL-SQL-Simple-4,pradhans900@gmail.com,7504286165,10,sonali,pradhan,Beginner,19/02/2020,PL-SQL
+19,ORASQL-Intermediate-1,renunm29@gmail.com,7619350250,15,Renuka,nagayya,Intermediate,19/02/2020,Oracle SQL
+13,PL-SQL-Intermediate-1,renunm29@gmail.com,7619350250,11,Renuka,nagayya,Intermediate,19/02/2020,PL-SQL
+17,MS-SQL-Simple-4,roopreddi95@gmail.com,9880350367,16,ROOPA,PATIL,Beginner,19/02/2020,MS-SQL
+17,MS-SQL-Simple-3,rachin.pant@gmail.com,9008153210,17,Rachinkumar,Pant,Beginner,19/02/2020,MS-SQL
+17,MS-SQL-Simple-3,nandinipatilm88@gmail.com,8147650381,15,Nandini,Patil,Beginner,19/02/2020,MS-SQL
+20,ORASQL-Simple-5,bandappa@aroha.co.in,9900699946,15,Bandappa,Basavaraj,Beginner,25/02/2020,Oracle SQL
+20,ORASQL-Simple-1,mahendranviji333@gmail.com,9629828237,10,Mahendran,N,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-1,siddeshbagali13@gmail.com,8884629508,8,siddesh,bagali,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-1,nkasnaveenkumar@gmail.com,9550028427,14,NAVEEN,KUMAR,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-1,ps1381606@gmail.com,8800248375,7,pooja,kumari,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-1,madhurik666@gmail.com,9538643069,12,KATAKAM,MADHURI,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-1,chaithra1695@gmail.com,9449457887,7,Chaithra,T K,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-1,shridharbhardwaj@gmail.com,8410178155,8,Shridhar,Bhardwaj,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-1,ilavarasu43@gmail.com,7829961609,13,ilavarasu,s,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-1,shailendran70@gmail.com,8770065751,10,Shailendra,Yadav,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-1,nadellanaveenkumar16@gmail.com,8328166977,13,Naveen kumar,Nadella,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-3,msarunkumar30@gmail.com,8110852014,12,ARUN,KUMAR,Beginner,27/02/2020,Oracle SQL
+20,ORASQL-Simple-1,ruby23cloud@gmail.com,7892159826,7,grace,rubila,Beginner,27/02/2020,Oracle SQL
+20,javascript-Simple-1,4mailping@gmail.com,9074540573,5,aroha,aroha,Beginner,29/02/2020,JavaScript
+20,ORASQL-Simple-2,nadellanaveenkumar16@gmail.com,8328166977,13,Naveen kumar,Nadella,Beginner,29/02/2020,Oracle SQL
+20,ORASQL-Simple-2,madhurik666@gmail.com,9538643069,15,KATAKAM,MADHURI,Beginner,29/02/2020,Oracle SQL
+10,MS-SQL-Complex-2,krishnaprasanthram333@gmail.com,9566995636,6,Krishna,Prasanth R,Expert,06/03/2020,MS-SQL
+10,MS-SQL-Complex-2,msofiya88@gmail.com,9441266520,2,Sofiya,M,Expert,06/03/2020,MS-SQL
+17,MS-SQL-Simple-2,shyamliupadhyaya1234@gmail.com,7064781150,8,Shyamali,Upadhyaya,Beginner,06/03/2020,MS-SQL
+20,ORASQL-Complex-1,ppjoshi28@gmail.com,9850175787,1,pratikj,joshi,Expert,06/03/2020,Oracle SQL
+20,ORASQL-Complex-1,santhoshachar603@gmail.com,9590859896,7,santhosha,acharya,Expert,06/03/2020,Oracle SQL
+10,MS-SQL-Complex-2,hollasubramanya92@gmail.com,9483802481,4,subramanya,holla,Expert,06/03/2020,MS-SQL
+16,T-SQL-Intermediate-1,krishnaprasanthram333@gmail.com,9566995636,7,Krishna,Prasanth R,Intermediate,06/03/2020,T-SQL
+16,T-SQL-Intermediate-1,msofiya88@gmail.com,9441266520,7,Sofiya,M,Intermediate,06/03/2020,T-SQL
+10,PL-SQL-Complex-1,ppjoshi28@gmail.com,9850175787,2,pratikj,joshi,Expert,06/03/2020,PL-SQL
+20,DWC-Intermediate-1,krishnaprasanthram333@gmail.com,9566995636,10,Krishna,Prasanth R,Intermediate,06/03/2020,DW Concepts
+16,T-SQL-Intermediate-3,hollasubramanya92@gmail.com,9483802481,10,subramanya,holla,Intermediate,06/03/2020,T-SQL
+20,MS-SQL-Intermediate-1,roopreddi95@gmail.com,9880350367,7,ROOPA,PATIL,Intermediate,06/03/2020,MS-SQL
+20,MS-SQL-Intermediate-1,rachin.pant@gmail.com,9008153210,10,Rachinkumar,Pant,Intermediate,06/03/2020,MS-SQL
+20,DWC-Intermediate-1,ppjoshi28@gmail.com,9850175787,5,pratikj,joshi,Intermediate,06/03/2020,DW Concepts
+17,MS-SQL-Simple-4,nandinipatilm88@gmail.com,8147650381,9,Nandini,Patil,Beginner,06/03/2020,MS-SQL
+10,PL-SQL-Complex-1,santhoshachar603@gmail.com,9590859896,5,santhosha,acharya,Expert,06/03/2020,PL-SQL
+20,DWC-Intermediate-1,msofiya88@gmail.com,9441266520,12,Sofiya,M,Intermediate,06/03/2020,DW Concepts
+20,DWC-Intermediate-1,santhoshachar603@gmail.com,9590859896,6,santhosha,acharya,Intermediate,06/03/2020,DW Concepts
+20,DWC-Intermediate-1,hollasubramanya92@gmail.com,9483802481,10,subramanya,holla,Intermediate,06/03/2020,DW Concepts
+20,MS-SQL-Intermediate-5,nandinipatilm88@gmail.com,8147650381,11,Nandini,Patil,Beginner,06/03/2020,MS-SQL
+10,Tableau-Simple-2,deepikamis9@gmail.com,8770841211,6,Deepika,Mishra,Beginner,06/03/2020,Tableau
+10,Tableau-Simple-1,dhanyasreesailam@gmail.com,9538822852,7,Dhanya,V G,Beginner,06/03/2020,Tableau
+10,Tableau-Simple-1,pradhans900@gmail.com,7504286165,7,sonali,pradhan,Beginner,06/03/2020,Tableau
+20,ORASQL-Complex-2,dhanyasreesailam@gmail.com,9538822852,9,Dhanya,V G,Expert,06/03/2020,Oracle SQL
+20,ORASQL-Complex-3,pradhans900@gmail.com,7504286165,9,sonali,pradhan,Expert,06/03/2020,Oracle SQL
+20,ORASQL-Complex-2,deepikamis9@gmail.com,8770841211,7,Deepika,Mishra,Expert,06/03/2020,Oracle SQL
+13,PL-SQL-Intermediate-1,deepikamis9@gmail.com,8770841211,5,Deepika,Mishra,Intermediate,06/03/2020,PL-SQL
+13,PL-SQL-Intermediate-2,pradhans900@gmail.com,7504286165,8,sonali,pradhan,Intermediate,06/03/2020,PL-SQL
+13,PL-SQL-Intermediate-1,dhanyasreesailam@gmail.com,9538822852,10,Dhanya,V G,Intermediate,06/03/2020,PL-SQL
+10,MS-SQL-Complex-1,mangala.dvg310@gmail.com,9742161929,2,Mangala,B,Expert,06/03/2020,MS-SQL
+19,ORASQL-Intermediate-1,nkasnaveenkumar@gmail.com,9550028427,11,NAVEEN,KUMAR,Intermediate,06/03/2020,Oracle SQL
+19,ORASQL-Intermediate-1,mahendranviji333@gmail.com,9629828237,6,Mahendran,N,Intermediate,06/03/2020,Oracle SQL
+19,ORASQL-Intermediate-1,msarunkumar30@gmail.com,8110852014,12,ARUN,KUMAR,Intermediate,06/03/2020,Oracle SQL
+20,ORASQL-Complex-1,ruchi1993chauhan@gmail.com,9821599653,13,Ruchika,Chauhan,Expert,06/03/2020,Oracle SQL
+19,ORASQL-Intermediate-1,madhurik666@gmail.com,9538643069,9,KATAKAM,MADHURI,Intermediate,06/03/2020,Oracle SQL
+19,ORASQL-Intermediate-1,nadellanaveenkumar16@gmail.com,8328166977,12,Naveen kumar,Nadella,Intermediate,06/03/2020,Oracle SQL
+19,ORASQL-Intermediate-1,chaithra1695@gmail.com,9449457887,9,Chaithra,T K,Intermediate,06/03/2020,Oracle SQL
+20,MS-SQL-Intermediate-4,hemasundar4999@gmail.com,8270320705,6,hema,sundar,Intermediate,06/03/2020,MS-SQL
+19,ORASQL-Intermediate-2,shridharbhardwaj@gmail.com,8410178155,9,Shridhar,Bhardwaj,Intermediate,06/03/2020,Oracle SQL
+19,ORASQL-Intermediate-1,shailendran70@gmail.com,8770065751,10,Shailendra,Yadav,Intermediate,06/03/2020,Oracle SQL
+19,ORASQL-Intermediate-1,ilavarasu43@gmail.com,7829961609,11,ilavarasu,s,Intermediate,06/03/2020,Oracle SQL
+19,ORASQL-Intermediate-1,siddeshbagali13@gmail.com,8884629508,6,siddesh,bagali,Intermediate,06/03/2020,Oracle SQL
+16,T-SQL-Intermediate-2,mangala.dvg310@gmail.com,9742161929,6,Mangala,B,Intermediate,06/03/2020,T-SQL
+10,MS-SQL-Complex-2,prashanthnkkp65@gmail.com,8762968934,4,prashanth,n,Expert,06/03/2020,MS-SQL
+16,T-SQL-Intermediate-1,hemasundar4999@gmail.com,8270320705,3,hema,sundar,Intermediate,06/03/2020,T-SQL
+10,PL-SQL-Complex-1,ruchi1993chauhan@gmail.com,9821599653,8,Ruchika,Chauhan,Expert,06/03/2020,PL-SQL
+20,DWC-Intermediate-1,hemasundar4999@gmail.com,8270320705,5,hema,sundar,Intermediate,06/03/2020,DW Concepts
+20,DWC-Intermediate-1,ruchi1993chauhan@gmail.com,9821599653,6,Ruchika,Chauhan,Intermediate,06/03/2020,DW Concepts
+16,T-SQL-Intermediate-2,prashanthnkkp65@gmail.com,8762968934,7,prashanth,n,Intermediate,06/03/2020,T-SQL
+20,DWC-Intermediate-1,mangala.dvg310@gmail.com,9742161929,11,Mangala,B,Intermediate,06/03/2020,DW Concepts
+16,T-SQL-Intermediate-2,hemasundar4999@gmail.com,8270320705,8,hema,sundar,Intermediate,06/03/2020,T-SQL
+10,MS-SQL-Complex-2,hemasundar4999@gmail.com,8270320705,5,hema,sundar,Expert,06/03/2020,MS-SQL
+14,POWER BI-Simple-1,ruchi1993chauhan@gmail.com,9821599653,8,Ruchika,Chauhan,Beginner,06/03/2020,POWER BI
+20,DWC-Intermediate-1,prashanthnkkp65@gmail.com,8762968934,13,prashanth,n,Intermediate,06/03/2020,DW Concepts
+14,POWER BI-Simple-2,hemasundar4999@gmail.com,8270320705,7,hema,sundar,Beginner,06/03/2020,POWER BI
+14,POWER BI-Simple-1,mangala.dvg310@gmail.com,9742161929,6,Mangala,B,Beginner,06/03/2020,POWER BI
+14,POWER BI-Simple-1,prashanthnkkp65@gmail.com,8762968934,10,prashanth,n,Beginner,06/03/2020,POWER BI
+19,ORASQL-Complex-1,4mailping@gmail.com,9074540573,1,aroha,aroha,Expert,08/03/2020,Oracle SQL
+20,ORASQL-Complex-2,4mailping@gmail.com,9074540573,0,aroha,aroha,Expert,09/03/2020,Oracle SQL
+20,ORASQL-Complex-3,4mailping@gmail.com,9074540573,0,aroha,aroha,Expert,09/03/2020,Oracle SQL
+20,ORASQL-Complex-4,4mailping@gmail.com,9074540573,0,aroha,aroha,Expert,09/03/2020,Oracle SQL
+18,ReactJS-Simple-3,arunc38@gmail.com,8792424801,0,Arun,C,Beginner,20/03/2020,ReactJS
+19,MS-SQL-Simple-2,ajitaj7777@gmail.com,7892042070,7,Ajit,Aj,Beginner,25/03/2020,MS-SQL
+20,ORASQL-Simple-4,siddeshbagali13@gmail.com,8884629508,12,siddesh,bagali,Beginner,25/03/2020,Oracle SQL
+20,ORASQL-Simple-5,pradhans900@gmail.com,7504286165,14,sonali,pradhan,Beginner,25/03/2020,Oracle SQL
+19,ORASQL-Intermediate-10,pradhans900@gmail.com,7504286165,9,sonali,pradhan,Intermediate,25/03/2020,Oracle SQL
+20,ORASQL-Simple-3,madhurik666@gmail.com,9538643069,16,KATAKAM,MADHURI,Beginner,25/03/2020,Oracle SQL
+19,ORASQL-Intermediate-5,siddeshbagali13@gmail.com,8884629508,13,siddesh,bagali,Beginner,25/03/2020,Oracle SQL
+18,MS-SQL-Simple-1,akkishivaraj303@gmail.com,8050879454,9,Shivaraj,Akkivat,Beginner,25/03/2020,MS-SQL
+20,MS-SQL-Intermediate-2,ajitaj7777@gmail.com,7892042070,4,Ajit,Aj,Intermediate,25/03/2020,MS-SQL
+20,ORASQL-Simple-2,mahendranviji333@gmail.com,9629828237,14,Mahendran,N,Beginner,25/03/2020,Oracle SQL
+18,MS-SQL-Simple-1,nidhimurthy1208@gmail.com,9449354957,6,Nidhi,M,Beginner,25/03/2020,MS-SQL
+19,ORASQL-Intermediate-1,changingindia4sure@gmail.com,9711692665,11,Gajendra,Rathor,Intermediate,25/03/2020,Oracle SQL
+19,ORASQL-Intermediate-2,madhurik666@gmail.com,9538643069,13,KATAKAM,MADHURI,Intermediate,25/03/2020,Oracle SQL
+20,MS-SQL-Intermediate-1,akkishivaraj303@gmail.com,8050879454,6,Shivaraj,Akkivat,Intermediate,25/03/2020,MS-SQL
+18,MS-SQL-Simple-6,nandinipatilm88@gmail.com,8147650381,0,Nandini,Patil,Beginner,25/03/2020,MS-SQL
+18,MS-SQL-Simple-1,dharithakar@gmail.com,9067628473,12,Dhari,Thakar,Beginner,25/03/2020,MS-SQL
+18,MS-SQL-Simple-3,shyamliupadhyaya1234@gmail.com,7064781150,15,Shyamali,Upadhyaya,Beginner,25/03/2020,MS-SQL
+20,ORASQL-Simple-5,msarunkumar30@gmail.com,8110852014,11,ARUN,KUMAR,Beginner,25/03/2020,Oracle SQL
+18,MS-SQL-Simple-4,rachin.pant@gmail.com,9008153210,15,Rachinkumar,Pant,Beginner,25/03/2020,MS-SQL
+20,ORASQL-Simple-2,nkasnaveenkumar@gmail.com,9550028427,18,NAVEEN,KUMAR,Beginner,25/03/2020,Oracle SQL
+18,MS-SQL-Simple-7,nandinipatilm88@gmail.com,8147650381,13,Nandini,Patil,Beginner,25/03/2020,MS-SQL
+19,ORASQL-Intermediate-4,shridharbhardwaj@gmail.com,8410178155,14,Shridhar,Bhardwaj,Intermediate,25/03/2020,Oracle SQL
+20,ORASQL-Simple-10,dhanyasreesailam@gmail.com,9538822852,15,Dhanya,V G,Beginner,25/03/2020,Oracle SQL
+20,ORASQL-Complex-1,siddeshbagali13@gmail.com,8884629508,5,siddesh,bagali,Expert,25/03/2020,Oracle SQL
+18,MS-SQL-Simple-1,manak14gupta@gmail.com,9459097943,9,Manak,Gupta,Beginner,25/03/2020,MS-SQL
+19,ORASQL-Intermediate-2,mahendranviji333@gmail.com,9629828237,10,Mahendran,N,Intermediate,25/03/2020,Oracle SQL
+20,MS-SQL-Intermediate-2,rachin.pant@gmail.com,9008153210,15,Rachinkumar,Pant,Intermediate,25/03/2020,MS-SQL
+20,MS-SQL-Intermediate-1,shyamliupadhyaya1234@gmail.com,7064781150,9,Shyamali,Upadhyaya,Intermediate,25/03/2020,MS-SQL
+20,MS-SQL-Intermediate-10,nandinipatilm88@gmail.com,8147650381,10,Nandini,Patil,Beginner,25/03/2020,MS-SQL
+20,ORASQL-Simple-1,changingindia4sure@gmail.com,9711692665,16,Gajendra,Rathor,Beginner,25/03/2020,Oracle SQL
+24,ORASQL-Intermediate-3,nkasnaveenkumar@gmail.com,9550028427,16,NAVEEN,KUMAR,Beginner,25/03/2020,Oracle SQL
+20,MS-SQL-Intermediate-1,manak14gupta@gmail.com,9459097943,7,Manak,Gupta,Intermediate,25/03/2020,MS-SQL
+20,ORASQL-Complex-1,madhurik666@gmail.com,9538643069,10,KATAKAM,MADHURI,Expert,25/03/2020,Oracle SQL
+19,ORASQL-Intermediate-2,msarunkumar30@gmail.com,8110852014,15,ARUN,KUMAR,Intermediate,25/03/2020,Oracle SQL
+20,ORASQL-Complex-1,changingindia4sure@gmail.com,9711692665,7,Gajendra,Rathor,Expert,25/03/2020,Oracle SQL
+19,ORASQL-Intermediate-12,dhanyasreesailam@gmail.com,9538822852,12,Dhanya,V G,Intermediate,25/03/2020,Oracle SQL
+18,MS-SQL-Simple-1,aki05.july@gmail.com,8109743351,8,akanksha,kumbhaj,Beginner,25/03/2020,MS-SQL
+20,ORASQL-Simple-2,shridharbhardwaj@gmail.com,8410178155,12,Shridhar,Bhardwaj,Beginner,25/03/2020,Oracle SQL
+20,MS-SQL-Intermediate-3,nandinipatilm88@gmail.com,8147650381,7,Nandini,Patil,Intermediate,25/03/2020,MS-SQL
+24,ORASQL-Intermediate-3,nkasnaveenkumar@gmail.com,9550028427,16,NAVEEN,KUMAR,Intermediate,25/03/2020,Oracle SQL
+20,ORASQL-Complex-3,dhanyasreesailam@gmail.com,9538822852,11,Dhanya,V G,Expert,25/03/2020,Oracle SQL
+20,ORASQL-Complex-1,shridharbhardwaj@gmail.com,8410178155,11,Shridhar,Bhardwaj,Expert,25/03/2020,Oracle SQL
+20,MS-SQL-Intermediate-1,nidhimurthy1208@gmail.com,9449354957,4,Nidhi,M,Intermediate,25/03/2020,MS-SQL
+18,MS-SQL-Simple-4,shyamliupadhyaya1234@gmail.com,7064781150,15,Shyamali,Upadhyaya,Beginner,25/03/2020,MS-SQL
+20,ORASQL-Complex-1,nkasnaveenkumar@gmail.com,9550028427,10,NAVEEN,KUMAR,Expert,25/03/2020,Oracle SQL
+20,ORASQL-Simple-2,ilavarasu43@gmail.com,7829961609,14,ilavarasu,s,Beginner,25/03/2020,Oracle SQL
+20,ORASQL-Complex-1,msarunkumar30@gmail.com,8110852014,11,ARUN,KUMAR,Expert,25/03/2020,Oracle SQL
+20,ORASQL-Simple-2,chaithra1695@gmail.com,9449457887,11,Chaithra,T K,Beginner,25/03/2020,Oracle SQL
+19,ORASQL-Intermediate-2,ilavarasu43@gmail.com,7829961609,12,ilavarasu,s,Intermediate,25/03/2020,Oracle SQL
+10,MS-SQL-Complex-1,rachin.pant@gmail.com,9008153210,0,Rachinkumar,Pant,Expert,25/03/2020,MS-SQL
+20,ORASQL-Complex-1,ilavarasu43@gmail.com,7829961609,10,ilavarasu,s,Expert,25/03/2020,Oracle SQL
+19,ORASQL-Intermediate-2,chaithra1695@gmail.com,9449457887,10,Chaithra,T K,Intermediate,25/03/2020,Oracle SQL
+11,PL-SQL-Simple-1,ilavarasu43@gmail.com,7829961609,10,ilavarasu,s,Beginner,25/03/2020,PL-SQL
+20,java-Simple-1,ilavarasu43@gmail.com,7829961609,15,ilavarasu,s,Beginner,25/03/2020,JAVA
+20,ORASQL-Complex-1,chaithra1695@gmail.com,9449457887,10,Chaithra,T K,Expert,25/03/2020,Oracle SQL
+20,ORASQL-Simple-6,nadellanaveenkumar16@gmail.com,8328166977,11,Naveen kumar,Nadella,Beginner,25/03/2020,Oracle SQL
+20,ORASQL-Simple-4,deepikamis9@gmail.com,8770841211,14,Deepika,Mishra,Beginner,25/03/2020,Oracle SQL
+10,Tableau-Simple-3,deepikamis9@gmail.com,8770841211,8,Deepika,Mishra,Beginner,25/03/2020,Tableau
+18,MS-SQL-Simple-1,hariprincy06@gmail.com,7975892246,10,Hari ,Priya,Beginner,25/03/2020,MS-SQL
+11,Python-Simple-1,hariprincy06@gmail.com,7975892246,9,Hari ,Priya,Beginner,25/03/2020,Python
+19,ORASQL-Intermediate-4,nadellanaveenkumar16@gmail.com,8328166977,6,Naveen kumar,Nadella,Intermediate,25/03/2020,Oracle SQL
+20,ORASQL-Simple-1,hariprincy06@gmail.com,7975892246,8,Hari ,Priya,Beginner,25/03/2020,Oracle SQL
+10,Python-Intermediate-1,hariprincy06@gmail.com,7975892246,9,Hari ,Priya,Intermediate,25/03/2020,Python
+20,ORASQL-Simple-2,shailendran70@gmail.com,8770065751,9,Shailendra,Yadav,Beginner,25/03/2020,Oracle SQL
+20,ORASQL-Complex-1,nadellanaveenkumar16@gmail.com,8328166977,7,Naveen kumar,Nadella,Expert,25/03/2020,Oracle SQL
+20,ORASQL-Simple-1,4mailping@gmail.com,9074540573,0,aroha,aroha,Beginner,25/03/2020,Oracle SQL
+10,Tableau-Intermediate-1,deepikamis9@gmail.com,8770841211,7,Deepika,Mishra,Intermediate,26/03/2020,Tableau
+20,javascript-Simple-1,arunc38@gmail.com,8792424801,1,Arun,C,Beginner,01/04/2020,JavaScript
+18,ReactJS-Simple-4,arunc38@gmail.com,8792424801,2,Arun,C,Beginner,01/04/2020,ReactJS
+17,ReactJS-Simple-5,arunc38@gmail.com,8792424801,1,Arun,C,Beginner,02/04/2020,ReactJS
+20,ORASQL--6,ppjoshi28@gmail.com,9850175787,6,pratikj,joshi,Beginner,03/04/2020,Oracle SQL
+10,Tableau-Simple-4,deepikamis9@gmail.com,8770841211,8,Deepika,Mishra,Beginner,13/04/2020,Tableau
+10,Tableau-Intermediate-3,deepikamis9@gmail.com,8770841211,5,Deepika,Mishra,Intermediate,13/04/2020,Tableau
+10,Tableau-Complex-1,deepikamis9@gmail.com,8770841211,4,Deepika,Mishra,Expert,13/04/2020,Tableau
+20,MS-SQL-Intermediate-2,roopreddi95@gmail.com,9880350367,13,ROOPA,PATIL,Intermediate,15/04/2020,MS-SQL
+20,MS-SQL-Intermediate-3,roopreddi95@gmail.com,9880350367,15,ROOPA,PATIL,Intermediate,15/04/2020,MS-SQL
+20,Digital Resources SQL,rajesh@mitiweb.com,9845078308,16,rajesh,kumar,Beginner,20/04/2020,Oracle SQL
+20,Digital Resources SQL,mehulsaha@gmail.com,9473228250,12,Mehul,Raj,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,jaideep233@gmail.com,6000892339,8,jaydeep,acharjee,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,manasa.rangaswamy@aroha.co.in,9844623145,15,Mansasa,Rangaswamy,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,ananthamadhava95@gmail.com,9740544464,14,Anantha,Madhava,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,shailendra.kumar@aroha.co.in,7031113604,14,shailendra,kumar,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,ssoumyakulkarni101@gmail.com,8095964708,9,soumya,kulkarni,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,araj38334@gmail.com,8825323242,14,Ashish,Raj,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,Chebel1993@gmail.com,7760156568,12,Chetan,Belagali,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,venkat.reddy@aroha.co.in,8790010929,13,venkat,reddy,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,pr@gmail.com,123456,16,pratibhatest,test,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,arunc38@gmail.com,8792424801,16,Arun,C,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,manjunath.va@aroha.co.in,8861694491,12,Manjunath,VA,Beginner,21/04/2020,Oracle SQL
+20,Digital Resources SQL,shashank.av@aroha.co.in,8951551557,12,shashank,AV,Beginner,21/04/2020,Oracle SQL
+16,DWC-Beginner-1,manak14gupta@gmail.com,9459097943,6,Manak,Gupta,Beginner,28/04/2020,DW Concepts
+16,DWC-Beginner-2,shyamliupadhyaya1234@gmail.com,7064781150,5,Shyamali,Upadhyaya,Beginner,28/04/2020,DW Concepts
+16,DWC-Beginner-1,dharithakar@gmail.com,9067628473,5,Dhari,Thakar,Beginner,28/04/2020,DW Concepts
+20,DWC-Intermediate-3,prashanthnkkp65@gmail.com,8762968934,11,prashanth,n,Intermediate,28/04/2020,DW Concepts
+16,DWC-Beginner-4,shyamliupadhyaya1234@gmail.com,7064781150,16,Shyamali,Upadhyaya,Beginner,28/04/2020,DW Concepts
+20,DWC-Intermediate-1,shyamliupadhyaya1234@gmail.com,7064781150,8,Shyamali,Upadhyaya,Intermediate,28/04/2020,DW Concepts
+18,MS-SQL-Beginner-1,shailendra.kumar@aroha.co.in,7031113604,0,shailendra,kumar,Beginner,30/04/2020,MS-SQL
+40,SSAS Tabular Model Developer Paper,msofiya88@gmail.com,9441266520,31,Sofiya,M,Consolidated,01/05/2020,Consolidated
+40,SSAS Tabular Model Developer Paper,shyamliupadhyaya1234@gmail.com,7064781150,29,Shyamali,Upadhyaya,Consolidated,01/05/2020,Consolidated
+40,SSAS Tabular Model Developer Paper,manak14gupta@gmail.com,9459097943,32,Manak,Gupta,Consolidated,02/05/2020,Consolidated
+40,SSAS Tabular Model Developer Paper,dharithakar@gmail.com,9067628473,29,Dhari,Thakar,Consolidated,02/05/2020,Consolidated
+40,SSAS Tabular Model Developer Paper,krishnaprasanthram333@gmail.com,9566995636,33,Krishna,Prasanth R,Consolidated,01/05/2020,Consolidated
+40,SSAS Tabular Model Developer Paper,prashanthnkkp65@gmail.com,8762968934,30,prashanth,n,Consolidated,02/05/2020,Consolidated
+40,SSAS Tabular Model Developer Paper,hemasundar4999@gmail.com,8270320705,31,hema,sundar,Consolidated,01/05/2020,Consolidated
+18,MS-SQL-Beginner-3,deepikamis9@gmail.com,8770841211,13,Deepika,Mishra,Beginner,01/05/2020,MS-SQL
+20,Digital Resources SQL,vibha@gmail.com,1234567,5,Vibha,Hg,Beginner,11/05/2020,Oracle SQL
+40,SSAS Tabular Model Developer Paper,vibha@gmail.com,1234567,0,Vibha,Hg,Consolidated,11/05/2020,Consolidated
+10,MS-SQL-Expert-3,pr@gmail.com,123456,3,pratibhatest,test,Expert,11/05/2020,MS-SQL
+18,MS-SQL-Beginner-1,pr@gmail.com,123456,5,pratibhatest,test,Beginner,11/05/2020,MS-SQL
+10,MS-SQL-Expert-4,pr@gmail.com,123456,0,pratibhatest,test,Expert,11/05/2020,MS-SQL
+32,javascript-Beginner-1,pr@gmail.com,123456,8,pratibhatest,test,Beginner,24/04/2020,JavaScript

@@ -1,0 +1,399 @@
+First_Name,Last_Name,email,phone,Skill_Level,Topic_Name,employee,Total_Marks,Correct_Answers
+pallavi,b,123pallavibiradar@gmail.com,7795740325,Beginner,MS-SQL,True,29,10
+Megh Raj,Rakesh,meghraj.rakesh00@gmail.com,8544144889,Beginner,MS-SQL,True,36,18
+aditya,j,aditya.j@aroha.co.in,9513333027,Beginner,MS-SQL,True,16,10
+bandappa,basavaraj,bandappa@gmail.com,9900699946,Beginner,MS-SQL,False,13,5
+malavika,Ramanathan,malavikamr23@gmail.com,7625094264,Beginner,MS-SQL,True,36,26
+sankha,ghosh,sankha.ghosh91@gmail.com,7384985814,Beginner,MS-SQL,True,43,23
+Renuka,nagayya,renunm29@gmail.com,7619350250,Beginner,Oracle SQL,True,4,2
+Sayani,Banerjee,19banerjee.sayani92@gmail.com,7003397486,Beginner,MS-SQL,True,17,12
+mangesh,jagtap,asmangesh27@gmail.com,9611104881,Beginner,MS-SQL,False,15,10
+pallavi,gubbe,pallavigubbe@gmail.com,8197142517,Beginner,MS-SQL,True,17,7
+vinayak,jadhav,vinayakjadhav423@gmail.com,9535203663,Beginner,MS-SQL,True,36,18
+Venkateshkumar,S,svenkateshkumar93@gmail.com,9566548603,Beginner,MS-SQL,True,34,22
+Divyasree,K,divyasreedijesh@gmail.com,9947996443,Beginner,MS-SQL,True,16,10
+Renuka,nagayya,renunm29@gmail.com,7619350250,Beginner,MS-SQL,True,24,12
+prashanth,n,prashanthnkkp65@gmail.com,8762968934,Beginner,MS-SQL,True,59,6
+Shivam,Yadav,shivamyy9023@gmail.com,9670901819,Beginner,MS-SQL,True,36,19
+bhargav,b,ballagiribhargav@gmail.com,7702608968,Beginner,MS-SQL,False,54,33
+rahul,cr,rahulcr104@gmail.com,9986980246,Beginner,MS-SQL,True,16,9
+suraj,N,suraj.narayan@aroha.co.in,9886228615,Intermediate,Oracle SQL,True,11,5
+Renuka,nagayya,renunm29@gmail.com,7619350250,Intermediate,MS-SQL,True,40,21
+pallavi,gubbe,pallavigubbe@gmail.com,8197142517,Intermediate,Oracle SQL,True,43,21
+pallavi,gubbe,pallavigubbe@gmail.com,8197142517,Beginner,Oracle SQL,True,57,26
+santhosha,acharya,santhoshachar603@gmail.com,9590859896,Beginner,Oracle SQL,True,56,27
+pratikj,joshi,ppjoshi28@gmail.com,9850175787,Beginner,Oracle SQL,True,72,35
+Shameenaabdul,abdul,shameenaaabdul@gmail.com,9008179436,Expert,Oracle SQL,True,17,4
+Shivam,Yadav,shivamyy9023@gmail.com,9670901819,Beginner,Oracle SQL,True,1,1
+Sayani,Banerjee,19banerjee.sayani92@gmail.com,7003397486,Beginner,Oracle SQL,True,17,7
+manjushreemp,mp,manjupgowda92@gmail.com,8892025017,Beginner,Oracle SQL,True,20,12
+Mangesh b,b,asmangesh36@gmail.com,9611104881,Intermediate,Oracle SQL,True,49,25
+Mangesh b,b,asmangesh36@gmail.com,9611104881,Beginner,MS-SQL,True,19,9
+Harsha,H,harsha.hn31@gmail.com,9845921887,Intermediate,MS-SQL,True,30,17
+kusum,sahu,kusumsahu3103@gmail.com,8770544679,Beginner,MS-SQL,False,17,8
+Monica,sharma,monika.sharma6125@gmail.com,7973112325,Beginner,MS-SQL,True,28,5
+prashant,tonk,prashant.tonk88@gmail.com,7042234073,Beginner,MS-SQL,True,15,10
+subramanya,holla,hollasubramanya92@gmail.com,9483802481,Intermediate,MS-SQL,True,38,24
+sourav,sahana,souravsahana95@gmail.com,9113892470,Beginner,MS-SQL,True,18,11
+suma,a,sumacstech@gmail.com,9844831445,Beginner,MS-SQL,True,36,26
+Dinesh,sahu,dineshmodi8889019752@gmail.com,8889019752,Beginner,Oracle SQL,False,38,7
+Ruchika,Chauhan,ruchi1993chauhan@gmail.com,9821599653,Beginner,Oracle SQL,True,33,14
+Shantala,kulkarni,shantala12@gmail.com,9663648391,Beginner,Oracle SQL,True,33,21
+Malini,HS,hsmalini28@gmail.com,9686746079,Beginner,Oracle SQL,True,33,17
+Shilpa,Bashetti,shilpabashetti1995@gmail.com,7756005059,Beginner,Oracle SQL,False,53,21
+Anamika,kumari,anamika.29.kunwar@gmail.com,8376893202,Beginner,Oracle SQL,True,32,11
+Aakanksha,karn,akchandrama95@gmail.com,7763025791,Beginner,Oracle SQL,True,72,24
+Aakanksha,karn,akchandrama95@gmail.com,7763025791,Beginner,MS-SQL,True,20,12
+Anamika,kumari,anamika.29.kunwar@gmail.com,8376893202,Beginner,MS-SQL,True,19,14
+Dinesh,sahu,dineshmodi8889019752@gmail.com,8889019752,Beginner,MS-SQL,False,20,10
+Ruchika,Chauhan,ruchi1993chauhan@gmail.com,9821599653,Beginner,MS-SQL,True,20,12
+Shantala,kulkarni,shantala12@gmail.com,9663648391,Beginner,MS-SQL,True,20,14
+Shilpa,Bashetti,shilpabashetti1995@gmail.com,7756005059,Beginner,MS-SQL,False,20,8
+Malini,HS,hsmalini28@gmail.com,9686746079,Beginner,MS-SQL,True,19,16
+Shameenaabdul,abdul,shameenaaabdul@gmail.com,9008179436,Beginner,MS-SQL,True,20,10
+Shameenaabdul,abdul,shameenaaabdul@gmail.com,9008179436,Beginner,PL-SQL,True,10,6
+pratikj,joshi,ppjoshi28@gmail.com,9850175787,Beginner,MS-SQL,True,18,9
+pratikj,joshi,ppjoshi28@gmail.com,9850175787,Beginner,PL-SQL,True,28,21
+santhosha,acharya,santhoshachar603@gmail.com,9590859896,Beginner,MS-SQL,True,20,12
+santhosha,acharya,santhoshachar603@gmail.com,9590859896,Beginner,PL-SQL,True,21,13
+prashanth,n,prashanthnkkp65@gmail.com,8762968934,Intermediate,T-SQL,True,31,13
+prashanth,n,prashanthnkkp65@gmail.com,8762968934,Intermediate,MS-SQL,True,19,9
+bhargav,b,ballagiribhargav@gmail.com,7702608968,Intermediate,Oracle SQL,False,15,7
+bhargav,b,ballagiribhargav@gmail.com,7702608968,Intermediate,PL-SQL,False,12,9
+bhargav,b,ballagiribhargav@gmail.com,7702608968,Intermediate,T-SQL,False,15,4
+Venkateshkumar,S,svenkateshkumar93@gmail.com,9566548603,Intermediate,MS-SQL,True,19,8
+Venkateshkumar,S,svenkateshkumar93@gmail.com,9566548603,Intermediate,DW Concepts,True,12,2
+Venkateshkumar,S,svenkateshkumar93@gmail.com,9566548603,Intermediate,T-SQL,True,14,5
+vinayak,jadhav,vinayakjadhav423@gmail.com,9535203663,Intermediate,MS-SQL,True,20,12
+vinayak,jadhav,vinayakjadhav423@gmail.com,9535203663,Intermediate,T-SQL,True,15,6
+vinayak,jadhav,vinayakjadhav423@gmail.com,9535203663,Intermediate,DW Concepts,True,12,5
+gayathri,patrl,gayatripammi@gmail.com,9440456689,Beginner,MS-SQL,True,20,14
+pallavi,gubbe,pallavigubbe@gmail.com,8197142517,Intermediate,PL-SQL,True,34,7
+pallavi,gubbe,pallavigubbe@gmail.com,8197142517,Intermediate,DW Concepts,True,24,5
+Shameenaabdul,abdul,shameenaaabdul@gmail.com,9008179436,Beginner,Oracle SQL,True,59,26
+suma,a,sumacstech@gmail.com,9844831445,Beginner,T-SQL,True,16,11
+subramanya,holla,hollasubramanya92@gmail.com,9483802481,Beginner,T-SQL,True,17,12
+subramanya,holla,hollasubramanya92@gmail.com,9483802481,Beginner,MS-SQL,True,18,13
+sourav,sahana,souravsahana95@gmail.com,9113892470,Intermediate,MS-SQL,True,18,6
+sourav,sahana,souravsahana95@gmail.com,9113892470,Beginner,T-SQL,True,16,8
+Harsha,H,harsha.hn31@gmail.com,9845921887,Beginner,T-SQL,True,17,11
+Mangesh b,b,asmangesh36@gmail.com,9611104881,Beginner,Unix/Linux,True,11,6
+prashant,tonk,prashant.tonk88@gmail.com,7042234073,Beginner,T-SQL,True,17,10
+prashant,tonk,prashant.tonk88@gmail.com,7042234073,Intermediate,MS-SQL,True,20,9
+Monica,sharma,monika.sharma6125@gmail.com,7973112325,Beginner,T-SQL,True,17,12
+Monica,sharma,monika.sharma6125@gmail.com,7973112325,Intermediate,MS-SQL,True,20,7
+suma,a,sumacstech@gmail.com,9844831445,Intermediate,MS-SQL,True,40,8
+Renuka,nagayya,renunm29@gmail.com,7619350250,Beginner,Unix/Linux,True,11,1
+Sayani,Banerjee,19banerjee.sayani92@gmail.com,7003397486,Beginner,Unix/Linux,True,11,5
+sankha,ghosh,sankha.ghosh91@gmail.com,7384985814,Beginner,Unix/Linux,True,11,9
+Megh Raj,Rakesh,meghraj.rakesh00@gmail.com,8544144889,Beginner,Unix/Linux,True,10,8
+bhargav,b,ballaguribhargav@gmail.com,7702608968,Intermediate,Unix/Linux,False,10,4
+Mangesh b,b,asmangesh36@gmail.com,9611104881,Intermediate,PL-SQL,True,12,5
+Mangesh b,b,asmangesh36@gmail.com,9611104881,Intermediate,DW Concepts,True,12,10
+Megh Raj,Rakesh,meghraj.rakesh00@gmail.com,8544144889,Intermediate,T-SQL,True,13,6
+Megh Raj,Rakesh,meghraj.rakesh00@gmail.com,8544144889,Intermediate,DW Concepts,True,12,8
+Megh Raj,Rakesh,meghraj.rakesh00@gmail.com,8544144889,Intermediate,MS-SQL,True,20,7
+rahul,cr,rahulcr104@gmail.com,9986980246,Intermediate,DW Concepts,True,12,8
+rahul,cr,rahulcr104@gmail.com,9986980246,Intermediate,PL-SQL,True,12,4
+rahul,cr,rahulcr104@gmail.com,9986980246,Intermediate,Oracle SQL,True,19,10
+rahul,cr,rahulcr104@gmail.com,9986980246,Intermediate,T-SQL,True,2,1
+rahul,cr,rahulcr104@gmail.com,9986980246,Beginner,T-SQL,True,17,6
+rahul,cr,rahulcr104@gmail.com,9986980246,Intermediate,MS-SQL,True,20,7
+Suresh,T,sureshtheerthamalai@gmail.com,9944770480,Beginner,MS-SQL,True,18,11
+Sayani,Banerjee,19banerjee.sayani92@gmail.com,7003397486,Intermediate,DW Concepts,True,12,8
+Sayani,Banerjee,19banerjee.sayani92@gmail.com,7003397486,Intermediate,PL-SQL,True,11,5
+aruntest,test,pratibhagodekar@gmail.com,8967976486,Beginner,MS-SQL,True,38,4
+Sayani,Banerjee,19banerjee.sayani92@gmail.com,7003397486,Intermediate,Oracle SQL,True,17,6
+test,test,aroha.social@gmail.com,5843976846,Intermediate,MS-SQL,False,20,2
+manjushreemp,mp,manjupgowda92@gmail.com,8892025017,Intermediate,DW Concepts,True,12,10
+manjushreemp,mp,manjupgowda92@gmail.com,8892025017,Intermediate,PL-SQL,True,12,0
+manjushreemp,mp,manjupgowda92@gmail.com,8892025017,Intermediate,Oracle SQL,True,19,0
+malavika,Ramanathan,malavikamr23@gmail.com,7625094264,Intermediate,DW Concepts,True,12,0
+malavika,Ramanathan,malavikamr23@gmail.com,7625094264,Intermediate,T-SQL,True,15,0
+malavika,Ramanathan,malavikamr23@gmail.com,7625094264,Intermediate,MS-SQL,True,20,0
+Masroor E,Alam,masroor2502@gmail.com,9844089120,Beginner,MS-SQL,True,36,12
+sankha,ghosh,sankha.ghosh91@gmail.com,7384985814,Intermediate,Oracle SQL,True,18,9
+sankha,ghosh,sankha.ghosh91@gmail.com,7384985814,Intermediate,PL-SQL,True,12,3
+sankha,ghosh,sankha.ghosh91@gmail.com,7384985814,Intermediate,MS-SQL,True,15,7
+sankha,ghosh,sankha.ghosh91@gmail.com,7384985814,Intermediate,T-SQL,True,13,7
+sankha,ghosh,sankha.ghosh91@gmail.com,7384985814,Intermediate,DW Concepts,True,14,10
+malini,HS,hsmalini28@gmai.com,9686746079,Intermediate,Oracle SQL,False,19,9
+Shantala,kulkarni,shantala12@gmail.com,9663648391,Intermediate,Oracle SQL,True,19,0
+Ruchika,Chauhan,ruchi1993chauhan@gmail.com,9821599653,Intermediate,Oracle SQL,True,38,10
+Dinesh,sahu,dineshmodi8889019752@gmail.com,8889019752,Intermediate,Oracle SQL,False,19,0
+Shivam,Yadav,shivamyy9023@gmail.com,9670901819,Intermediate,T-SQL,True,9,0
+soumya,kulkarni,ssoumyakulkarni101@gmail.com,8095964708,Beginner,JAVA,False,17,7
+pratibha,godekar,prattu@gmail.com,8867119329,Beginner,MS-SQL,False,18,0
+pratt,ghvfgyfg,jjm@gmail.com,4527758555,Beginner,MS-SQL,False,18,0
+ty,fh,fh@gmail.com,5545845555,Beginner,T-SQL,False,17,0
+Divyasree,K,divyasreedijesh@gmail.com,9947996443,Intermediate,T-SQL,True,16,8
+Divyasree,K,divyasreedijesh@gmail.com,9947996443,Intermediate,MS-SQL,True,20,11
+Shruthi,H,shruthi.r305@gmail.com,8088240428,Beginner,MS-SQL,True,18,10
+manjushreemp,mp,manjupgowda92@gmail.com,8892025017,Beginner,Unix/Linux,True,11,9
+manjushreemp,mp,manjupgowda92@gmail.com,8892025017,Intermediate,Unix/Linux,True,10,6
+manjushreemp,mp,manjupgowda92@gmail.com,8892025017,Expert,Unix/Linux,True,16,8
+Masroor E,Alam,masroor2502@gmail.com,9844089120,Intermediate,MS-SQL,True,20,7
+Masroor E,Alam,masroor2502@gmail.com,9844089120,Expert,MS-SQL,True,11,0
+Nafeez,md,nafeezmd5@gmail.com,8892769601,Beginner,MS-SQL,True,18,0
+Chetan,Belagali,Chebel1993@gmail.com,7760156568,Beginner,JAVA,False,119,50
+Mehul,Raj,mehulsaha@gmail.com,9473228250,Beginner,JAVA,True,60,51
+Rahul,kumar,rahul66@gmail.com,8825325462,Intermediate,JAVA,False,5,1
+Ashish,Raj,araj38334@gmail.com,8825323242,Intermediate,JAVA,False,5,1
+Kaustav,Saha,kaustav1357@gmail.com,9830860590,Intermediate,JAVA,True,10,4
+jaydeep,acharjee,jaideep233@gmail.com,6000892339,Beginner,JAVA,False,50,13
+Mehul,Raj,mehulsaha@gmail.com,9473228250,Beginner,Oracle SQL,True,40,19
+Chetan,Belagali,Chebel1993@gmail.com,7760156568,Beginner,Oracle SQL,False,40,19
+hema,sundar,hemasundar4999@gmail.com,8270320705,Beginner,MS-SQL,True,32,8
+pragyan,patro,pragyan@gmail.com,8249524794,Beginner,MS-SQL,False,16,6
+Jhanhavi,V,jhanhaviv325@gmail.com,9738320833,Beginner,MS-SQL,True,32,7
+Hemanth,D R,drhemanth05@gmail.com,7829626721,Beginner,MS-SQL,True,23,0
+Sofiya,M,msofiya88@gmail.com,9441266520,Beginner,MS-SQL,True,32,12
+Krishna,Prasanth R,krishnaprasanthram333@gmail.com,9566995636,Beginner,MS-SQL,True,32,13
+Pallavi,Desai,desaipallavi11@gmail.com,9620197707,Beginner,MS-SQL,True,32,8
+bandappa,basavaraj,bandappa@gmail.com,9900699946,Beginner,Oracle SQL,False,25,15
+suma,a,sumacstech@gmail.com,9844831445,Intermediate,T-SQL,True,32,17
+subramanya,holla,hollasubramanya92@gmail.com,9483802481,Expert,MS-SQL,True,20,7
+subramanya,holla,hollasubramanya92@gmail.com,9483802481,Intermediate,T-SQL,True,48,28
+kanchan,Srivastava,kanchansrivastava1993@gmail.com,9008110271,Beginner,Oracle SQL,False,20,6
+grace,rubila,ruby23cloud@gmail.com,7892159826,Beginner,MS-SQL,False,16,0
+kiran,kumar,k.kirankumar424@gmail.com,9398163133,Beginner,MS-SQL,False,40,0
+kiran,kumar,k.kirankumar424@gmail.com,9398163133,Intermediate,MS-SQL,False,20,5
+pranay,Kumar,pranay@gmail.com,9876543210,Intermediate,JAVA,False,5,4
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,7064781150,Beginner,JAVA,True,34,17
+MohammedShanavaj,Pajanigar,shanavajgkk@gmail.com,7259994435,Intermediate,MS-SQL,False,7,0
+MohammedShanavaj,Pajanigar,shanavajgkk@gmail.com,7259994435,Beginner,T-SQL,False,17,5
+sanju,kumar,sanjukumarhegge5@gmail.com,8123535561,Beginner,Oracle SQL,False,20,7
+sanju,kumar,sanjukumarhegge5@gmail.com,8123535561,Beginner,RDBMS,False,2,1
+padamalatha,padamalatha,padmalathajain1969@gmail.com,8722480977,Beginner,MS-SQL,False,27,14
+padamalatha,padamalatha,padamalatha1969@gmail.com,8722480977,Beginner,MS-SQL,False,16,11
+M,Deepa,deepamb1998@gmail.com,8870795247,Beginner,MS-SQL,False,3,0
+padamalatha,padamalatha,padamalatha199@gmail.com,8722480977,Beginner,JAVA,False,11,9
+M,Deepa,deepamb1998@gmail.com,8870795247,Intermediate,MS-SQL,False,20,7
+M,Deepa,deepamb1998@gmail.com,8870795247,Beginner,JAVA,False,7,0
+M,Deepa,deepamb1998@gmail.com,8870795247,Beginner,T-SQL,False,10,0
+Megh Raj,Rakesh,meghraj.rakesh00@gmail.com,8544144889,Intermediate,RDBMS,True,2,2
+ktsksyl,gkxfuflto,bxhc@gmail.com,9999999999,Expert,MS-SQL,False,12,1
+hnagab,vanajvaab,najfab@gmail.com,5566666648,Beginner,JAVA,False,8,7
+gaqhbvg,zzhhjb,ihgsaagv@gmail.com,7664144556,Beginner,JAVA,False,20,13
+gxxylxylxlyx,ygyccuvuc,gkztkxtkxylx@gmail.com,7617627627,Beginner,JAVA,False,20,17
+niaganka,vkajafanjjz,gauatjaoaanb@gmail.com,9462484672,Beginner,Oracle SQL,False,33,12
+cuculculcyl,fKtTztlzlzl,tKKtzlyxylxyl@gmail.com,2762762765,Beginner,RDBMS,False,2,0
+Soundararajan,M,soundarit1995@gmail.com,7845360097,Beginner,MS-SQL,False,16,7
+Soundararajan,M,soundarit1995@gmail.com,7845360097,Beginner,Oracle SQL,False,31,4
+BHARATH,KUMAR,bharathkumartr22@gmail.com,7829832378,Beginner,MS-SQL,False,16,8
+Deepika,Mishra,deepikamis9@gmail.com,8770841211,Beginner,MS-SQL,True,50,36
+punithraj,BB,punith.bgowda18@gmail.com,9880611915,Beginner,MS-SQL,False,16,9
+BHARATH,KUMAR,bharathkumartr22@gmail.com,7829832378,Intermediate,MS-SQL,False,24,10
+Deepika,Mishra,deepikamis9@gmail.com,8770841211,Expert,MS-SQL,True,10,1
+BHARATH,KUMAR,bharathkumartr22@gmail.com,7829832378,Expert,MS-SQL,False,10,5
+BHARATH,KUMAR,bharathkumartr22@gmail.com,7829832378,Beginner,JAVA,False,30,0
+BHARATH,KUMAR,bharathkumartr22@gmail.com,7829832378,Beginner,Oracle SQL,False,3,0
+sonali,pradhan,pradhans900@gmail.com,7504286165,Intermediate,Oracle SQL,True,119,55
+Rameezraja,Pajanigar,rameezraja405@gmail.com,8746863383,Intermediate,RDBMS,False,1,1
+Rameezraja,Pajanigar,rameezraja405@gmail.com,8746863383,Beginner,RDBMS,False,2,1
+Rameezraja,Pajanigar,rameezraja405@gmail.com,8746863383,Beginner,MS-SQL,False,13,0
+sam,malviya,samarthmalviya161@gmail.com,9538207408,Intermediate,Oracle SQL,False,19,8
+deepesh,kul,kulkarnideepesh@gmail.com,8878222830,Beginner,Oracle SQL,False,20,9
+manish,solanki,manishsolanki.oist@gmail.com,7997105667,Beginner,Oracle SQL,False,20,10
+ashish,vishal,sanuk5318@gmail.com,7488057646,Beginner,MS-SQL,False,27,0
+ashish,sharma,ashishsharma@gmail.com,7785666230,Beginner,Unix/Linux,False,11,9
+shahrukh,khan,khanshahrukh@gmail.com,9941522367,Beginner,DW Concepts,False,16,7
+rishab,raj,rishabraj121@gmail.com,7456382964,Beginner,PL-SQL,False,11,5
+pulla,reddy,pullareddy88@gmail.com,9534207568,Beginner,Oracle SQL,False,20,7
+Ragini,Soni,raginisoni131413cse@gmail.com,9981707502,Intermediate,RDBMS,False,2,1
+Ragini,Soni,raginisoni131413cse@gmail.com,9981707502,Intermediate,JAVA,False,3,0
+Ragini,Soni,raginisoni131413cse@gmail.com,9981707502,Beginner,Oracle SQL,False,20,8
+nitya,reddy,nityaredey638@gmail.com,8898666483,Beginner,Oracle SQL,False,20,5
+Krishna,Prasanth R,krishnaprasanthram333@gmail.com,9566995636,Intermediate,MS-SQL,True,40,17
+hema,sundar,hemasundar4999@gmail.com,8270320705,Intermediate,MS-SQL,True,71,22
+Sofiya,M,msofiya88@gmail.com,9441266520,Intermediate,MS-SQL,True,40,23
+Pallavi,Desai,desaipallavi11@gmail.com,9620197707,Intermediate,MS-SQL,True,40,24
+Jhanhavi,V,jhanhaviv325@gmail.com,9738320833,Intermediate,MS-SQL,True,20,9
+Mangala,B,mangala.dvg310@gmail.com,9742161929,Intermediate,MS-SQL,True,40,13
+Mangala,B,mangala.dvg310@gmail.com,9742161929,Intermediate,T-SQL,True,22,6
+Pragyan,Patro,pragyanpari.patro@gmail.com,8249524794,Beginner,MS-SQL,True,16,9
+Pragyan,Patro,pragyanpari.patro@gmail.com,8249524794,Intermediate,MS-SQL,True,40,7
+shef,allah,shaifallah638@gmail.com,9622864572,Intermediate,Oracle SQL,False,19,1
+Ashish,Raj,araj38334@gmail.com,8825323242,Expert,JAVA,False,1,0
+Hari,Kishor,harikishor.kg@aroha.co.in,7411836775,Expert,JAVA,True,1,0
+rajesh,kumar,rajesh@aroha.co.in,9845078308,Beginner,MS-SQL,True,16,13
+Hari,Kishor,harikishor.kg@aroha.co.in,7411836775,Intermediate,JAVA,True,5,1
+prattu,hg,prattuhg@gmail.com,8867119329,Beginner,MS-SQL,False,32,5
+Arun,C,arunc38@gmail.com,8792424801,Beginner,ReactJS,True,79,19
+rajesh,kumar,rajesh@aroha.co.in,9845078308,Beginner,DW Concepts,True,32,9
+suraj,N,surajaroha@gmail.com,9886228615,Beginner,DW Concepts,False,16,3
+prattu,hg,prattuhg@gmail.com,8867119329,Beginner,T-SQL,False,17,5
+bandappa,basavaraj,bandappa@gmail.com,9900699946,Intermediate,Unix/Linux,False,10,0
+suma,a,sumacstech@gmail.com,9844831445,Intermediate,DW Concepts,True,20,13
+Rajesh,Shanmugam,rajesh.k.shanmugam@gmail.com,9845078308,Intermediate,PL-SQL,False,13,4
+Rajesh,Shanmugam,rajesh.k.shanmugam@gmail.com,9845078308,Intermediate,T-SQL,False,16,9
+Rajesh,Shanmugam,rajesh.k.shanmugam@gmail.com,9845078308,Intermediate,DW Concepts,False,20,18
+Hemanth,D R,drhemanth05@gmail.com,7829626721,Intermediate,MS-SQL,True,20,6
+Bandappa,Basavaraj,bandappa@aroha.co.in,9900699946,Beginner,Oracle SQL,True,86,44
+Shruthi,D,shruthi@aroha.co.in,9686014349,Beginner,Oracle SQL,True,20,15
+Hemanth,D R,drhemanth05@gmail.com,7829626721,Beginner,Cognos,True,19,13
+Megh Raj,Rakesh,meghraj.rakesh00@gmail.com,8544144889,Beginner,Cognos,True,18,11
+Bandappa,Basavaraj,bandappa@aroha.co.in,9900699946,Beginner,Unix/Linux,True,11,7
+Renuka,nagayya,renunm29@gmail.com,7619350250,Beginner,Cognos,True,19,11
+Aakanksha,karn,akchandrama95@gmail.com,7763025791,Beginner,Cognos,True,19,11
+rajesh,kumar,rajesh@aroha.co.in,9845078308,Beginner,T-SQL,True,10,0
+Arun,C,arunc38@gmail.com,8792424801,Beginner,Php,True,10,3
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,7064781150,Beginner,MS-SQL,True,69,46
+Kaustav,Saha,kaustav1357@gmail.com,9830860590,Beginner,JAVA,True,20,17
+Ashish,Raj,araj38334@gmail.com,8825323242,Beginner,JAVA,False,20,10
+Ruchika,Chauhan,ruchi1993chauhan@gmail.com,9821599653,Beginner,PL-SQL,True,22,17
+Rajesh,Shanmugam,rajesh.k.shanmugam@gmail.com,9845078308,Beginner,DW Concepts,False,16,11
+Sofiya,M,msofiya88@gmail.com,9441266520,Beginner,T-SQL,True,17,0
+Krishna,Prasanth R,krishnaprasanthram333@gmail.com,9566995636,Beginner,T-SQL,True,17,11
+hema,sundar,hemasundar4999@gmail.com,8270320705,Beginner,T-SQL,True,17,9
+Pragyan,Patro,pragyanpari.patro@gmail.com,8249524794,Beginner,T-SQL,True,17,10
+Dhanya,V G,dhanyasreesailam@gmail.com,9538822852,Beginner,Oracle SQL,True,120,73
+Deepika,Mishra,deepikamis9@gmail.com,8770841211,Beginner,Oracle SQL,True,79,53
+sonali,pradhan,pradhans900@gmail.com,7504286165,Beginner,Oracle SQL,True,104,54
+Deepika,Mishra,deepikamis9@gmail.com,8770841211,Intermediate,Oracle SQL,True,38,20
+Dhanya,V G,dhanyasreesailam@gmail.com,9538822852,Intermediate,Oracle SQL,True,95,52
+hema,sundar,hemasundar4999@gmail.com,8270320705,Expert,MS-SQL,True,20,9
+Krishna,Prasanth R,krishnaprasanthram333@gmail.com,9566995636,Expert,MS-SQL,True,20,10
+prashanth,n,prashanthnkkp65@gmail.com,8762968934,Expert,MS-SQL,True,20,10
+Sofiya,M,msofiya88@gmail.com,9441266520,Expert,MS-SQL,True,20,7
+Arun,C,arunc38@gmail.com,8792424801,Intermediate,Oracle SQL,True,38,6
+Arun,C,arunc38@gmail.com,8792424801,Expert,MS-SQL,True,20,4
+pooja,kumari,ps1381606@gmail.com,8800248375,Beginner,MS-SQL,False,17,7
+ankit,mishra,ankit.mishra1990p@gmail.com,8085413702,Beginner,MS-SQL,False,17,4
+Mansasa,Rangaswamy,manasa.rangaswamy@aroha.co.in,9844623145,Beginner,ReactJS,True,18,13
+Dhanya,V G,dhanyasreesailam@gmail.com,9538822852,Beginner,PL-SQL,True,33,24
+Deepika,Mishra,deepikamis9@gmail.com,8770841211,Beginner,PL-SQL,True,22,12
+ROOPA,PATIL,roopreddi95@gmail.com,9880350367,Beginner,MS-SQL,True,51,35
+Rachinkumar,Pant,rachin.pant@gmail.com,9008153210,Beginner,MS-SQL,True,69,60
+Dipti Ranjan,Panigrahy,drp.montu@gmail.com,9439005515,Beginner,MS-SQL,False,17,6
+Nandini,Patil,nandinipatilm88@gmail.com,8147650381,Beginner,MS-SQL,False,144,82
+Deepika,Mishra,deepikamis9@gmail.com,8770841211,Expert,Oracle SQL,True,40,12
+sonali,pradhan,pradhans900@gmail.com,7504286165,Beginner,PL-SQL,True,33,31
+Mangala,B,mangala.dvg310@gmail.com,9742161929,Beginner,MS-SQL,True,17,9
+sonali,pradhan,pradhans900@gmail.com,7504286165,Expert,Oracle SQL,True,40,15
+Mangala,B,mangala.dvg310@gmail.com,9742161929,Beginner,T-SQL,True,17,7
+Chanra,K,Chandunyp@gmail.com,9700121483,Intermediate,MS-SQL,False,20,0
+Chanra,K,Chandunyp@gmail.com,9700121483,Beginner,MS-SQL,False,17,0
+Renuka,nagayya,renunm29@gmail.com,7619350250,Intermediate,T-SQL,True,16,9
+Ruchika,Chauhan,ruchi1993chauhan@gmail.com,9821599653,Intermediate,PL-SQL,True,13,10
+Renuka,nagayya,renunm29@gmail.com,7619350250,Intermediate,Oracle SQL,True,19,15
+Renuka,nagayya,renunm29@gmail.com,7619350250,Intermediate,PL-SQL,True,13,11
+Mahendran,N,mahendranviji333@gmail.com,9629828237,Beginner,Oracle SQL,False,40,24
+siddesh,bagali,siddeshbagali13@gmail.com,8884629508,Beginner,Oracle SQL,False,59,33
+NAVEEN,KUMAR,nkasnaveenkumar@gmail.com,9550028427,Beginner,Oracle SQL,True,64,48
+pooja,kumari,ps1381606@gmail.com,8800248375,Beginner,Oracle SQL,False,20,7
+KATAKAM,MADHURI,madhurik666@gmail.com,9538643069,Beginner,Oracle SQL,False,60,43
+Chaithra,T K,chaithra1695@gmail.com,9449457887,Beginner,Oracle SQL,False,40,18
+Shridhar,Bhardwaj,shridharbhardwaj@gmail.com,8410178155,Beginner,Oracle SQL,False,40,20
+ilavarasu,s,ilavarasu43@gmail.com,7829961609,Beginner,Oracle SQL,False,40,27
+Shailendra,Yadav,shailendran70@gmail.com,8770065751,Beginner,Oracle SQL,False,40,19
+Naveen kumar,Nadella,nadellanaveenkumar16@gmail.com,8328166977,Beginner,Oracle SQL,True,60,37
+ARUN,KUMAR,msarunkumar30@gmail.com,8110852014,Beginner,Oracle SQL,False,40,23
+grace,rubila,ruby23cloud@gmail.com,7892159826,Beginner,Oracle SQL,False,20,7
+aroha,aroha,4mailping@gmail.com,9074540573,Beginner,JavaScript,False,20,5
+pratikj,joshi,ppjoshi28@gmail.com,9850175787,Expert,Oracle SQL,True,20,1
+santhosha,acharya,santhoshachar603@gmail.com,9590859896,Expert,Oracle SQL,True,20,7
+Krishna,Prasanth R,krishnaprasanthram333@gmail.com,9566995636,Intermediate,T-SQL,True,16,7
+Sofiya,M,msofiya88@gmail.com,9441266520,Intermediate,T-SQL,True,16,7
+pratikj,joshi,ppjoshi28@gmail.com,9850175787,Expert,PL-SQL,True,10,2
+Krishna,Prasanth R,krishnaprasanthram333@gmail.com,9566995636,Intermediate,DW Concepts,True,20,10
+ROOPA,PATIL,roopreddi95@gmail.com,9880350367,Intermediate,MS-SQL,True,60,35
+Rachinkumar,Pant,rachin.pant@gmail.com,9008153210,Intermediate,MS-SQL,True,40,25
+pratikj,joshi,ppjoshi28@gmail.com,9850175787,Intermediate,DW Concepts,True,20,5
+santhosha,acharya,santhoshachar603@gmail.com,9590859896,Expert,PL-SQL,True,10,5
+Sofiya,M,msofiya88@gmail.com,9441266520,Intermediate,DW Concepts,True,20,12
+santhosha,acharya,santhoshachar603@gmail.com,9590859896,Intermediate,DW Concepts,True,20,6
+subramanya,holla,hollasubramanya92@gmail.com,9483802481,Intermediate,DW Concepts,True,20,10
+Deepika,Mishra,deepikamis9@gmail.com,8770841211,Beginner,Tableau,True,30,22
+Dhanya,V G,dhanyasreesailam@gmail.com,9538822852,Beginner,Tableau,True,10,7
+sonali,pradhan,pradhans900@gmail.com,7504286165,Beginner,Tableau,True,10,7
+Dhanya,V G,dhanyasreesailam@gmail.com,9538822852,Expert,Oracle SQL,True,40,20
+Deepika,Mishra,deepikamis9@gmail.com,8770841211,Intermediate,PL-SQL,True,13,5
+sonali,pradhan,pradhans900@gmail.com,7504286165,Intermediate,PL-SQL,True,13,8
+Dhanya,V G,dhanyasreesailam@gmail.com,9538822852,Intermediate,PL-SQL,True,13,10
+Mangala,B,mangala.dvg310@gmail.com,9742161929,Expert,MS-SQL,True,10,2
+NAVEEN,KUMAR,nkasnaveenkumar@gmail.com,9550028427,Intermediate,Oracle SQL,True,43,27
+Mahendran,N,mahendranviji333@gmail.com,9629828237,Intermediate,Oracle SQL,False,38,16
+ARUN,KUMAR,msarunkumar30@gmail.com,8110852014,Intermediate,Oracle SQL,False,38,27
+Ruchika,Chauhan,ruchi1993chauhan@gmail.com,9821599653,Expert,Oracle SQL,True,20,13
+KATAKAM,MADHURI,madhurik666@gmail.com,9538643069,Intermediate,Oracle SQL,False,38,22
+Naveen kumar,Nadella,nadellanaveenkumar16@gmail.com,8328166977,Intermediate,Oracle SQL,True,38,18
+Chaithra,T K,chaithra1695@gmail.com,9449457887,Intermediate,Oracle SQL,False,38,19
+Shridhar,Bhardwaj,shridharbhardwaj@gmail.com,8410178155,Intermediate,Oracle SQL,False,38,23
+Shailendra,Yadav,shailendran70@gmail.com,8770065751,Intermediate,Oracle SQL,False,19,10
+ilavarasu,s,ilavarasu43@gmail.com,7829961609,Intermediate,Oracle SQL,False,38,23
+siddesh,bagali,siddeshbagali13@gmail.com,8884629508,Intermediate,Oracle SQL,False,19,6
+hema,sundar,hemasundar4999@gmail.com,8270320705,Intermediate,T-SQL,True,32,11
+Ruchika,Chauhan,ruchi1993chauhan@gmail.com,9821599653,Expert,PL-SQL,True,10,8
+hema,sundar,hemasundar4999@gmail.com,8270320705,Intermediate,DW Concepts,True,20,5
+Ruchika,Chauhan,ruchi1993chauhan@gmail.com,9821599653,Intermediate,DW Concepts,True,20,6
+Mangala,B,mangala.dvg310@gmail.com,9742161929,Intermediate,DW Concepts,True,20,11
+Ruchika,Chauhan,ruchi1993chauhan@gmail.com,9821599653,Beginner,POWER BI,True,14,8
+prashanth,n,prashanthnkkp65@gmail.com,8762968934,Intermediate,DW Concepts,True,40,24
+hema,sundar,hemasundar4999@gmail.com,8270320705,Beginner,POWER BI,True,14,7
+Mangala,B,mangala.dvg310@gmail.com,9742161929,Beginner,POWER BI,True,14,6
+prashanth,n,prashanthnkkp65@gmail.com,8762968934,Beginner,POWER BI,True,14,10
+aroha,aroha,4mailping@gmail.com,9074540573,Expert,Oracle SQL,False,79,1
+Ajit,Aj,ajitaj7777@gmail.com,7892042070,Beginner,MS-SQL,False,19,7
+Shivaraj,Akkivat,akkishivaraj303@gmail.com,8050879454,Beginner,MS-SQL,False,18,9
+Ajit,Aj,ajitaj7777@gmail.com,7892042070,Intermediate,MS-SQL,False,20,4
+Nidhi,M,nidhimurthy1208@gmail.com,9449354957,Beginner,MS-SQL,False,18,6
+Gajendra,Rathor,changingindia4sure@gmail.com,9711692665,Intermediate,Oracle SQL,False,19,11
+Shivaraj,Akkivat,akkishivaraj303@gmail.com,8050879454,Intermediate,MS-SQL,False,20,6
+Dhari,Thakar,dharithakar@gmail.com,9067628473,Beginner,MS-SQL,False,18,12
+siddesh,bagali,siddeshbagali13@gmail.com,8884629508,Expert,Oracle SQL,False,20,5
+Manak,Gupta,manak14gupta@gmail.com,9459097943,Beginner,MS-SQL,False,18,9
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,7064781150,Intermediate,MS-SQL,True,20,9
+Gajendra,Rathor,changingindia4sure@gmail.com,9711692665,Beginner,Oracle SQL,False,20,16
+Manak,Gupta,manak14gupta@gmail.com,9459097943,Intermediate,MS-SQL,False,20,7
+KATAKAM,MADHURI,madhurik666@gmail.com,9538643069,Expert,Oracle SQL,False,20,10
+Gajendra,Rathor,changingindia4sure@gmail.com,9711692665,Expert,Oracle SQL,False,20,7
+akanksha,kumbhaj,aki05.july@gmail.com,8109743351,Beginner,MS-SQL,False,18,8
+Nandini,Patil,nandinipatilm88@gmail.com,8147650381,Intermediate,MS-SQL,False,20,7
+Shridhar,Bhardwaj,shridharbhardwaj@gmail.com,8410178155,Expert,Oracle SQL,False,20,11
+Nidhi,M,nidhimurthy1208@gmail.com,9449354957,Intermediate,MS-SQL,False,20,4
+NAVEEN,KUMAR,nkasnaveenkumar@gmail.com,9550028427,Expert,Oracle SQL,True,20,10
+ARUN,KUMAR,msarunkumar30@gmail.com,8110852014,Expert,Oracle SQL,False,20,11
+Rachinkumar,Pant,rachin.pant@gmail.com,9008153210,Expert,MS-SQL,True,10,0
+ilavarasu,s,ilavarasu43@gmail.com,7829961609,Expert,Oracle SQL,False,20,10
+ilavarasu,s,ilavarasu43@gmail.com,7829961609,Beginner,PL-SQL,False,11,10
+ilavarasu,s,ilavarasu43@gmail.com,7829961609,Beginner,JAVA,False,20,15
+Chaithra,T K,chaithra1695@gmail.com,9449457887,Expert,Oracle SQL,False,20,10
+Hari ,Priya,hariprincy06@gmail.com,7975892246,Beginner,MS-SQL,False,18,10
+Hari ,Priya,hariprincy06@gmail.com,7975892246,Beginner,Python,False,11,9
+Hari ,Priya,hariprincy06@gmail.com,7975892246,Beginner,Oracle SQL,False,20,8
+Hari ,Priya,hariprincy06@gmail.com,7975892246,Intermediate,Python,False,10,9
+Naveen kumar,Nadella,nadellanaveenkumar16@gmail.com,8328166977,Expert,Oracle SQL,True,20,7
+aroha,aroha,4mailping@gmail.com,9074540573,Beginner,Oracle SQL,False,20,0
+Deepika,Mishra,deepikamis9@gmail.com,8770841211,Intermediate,Tableau,True,20,12
+Arun,C,arunc38@gmail.com,8792424801,Beginner,JavaScript,True,20,1
+Deepika,Mishra,deepikamis9@gmail.com,8770841211,Expert,Tableau,True,10,4
+rajesh,kumar,rajesh@mitiweb.com,9845078308,Beginner,Oracle SQL,False,20,16
+jaydeep,acharjee,jaideep233@gmail.com,6000892339,Beginner,Oracle SQL,False,20,8
+Mansasa,Rangaswamy,manasa.rangaswamy@aroha.co.in,9844623145,Beginner,Oracle SQL,True,20,15
+Anantha,Madhava,ananthamadhava95@gmail.com,9740544464,Beginner,Oracle SQL,True,20,14
+shailendra,kumar,shailendra.kumar@aroha.co.in,7031113604,Beginner,Oracle SQL,True,20,14
+soumya,kulkarni,ssoumyakulkarni101@gmail.com,8095964708,Beginner,Oracle SQL,False,20,9
+Ashish,Raj,araj38334@gmail.com,8825323242,Beginner,Oracle SQL,False,20,14
+venkat,reddy,venkat.reddy@aroha.co.in,8790010929,Beginner,Oracle SQL,True,20,13
+pratibhatest,test,pr@gmail.com,123456,Beginner,Oracle SQL,False,20,16
+Arun,C,arunc38@gmail.com,8792424801,Beginner,Oracle SQL,True,20,16
+Manjunath,VA,manjunath.va@aroha.co.in,8861694491,Beginner,Oracle SQL,True,20,12
+shashank,AV,shashank.av@aroha.co.in,8951551557,Beginner,Oracle SQL,True,20,12
+Manak,Gupta,manak14gupta@gmail.com,9459097943,Beginner,DW Concepts,False,16,6
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,7064781150,Beginner,DW Concepts,True,32,21
+Dhari,Thakar,dharithakar@gmail.com,9067628473,Beginner,DW Concepts,False,16,5
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,7064781150,Intermediate,DW Concepts,True,20,8
+shailendra,kumar,shailendra.kumar@aroha.co.in,7031113604,Beginner,MS-SQL,True,18,0
+Sofiya,M,msofiya88@gmail.com,9441266520,Consolidated,Consolidated,True,40,31
+Shyamali,Upadhyaya,shyamliupadhyaya1234@gmail.com,7064781150,Consolidated,Consolidated,True,40,29
+Manak,Gupta,manak14gupta@gmail.com,9459097943,Consolidated,Consolidated,False,40,32
+Dhari,Thakar,dharithakar@gmail.com,9067628473,Consolidated,Consolidated,False,40,29
+Krishna,Prasanth R,krishnaprasanthram333@gmail.com,9566995636,Consolidated,Consolidated,True,40,33
+prashanth,n,prashanthnkkp65@gmail.com,8762968934,Consolidated,Consolidated,True,40,30
+hema,sundar,hemasundar4999@gmail.com,8270320705,Consolidated,Consolidated,True,40,31
+Vibha,Hg,vibha@gmail.com,1234567,Beginner,Oracle SQL,False,20,5
+Vibha,Hg,vibha@gmail.com,1234567,Consolidated,Consolidated,False,40,0
+pratibhatest,test,pr@gmail.com,123456,Expert,MS-SQL,False,20,3
+pratibhatest,test,pr@gmail.com,123456,Beginner,MS-SQL,False,18,5
+pratibhatest,test,pr@gmail.com,123456,Beginner,JavaScript,False,32,8
